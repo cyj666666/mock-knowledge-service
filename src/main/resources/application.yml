@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+mock:
+  # 离线数据包根目录（相对路径=jar同级，绝对路径=/opt/app/offline-data）
+  data-path: ./offline-data
+  # 统一返参
+  success-code: "0000"
+  success-msg: "数据响应正确!"
+  # 鉴权开关（默认关闭，现场需要时开启）
+  auth-check: false
+
+spring:
+  jackson:
+    default-property-inclusion: non_null
+    date-format: yyyy-MM-dd HH:mm:ss
