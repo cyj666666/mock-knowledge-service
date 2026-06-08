@@ -1,5 +1,5 @@
 server:
-  port: 8080
+  port: 18080
 
 mock:
   # 离线数据包根目录（相对路径=jar同级，绝对路径=/opt/app/offline-data）
