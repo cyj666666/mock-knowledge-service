@@ -8,7 +8,7 @@
 
 1. [项目概述](#1-项目概述)
 2. [业务背景：RM1201 / RM1202 是什么](#2-业务背景rm1201--rm1202-是什么)
-3. [系统架构](#3-系统架构)
+3. [系统架构（含并发分析）](#3-系统架构)
 4. [项目结构](#4-项目结构)
 5. [接口规范](#5-接口规范)
 6. [离线数据包](#6-离线数据包)
@@ -126,7 +126,21 @@ KnowledgeController.handle(request)
                 └─ key 未注册或文件不存在 → {code:"9999", ...}
 ```
 
----
+### 并发支持
+
+当前架构对并发天然友好，无需额外处理：
+
+| 组件 | 线程安全性 | 说明 |
+|------|-----------|------|
+| `KeymapLoader` | `ConcurrentHashMap` | 读多写少，无锁竞争 |
+| `RoutingService` | 无状态设计 | 方法级局部变量，零共享 |
+| `ObjectMapper` | Jackson 官方保证 | 线程安全，全局复用 |
+| `Files.readAllBytes()` | 只读操作 | 多线程并发读同一文件无问题 |
+| Tomcat 线程池 | 默认 200 worker | 挡板场景 QPS 极低，绰绰有余 |
+
+唯一潜在瓶颈是磁盘 IO，但挡板场景调用量少，单次文件读取 < 1ms，无需缓存。未来如需高并发可加 `ConcurrentHashMap` 文件缓存。
+
+```
 
 ## 4. 项目结构
 
@@ -170,7 +184,16 @@ mock-knowledge-service/
 ├── test_rm1202.json                         # 测试用例：内容获取
 ├── test_rm1202_invalid.json                 # 测试用例：无效 key
 │
+├── 物料包/                                   # 客户交付物
+│   ├── mock-knowledge-service.jar
+│   ├── startup.sh
+│   ├── shutdown.sh
+│   ├── 部署说明.md
+│   └── offline-data/
+│
+├── mock-knowledge.tar.gz                    # 交付压缩包
 ├── TEST_REPORT.md                           # 测试报告
+├── DATABASE_SOLUTION.md                     # 数据库版方案设计
 └── PROJECT_GUIDE.md                         # 本文档
 ```
 
@@ -527,6 +550,9 @@ mock:
   # valid-secret-key: xxx              # auth-check=true 时生效
 
 logging:
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n"
+    file: "%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n"
   file:
     path: ./logs                       # 日志目录
     name: ./logs/mock-knowledge-service.log  # 日志文件
@@ -544,6 +570,7 @@ logging:
 | `mock.auth-check` | `false` | 是否校验 account/secretKey |
 | `mock.valid-account` | 无 | 合法 account（auth-check=true 时生效） |
 | `mock.valid-secret-key` | 无 | 合法 secretKey（auth-check=true 时生效） |
+| `logging.pattern.file` | 含 `[%thread]` | 日志格式（含线程号） |
 | `logging.file.name` | `./logs/mock-knowledge-service.log` | 业务日志落盘位置 |
 | `logging.logback.rollingpolicy.max-file-size` | `10MB` | 日志滚动大小 |
 | `logging.logback.rollingpolicy.max-history` | `30` | 日志保留天数 |
@@ -582,15 +609,30 @@ tail -f logs/mock-knowledge-service.log
 tail -f logs/console.log
 ```
 
-**关键日志示例：**
+**日志格式：**
+
+所有业务日志统一使用 `[MOCK]` 前缀，通过 `grep '\[MOCK\]' logs/mock-knowledge-service.log` 即可过滤。
 
 ```
-INFO  - 收到请求: transcode=RM1201, entName=..., moduleCode=...
-INFO  - RM1201 查询: entName=..., moduleCode=..., 路径=...
-WARN  - 文件不存在: ...
-WARN  - RM1202 key 未注册: key=...
-ERROR - 文件读取失败: ...
+2026-06-08 15:30:01.234 [http-nio-18080-exec-3] INFO  ... - [MOCK] >> RM1201 entName=北大方正... moduleCode=Service-...
+2026-06-08 15:30:01.235 [http-nio-18080-exec-3] INFO  ... - [MOCK] RM1201 匹配: entName=北大方正... -> ./offline-data/北大方正/.../RM1201.json
+2026-06-08 15:30:01.240 [http-nio-18080-exec-3] INFO  ... - [MOCK] << {"code":"0000","msg":"数据响应正确!","data":[{...}]}
 ```
+
+日志三要素：
+- `[http-nio-18080-exec-3]` — 线程号，区分并发请求
+- `[MOCK]` — 统一前缀，醒目易过滤
+- `<< {...}` — 完整返回报文 JSON
+
+**关键日志说明：**
+
+| 模式 | 含义 |
+|------|------|
+| `>> RM1201 entName=... moduleCode=...` | 收到请求 |
+| `RM1201 匹配: ... -> .../RM1201.json` | 命中数据文件 |
+| `<< {"code":"0000",...}` | 返回报文（超过 2000 字符自动截断） |
+| `文件不存在` | 数据未命中，返回 9999 |
+| `key 未注册` | RM1202 的 key 不在 keymap 中 |
 
 **日志滚动：** 单文件超过 10MB 自动滚动，保留最近 30 天，旧日志压缩为 `.gz`。
 
