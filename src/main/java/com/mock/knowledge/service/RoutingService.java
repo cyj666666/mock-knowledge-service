@@ -23,6 +23,7 @@ import java.nio.file.Paths;
 public class RoutingService {
 
     private static final Logger log = LoggerFactory.getLogger(RoutingService.class);
+    private static final String PFX = "[MOCK] ";
 
     private final AppConfig appConfig;
     private final KeymapLoader keymapLoader;
@@ -43,7 +44,7 @@ public class RoutingService {
         String moduleCode = req.getParams().getModuleCode();
 
         if (isBlank(entName) || isBlank(moduleCode)) {
-            log.warn("RM1201 参数缺失: entName={}, moduleCode={}", entName, moduleCode);
+            log.warn("{}RM1201 参数缺失: entName={}, moduleCode={}", PFX, entName, moduleCode);
             return error("1000", "请求参数不合法: entName/moduleCode 不能为空");
         }
 
@@ -53,7 +54,7 @@ public class RoutingService {
                 .resolve(moduleCode)
                 .resolve("RM1201.json");
 
-        log.info("RM1201 查询: entName={}, moduleCode={}, 路径={}", entName, moduleCode, filePath);
+        log.info("{}RM1201 匹配: entName={} moduleCode={} -> {}", PFX, entName, moduleCode, filePath);
 
         return readAndWrap(filePath);
     }
@@ -66,13 +67,13 @@ public class RoutingService {
         String key = req.getParams().getKey();
 
         if (isBlank(key)) {
-            log.warn("RM1202 参数缺失: key 为空");
+            log.warn("{}RM1202 参数缺失: key 为空", PFX);
             return error("1000", "请求参数不合法: key 不能为空");
         }
 
         String relativePath = keymapLoader.getPath(key);
         if (relativePath == null) {
-            log.warn("RM1202 key 未注册: key={}", key);
+            log.warn("{}RM1202 key 未注册: key={}", PFX, key);
             return error("9999", "无匹配数据");
         }
 
@@ -80,36 +81,31 @@ public class RoutingService {
                 .resolve(relativePath)
                 .resolve("RM1202.json");
 
-        log.info("RM1202 查询: key={}, 路径={}", key, filePath);
+        log.info("{}RM1202 匹配: key={} -> {}", PFX, key, filePath);
 
         return readAndWrap(filePath);
     }
 
-    // ────────────── 内部方法 ──────────────
+    // ------------ private ------------
 
-    /**
-     * 读取 JSON 文件，包装统一返参
-     */
     private KnowledgeResponse readAndWrap(Path filePath) {
         if (!Files.exists(filePath)) {
-            log.warn("文件不存在: {}", filePath.toAbsolutePath());
+            log.warn("{}文件不存在: {}", PFX, filePath.toAbsolutePath());
             return error("9999", "无匹配数据");
         }
         try {
             byte[] bytes = Files.readAllBytes(filePath);
             String content = new String(bytes, StandardCharsets.UTF_8);
-            // 文件内容即 data[0]，包装成数组
             JsonNode dataNode = objectMapper.readTree(content);
             ArrayNode dataArray = objectMapper.createArrayNode();
             dataArray.add(dataNode);
-
             return new KnowledgeResponse(
                     appConfig.getSuccessCode(),
                     appConfig.getSuccessMsg(),
                     dataArray
             );
         } catch (IOException e) {
-            log.error("文件读取失败: {}, error={}", filePath, e.getMessage());
+            log.error("{}文件读取失败: {}, error={}", PFX, filePath, e.getMessage());
             return error("9999", "内部错误: 数据文件解析失败");
         }
     }
@@ -119,9 +115,6 @@ public class RoutingService {
         return new KnowledgeResponse(code, msg, emptyData);
     }
 
-    /**
-     * 企业名 → 安全目录名（替换文件系统非法字符为全角）
-     */
     static String sanitizePath(String name) {
         if (name == null) return "";
         return name.replace("/", "／")
