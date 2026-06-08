@@ -14,3 +14,13 @@ spring:
   jackson:
     default-property-inclusion: non_null
     date-format: yyyy-MM-dd HH:mm:ss
+
+logging:
+  file:
+    path: ./logs
+    name: ./logs/mock-knowledge-service.log
+  logback:
+    rollingpolicy:
+      max-file-size: 10MB
+      max-history: 30
+      file-name-pattern: ./logs/mock-knowledge-service.%d{yyyy-MM-dd}.%i.log.gz

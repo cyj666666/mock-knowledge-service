@@ -149,7 +149,10 @@ mock-knowledge-service/
 │       └── AppConfig.java                   # 可配置项（dataPath / 鉴权等）
 │
 ├── src/main/resources/
-│   └── application.yml                      # 配置（端口、数据路径等）
+│   └── application.yml                      # 配置（端口、数据路径、日志等）
+│
+├── startup.sh                               # Linux 启动脚本（后台运行）
+├── shutdown.sh                              # Linux 停止脚本
 │
 ├── offline-data/                            # 离线数据包（示例）
 │   ├── keymap.json                          # key → 路径映射（只注册内容分析类）
@@ -391,20 +394,88 @@ mvn clean package -DskipTests
 
 ### 7.3 启动
 
+> **注意：** 在 Linux 服务器上务必使用 `nohup` 后台启动，否则关闭终端窗口后进程会终止。
+
+**推荐方式：nohup 后台启动**
+
 ```bash
-# 默认配置（读取 ./offline-data/）
-java -jar mock-knowledge-service.jar
+# 创建日志目录
+mkdir -p logs
 
-# 指定数据路径
-java -jar mock-knowledge-service.jar --mock.data-path=/data/custom-offline
+# 后台启动（日志输出到文件）
+nohup java -jar mock-knowledge-service.jar > logs/console.log 2>&1 &
 
-# 指定端口
-java -jar mock-knowledge-service.jar --server.port=18080
+# 查看启动日志
+tail -f logs/mock-knowledge-service.log
+```
+
+**快捷启动脚本（startup.sh）**
+
+```bash
+#!/bin/bash
+# 部署时放在 jar 同级目录，执行 chmod +x startup.sh && ./startup.sh
+
+# ==================== 配置区域（按需修改） ====================
+SERVER_PORT=18080                          # 服务端口
+DATA_PATH="./offline-data"                 # 离线数据包路径
+JAVA_OPTS="-Xms256m -Xmx512m"             # JVM 参数
+# =============================================================
+
+cd "$(dirname "$0")"
+JAR_NAME="mock-knowledge-service.jar"
+LOG_DIR="logs"
+mkdir -p "$LOG_DIR"
+
+# 杀旧进程
+OLD_PID=$(ps -ef | grep "$JAR_NAME" | grep -v grep | awk '{print $2}')
+if [ -n "$OLD_PID" ]; then
+    echo "[INFO] 停止旧进程 PID=$OLD_PID"
+    kill $OLD_PID
+    sleep 2
+    if ps -p $OLD_PID > /dev/null 2>&1; then
+        kill -9 $OLD_PID
+    fi
+fi
+
+# 启动
+echo "[INFO] 启动 $JAR_NAME (端口=$SERVER_PORT, 数据=$DATA_PATH)"
+nohup java $JAVA_OPTS -jar "$JAR_NAME" \
+    --server.port="$SERVER_PORT" \
+    --mock.data-path="$DATA_PATH" \
+    > "$LOG_DIR/console.log" 2>&1 &
+NEW_PID=$!
+
+sleep 3
+if ps -p $NEW_PID > /dev/null 2>&1; then
+    echo "[INFO] 启动成功 PID=$NEW_PID"
+    tail -5 "$LOG_DIR/mock-knowledge-service.log" 2>/dev/null \
+        || echo "[WARN] 业务日志尚未生成，查看: tail -f $LOG_DIR/console.log"
+else
+    echo "[ERROR] 启动失败"
+    tail -20 "$LOG_DIR/console.log"
+    exit 1
+fi
+```
+
+**指定参数启动**
+
+```bash
+# 指定数据路径和端口
+nohup java -jar mock-knowledge-service.jar \
+    --mock.data-path=/data/custom-offline \
+    --server.port=18080 \
+    > logs/console.log 2>&1 &
 ```
 
 ### 7.4 启动验证
 
-启动成功日志：
+**查看启动日志：**
+
+```bash
+tail -20 logs/mock-knowledge-service.log
+```
+
+启动成功会看到：
 
 ```
 ========================================
@@ -415,7 +486,7 @@ java -jar mock-knowledge-service.jar --server.port=18080
 ========================================
 ```
 
-健康检查：
+**健康检查：**
 
 ```bash
 curl -X POST http://localhost:18080/api/knowledge \
@@ -423,6 +494,18 @@ curl -X POST http://localhost:18080/api/knowledge \
   -d '{"transcode":"RM1201","params":{"entName":"test","moduleCode":"test"}}'
 
 # 期望返回: {"code":"9999","msg":"无匹配数据","data":[]}
+```
+
+**确认进程存活：**
+
+```bash
+ps -ef | grep mock-knowledge-service.jar | grep -v grep
+```
+
+**停止服务：**
+
+```bash
+kill $(ps -ef | grep mock-knowledge-service.jar | grep -v grep | awk '{print $2}')
 ```
 
 ---
@@ -442,6 +525,15 @@ mock:
   auth-check: false                    # 鉴权开关（默认关闭）
   # valid-account: xxx                 # auth-check=true 时生效
   # valid-secret-key: xxx              # auth-check=true 时生效
+
+logging:
+  file:
+    path: ./logs                       # 日志目录
+    name: ./logs/mock-knowledge-service.log  # 日志文件
+  logback:
+    rollingpolicy:
+      max-file-size: 10MB              # 单文件最大 10MB，自动滚动
+      max-history: 30                  # 保留最近 30 天
 ```
 
 | 配置项 | 默认值 | 说明 |
@@ -452,6 +544,9 @@ mock:
 | `mock.auth-check` | `false` | 是否校验 account/secretKey |
 | `mock.valid-account` | 无 | 合法 account（auth-check=true 时生效） |
 | `mock.valid-secret-key` | 无 | 合法 secretKey（auth-check=true 时生效） |
+| `logging.file.name` | `./logs/mock-knowledge-service.log` | 业务日志落盘位置 |
+| `logging.logback.rollingpolicy.max-file-size` | `10MB` | 日志滚动大小 |
+| `logging.logback.rollingpolicy.max-history` | `30` | 日志保留天数 |
 
 ---
 
@@ -475,7 +570,19 @@ python gen_keymap.py
 
 ### 9.2 日志
 
-日志输出到控制台（stdout）。关键日志：
+业务日志写入 `logs/mock-knowledge-service.log`，控制台输出重定向到 `logs/console.log`。
+
+**查看日志：**
+
+```bash
+# 查看业务日志（结构化输出）
+tail -f logs/mock-knowledge-service.log
+
+# 查看控制台日志（含 JVM 信息、异常堆栈）
+tail -f logs/console.log
+```
+
+**关键日志示例：**
 
 ```
 INFO  - 收到请求: transcode=RM1201, entName=..., moduleCode=...
@@ -484,6 +591,8 @@ WARN  - 文件不存在: ...
 WARN  - RM1202 key 未注册: key=...
 ERROR - 文件读取失败: ...
 ```
+
+**日志滚动：** 单文件超过 10MB 自动滚动，保留最近 30 天，旧日志压缩为 `.gz`。
 
 ### 9.3 常见问题
 
