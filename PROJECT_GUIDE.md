@@ -418,7 +418,7 @@ tail -f logs/mock-knowledge-service.log
 # ==================== 配置区域（按需修改） ====================
 SERVER_PORT=18080                          # 服务端口
 DATA_PATH="./offline-data"                 # 离线数据包路径
-JAVA_OPTS="-Xms256m -Xmx512m"             # JVM 参数
+JAVA_OPTS="-Xms256m -Xmx512m -Dfile.encoding=UTF-8"             # JVM 参数
 # =============================================================
 
 cd "$(dirname "$0")"
