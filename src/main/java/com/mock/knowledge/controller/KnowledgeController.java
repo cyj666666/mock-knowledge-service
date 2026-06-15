@@ -44,7 +44,7 @@ public class KnowledgeController {
             resp = routingService.handleRM1202(req);
         } else {
             log.warn("{}不支持的 transcode: {}", PFX, transcode);
-            resp = routingService.handleRM1201(req);
+            resp = new KnowledgeResponse("9999", "接口不存在: " + transcode, objectMapper.createArrayNode());
         }
 
         // 打印返回报文
