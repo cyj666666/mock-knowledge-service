@@ -27,8 +27,9 @@ public class MockApplication {
             log.info("========================================");
             log.info("  知识服务已启动");
             log.info("  API: POST http://{}:{}/api/knowledge", ip, port);
-            log.info("  RM1201 → entName + moduleCode");
-            log.info("  RM1202 → key");
+            log.info("  RM1201 → entName + moduleCode (离线)");
+            log.info("  RM1202 → key (离线内容获取)");
+            log.info("  RM1203 → entName + moduleCode (实时630)");
             log.info("========================================");
         };
     }

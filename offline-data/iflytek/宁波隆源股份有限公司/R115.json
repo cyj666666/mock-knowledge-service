@@ -1,0 +1,6025 @@
+{
+  "1.商标基本信息查询接口": [
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "",
+      "商标信息": "[{\"regNo\":\"49290401\",\"agent\":\"北京细软智谷知识产权代理有限责任公司\",\"proGroup\":[],\"brandFlowStatus\":\"商标已注册\",\"validDate\":\"2021年04月07日至2031年04月06日\",\"brandFlowClassify\":\"已注册\",\"regDate\":\"2021-04-07\",\"prdScopeInfo\":[{\"prdName\":\"医疗器械\",\"groupCode\":\"1001\"},{\"prdName\":\"医疗器械箱\",\"groupCode\":\"1001\"},{\"prdName\":\"医用诊断设备\",\"groupCode\":\"1001\"},{\"prdName\":\"健美按摩设备\",\"groupCode\":\"1001\"},{\"prdName\":\"医用测试仪\",\"groupCode\":\"1001\"},{\"prdName\":\"外科仪器和器械\",\"groupCode\":\"1001\"},{\"prdName\":\"血糖仪\",\"groupCode\":\"1001\"},{\"prdName\":\"眼科器械\",\"groupCode\":\"1001\"},{\"prdName\":\"医疗分析仪器\",\"groupCode\":\"1001\"},{\"prdName\":\"热气医疗装置\",\"groupCode\":\"1001\"}],\"brandStatus\":\"注册\",\"intCls\":\"10\",\"latestDate\":\"2023-04-20\",\"creditCode\":\"91330206786792205B\",\"applicantType\":\"企业\",\"isCommon\":\"否\",\"checkAnnounDate\":\"2021-01-06\",\"intClsCn\":\"医疗器械\",\"brandAnnoInfo\":[{\"annoNo\":\"1726\",\"annoName\":\"商标初步审定公告\",\"annoDate\":\"2021-01-06\"},{\"annoNo\":\"1738\",\"annoName\":\"商标注册公告（一）\",\"annoDate\":\"2021-04-06\"},{\"annoNo\":\"1836\",\"annoName\":\"商标注册人/申请人名义及地址变更公告\",\"annoDate\":\"2023-04-20\"}],\"brandFlowInfo\":[{\"flowTitle\":\"申请收文\",\"flowDate\":\"2023-03-31\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"等待注册证发文\",\"flowDate\":\"2021-06-03\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待受理通知书发文\",\"flowDate\":\"2020-09-24\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"核准证明打印发送\",\"flowDate\":\"2023-04-20\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2020-08-27\",\"flowName\":\"商标注册申请\"}],\"brandName\":\"\",\"regAnnounDate\":\"2021-04-07\",\"checkAnnounNo\":\"1726\",\"applicantAddress\":\"浙江省宁波市北仑区大碶庙前山路217号\",\"regAnnounNo\":\"1738\",\"nameCn\":\"隆源\",\"nameEn\":\"\",\"applicantName\":\"宁波隆源股份有限公司\",\"logoUrl\":\"\",\"brandType\":\"一般\",\"brandId\":\"754cde2b41508961686a1a1145395400\",\"applyDate\":\"2020-08-27\"},{\"regNo\":\"49280560\",\"agent\":\"北京细软智谷知识产权代理有限责任公司\",\"proGroup\":[],\"brandFlowStatus\":\"商标申请中\",\"validDate\":\"\",\"brandFlowClassify\":\"申请中\",\"regDate\":\"\",\"prdScopeInfo\":[{\"prdName\":\"\",\"groupCode\":\"\"}],\"brandStatus\":\"无效\",\"intCls\":\"7\",\"latestDate\":\"2021-03-16\",\"creditCode\":\"91330206786792205B\",\"applicantType\":\"企业\",\"isCommon\":\"否\",\"checkAnnounDate\":\"\",\"intClsCn\":\"机械设备\",\"brandAnnoInfo\":[{\"annoNo\":\"\",\"annoName\":\"\",\"annoDate\":\"\"}],\"brandFlowInfo\":[{\"flowTitle\":\"等待驳回复审\",\"flowDate\":\"2021-03-16\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待受理通知书发文\",\"flowDate\":\"2020-09-24\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待驳回通知发文\",\"flowDate\":\"2021-01-20\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2020-08-27\",\"flowName\":\"商标注册申请\"}],\"brandName\":\"\",\"regAnnounDate\":\"\",\"checkAnnounNo\":\"\",\"applicantAddress\":\"浙江省宁波市北仑区大碶庙前山路217号\",\"regAnnounNo\":\"\",\"nameCn\":\"隆源\",\"nameEn\":\"\",\"applicantName\":\"宁波隆源股份有限公司\",\"logoUrl\":\"\",\"brandType\":\"一般\",\"brandId\":\"3d88d288ceba23f65cd4c8029d3b748f\",\"applyDate\":\"2020-08-27\"},{\"regNo\":\"49275593\",\"agent\":\"北京细软智谷知识产权代理有限责任公司\",\"proGroup\":[],\"brandFlowStatus\":\"商标已注册\",\"validDate\":\"2021-07-07 至 2031-07-06\",\"brandFlowClassify\":\"已注册\",\"regDate\":\"2021-07-07\",\"prdScopeInfo\":[{\"prdName\":\"管状轮胎\",\"groupCode\":\"1208\"},{\"prdName\":\"补内胎或轮胎用胶黏补片\",\"groupCode\":\"1208\"},{\"prdName\":\"汽车轮胎内胎\",\"groupCode\":\"1208\"},{\"prdName\":\"翻新轮胎用胎面\",\"groupCode\":\"1208\"},{\"prdName\":\"汽车轮胎\",\"groupCode\":\"1208\"},{\"prdName\":\"内胎（汽车轮胎）\",\"groupCode\":\"1208\"},{\"prdName\":\"轮胎内摩丝状填充物\",\"groupCode\":\"1208\"},{\"prdName\":\"补内胎用全套工具\",\"groupCode\":\"1208\"},{\"prdName\":\"充气轮胎\",\"groupCode\":\"1208\"}],\"brandStatus\":\"注册\",\"intCls\":\"12\",\"latestDate\":\"2023-04-20\",\"creditCode\":\"91330206786792205B\",\"applicantType\":\"企业\",\"isCommon\":\"否\",\"checkAnnounDate\":\"2021-04-06\",\"intClsCn\":\"运输工具\",\"brandAnnoInfo\":[{\"annoNo\":\"1750\",\"annoName\":\"商标注册公告（一）\",\"annoDate\":\"2021-07-06\"},{\"annoNo\":\"1836\",\"annoName\":\"商标注册人/申请人名义及地址变更公告\",\"annoDate\":\"2023-04-20\"},{\"annoNo\":\"1738\",\"annoName\":\"商标初步审定公告\",\"annoDate\":\"2021-04-06\"}],\"brandFlowInfo\":[{\"flowTitle\":\"等待注册证发文\",\"flowDate\":\"2021-08-10\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2023-03-31\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"等待受理通知书发文\",\"flowDate\":\"2020-09-24\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待驳回通知发文\",\"flowDate\":\"2021-01-26\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2020-08-27\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待驳回复审\",\"flowDate\":\"2021-03-22\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"核准证明打印发送\",\"flowDate\":\"2023-04-20\",\"flowName\":\"变更商标申请人/注册人名义/地址\"}],\"brandName\":\"\",\"regAnnounDate\":\"2021-07-07\",\"checkAnnounNo\":\"1738\",\"applicantAddress\":\"浙江省宁波市北仑区大碶庙前山路217号\",\"regAnnounNo\":\"1750\",\"nameCn\":\"隆源\",\"nameEn\":\"\",\"applicantName\":\"宁波隆源股份有限公司\",\"logoUrl\":\"\",\"brandType\":\"普通商标\",\"brandId\":\"21dd9a5ddeffb4611112f119d758259d\",\"applyDate\":\"2020-08-27\"},{\"regNo\":\"30355347\",\"agent\":\"北京细软智谷知识产权代理有限责任公司\",\"proGroup\":[],\"brandFlowStatus\":\"商标已注册\",\"validDate\":\"2019年03月14日至2029年03月13日\",\"brandFlowClassify\":\"已注册\",\"regDate\":\"2019-03-14\",\"prdScopeInfo\":[{\"prdName\":\"电动运载工具\",\"groupCode\":\"1204\"},{\"prdName\":\"运载工具用轮胎\",\"groupCode\":\"1208\"},{\"prdName\":\"汽车\",\"groupCode\":\"1202\"},{\"prdName\":\"陆、空、水或铁路用机动运载工具\",\"groupCode\":\"1201\"},{\"prdName\":\"电动运载工具\",\"groupCode\":\"1205\"},{\"prdName\":\"自行车\",\"groupCode\":\"1204\"},{\"prdName\":\"电动运载工具\",\"groupCode\":\"1210\"},{\"prdName\":\"陆、空、水或铁路用机动运载工具\",\"groupCode\":\"1204\"},{\"prdName\":\"电动运载工具\",\"groupCode\":\"1201\"},{\"prdName\":\"运载工具内装饰品\",\"groupCode\":\"1211\"},{\"prdName\":\"陆、空、水或铁路用机动运载工具\",\"groupCode\":\"1210\"},{\"prdName\":\"儿童安全座（运载工具用）\",\"groupCode\":\"1211\"},{\"prdName\":\"陆、空、水或铁路用机动运载工具\",\"groupCode\":\"1209\"},{\"prdName\":\"陆、空、水或铁路用机动运载工具\",\"groupCode\":\"1202\"},{\"prdName\":\"手推车\",\"groupCode\":\"1206\"},{\"prdName\":\"电动自行车\",\"groupCode\":\"1204\"},{\"prdName\":\"电动运载工具\",\"groupCode\":\"1202\"},{\"prdName\":\"婴儿车\",\"groupCode\":\"1206\"}],\"brandStatus\":\"注册商标\",\"intCls\":\"12\",\"latestDate\":\"2023-04-19\",\"creditCode\":\"91330206786792205B\",\"applicantType\":\"企业\",\"isCommon\":\"否\",\"checkAnnounDate\":\"2018-12-13\",\"intClsCn\":\"运输工具\",\"brandAnnoInfo\":[{\"annoNo\":\"1639\",\"annoName\":\"商标注册公告（一）\",\"annoDate\":\"2019-03-13\"},{\"annoNo\":\"1836\",\"annoName\":\"商标注册人/申请人名义及地址变更公告\",\"annoDate\":\"2023-04-20\"},{\"annoNo\":\"1627\",\"annoName\":\"商标初步审定公告\",\"annoDate\":\"2018-12-13\"}],\"brandFlowInfo\":[{\"flowTitle\":\"等待受理通知书发文\",\"flowDate\":\"2018-05-04\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"核准证明打印发送\",\"flowDate\":\"2023-04-19\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"等待注册证发文\",\"flowDate\":\"2019-06-05\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2023-03-28\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2018-04-19\",\"flowName\":\"商标注册申请\"}],\"brandName\":\"\",\"regAnnounDate\":\"2019-03-14\",\"checkAnnounNo\":\"1627\",\"applicantAddress\":\"浙江省宁波市北仑区大碶庙前山路217号\",\"regAnnounNo\":\"1639\",\"nameCn\":\"图形\",\"nameEn\":\"\",\"applicantName\":\"宁波隆源股份有限公司\",\"logoUrl\":\"\",\"brandType\":\"普通商标\",\"brandId\":\"eec54ad00d111c399265b6de3c781f59\",\"applyDate\":\"2018-04-19\"},{\"regNo\":\"30358433\",\"agent\":\"北京细软智谷知识产权代理有限责任公司\",\"proGroup\":[],\"brandFlowStatus\":\"商标已注册\",\"validDate\":\"2019年06月14日至2029年06月13日\",\"brandFlowClassify\":\"已注册\",\"regDate\":\"2019-06-14\",\"prdScopeInfo\":[{\"prdName\":\"压铸机\",\"groupCode\":\"0736\"},{\"prdName\":\"模压加工机器\",\"groupCode\":\"0726\"},{\"prdName\":\"车床\",\"groupCode\":\"0742\"},{\"prdName\":\"冲洗机\",\"groupCode\":\"0730\"},{\"prdName\":\"铸模机\",\"groupCode\":\"0736\"},{\"prdName\":\"内燃机（非陆地车辆用）\",\"groupCode\":\"0738\"},{\"prdName\":\"汽车发动机活塞\",\"groupCode\":\"0748\"},{\"prdName\":\"冲床（工业用机器）\",\"groupCode\":\"0735\"},{\"prdName\":\"铸件设备\",\"groupCode\":\"0736\"},{\"prdName\":\"加工塑料用模具\",\"groupCode\":\"0726\"}],\"brandStatus\":\"注册公告\",\"intCls\":\"7\",\"latestDate\":\"2023-04-19\",\"creditCode\":\"91330206786792205B\",\"applicantType\":\"企业\",\"isCommon\":\"否\",\"checkAnnounDate\":\"2019-03-13\",\"intClsCn\":\"机械设备\",\"brandAnnoInfo\":[{\"annoNo\":\"1836\",\"annoName\":\"商标注册人/申请人名义及地址变更公告\",\"annoDate\":\"2023-04-20\"},{\"annoNo\":\"1651\",\"annoName\":\"商标注册公告（一）\",\"annoDate\":\"2019-06-13\"},{\"annoNo\":\"1639\",\"annoName\":\"商标初步审定公告\",\"annoDate\":\"2019-03-13\"}],\"brandFlowInfo\":[{\"flowTitle\":\"等待驳回通知发文\",\"flowDate\":\"2018-12-29\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2018-04-19\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待受理通知书发文\",\"flowDate\":\"2018-05-04\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待驳回复审\",\"flowDate\":\"2019-02-22\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2023-03-31\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"核准证明打印发送\",\"flowDate\":\"2023-04-19\",\"flowName\":\"变更商标申请人/注册人名义/地址\"}],\"brandName\":\"\",\"regAnnounDate\":\"2019-06-14\",\"checkAnnounNo\":\"1639\",\"applicantAddress\":\"浙江省宁波市北仑区大碶庙前山路217号\",\"regAnnounNo\":\"1651\",\"nameCn\":\"图形\",\"nameEn\":\"\",\"applicantName\":\"宁波隆源股份有限公司\",\"logoUrl\":\"\",\"brandType\":\"普通商标\",\"brandId\":\"e41cf7330a17ff61d5e37d0aec7f73e9\",\"applyDate\":\"2018-04-19\"},{\"regNo\":\"30355354\",\"agent\":\"北京细软智谷知识产权代理有限责任公司\",\"proGroup\":[],\"brandFlowStatus\":\"商标已注册\",\"validDate\":\"2019年03月14日至2029年03月13日\",\"brandFlowClassify\":\"已注册\",\"regDate\":\"2019-03-14\",\"prdScopeInfo\":[{\"prdName\":\"牙科设备和仪器\",\"groupCode\":\"1002\"},{\"prdName\":\"电疗器械\",\"groupCode\":\"1003\"},{\"prdName\":\"医疗器械和仪器\",\"groupCode\":\"1001\"},{\"prdName\":\"避孕套\",\"groupCode\":\"1006\"},{\"prdName\":\"矫形用物品\",\"groupCode\":\"1008\"},{\"prdName\":\"按摩器械\",\"groupCode\":\"1001\"},{\"prdName\":\"口罩\",\"groupCode\":\"1004\"},{\"prdName\":\"缝合材料\",\"groupCode\":\"1009\"},{\"prdName\":\"奶瓶\",\"groupCode\":\"1005\"},{\"prdName\":\"理疗设备\",\"groupCode\":\"1003\"}],\"brandStatus\":\"注册商标\",\"intCls\":\"10\",\"latestDate\":\"2023-04-20\",\"creditCode\":\"91330206786792205B\",\"applicantType\":\"企业\",\"isCommon\":\"否\",\"checkAnnounDate\":\"2018-12-13\",\"intClsCn\":\"医疗器械\",\"brandAnnoInfo\":[{\"annoNo\":\"1639\",\"annoName\":\"商标注册公告（一）\",\"annoDate\":\"2019-03-13\"},{\"annoNo\":\"1836\",\"annoName\":\"商标注册人/申请人名义及地址变更公告\",\"annoDate\":\"2023-04-20\"},{\"annoNo\":\"1627\",\"annoName\":\"商标初步审定公告\",\"annoDate\":\"2018-12-13\"}],\"brandFlowInfo\":[{\"flowTitle\":\"等待受理通知书发文\",\"flowDate\":\"2018-05-04\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2023-03-27\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2018-04-19\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"核准证明打印发送\",\"flowDate\":\"2023-04-20\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"等待注册证发文\",\"flowDate\":\"2019-05-22\",\"flowName\":\"商标注册申请\"}],\"brandName\":\"\",\"regAnnounDate\":\"2019-03-14\",\"checkAnnounNo\":\"1627\",\"applicantAddress\":\"浙江省宁波市北仑区大碶庙前山路217号\",\"regAnnounNo\":\"1639\",\"nameCn\":\"图形\",\"nameEn\":\"\",\"applicantName\":\"宁波隆源股份有限公司\",\"logoUrl\":\"\",\"brandType\":\"普通商标\",\"brandId\":\"b35e1735dd5de1f532efa6413b9aadaa\",\"applyDate\":\"2018-04-19\"},{\"regNo\":\"30353716\",\"agent\":\"北京细软智谷知识产权代理有限责任公司\",\"proGroup\":[],\"brandFlowStatus\":\"商标已注册\",\"validDate\":\"2019年06月14日至2029年06月13日\",\"brandFlowClassify\":\"已注册\",\"regDate\":\"2019-06-14\",\"prdScopeInfo\":[{\"prdName\":\"剃须刀\",\"groupCode\":\"0806\"},{\"prdName\":\"剪刀\",\"groupCode\":\"0810\"},{\"prdName\":\"指甲刀（电动或非电动的）\",\"groupCode\":\"0806\"},{\"prdName\":\"刀\",\"groupCode\":\"0810\"},{\"prdName\":\"园艺工具（手动的）\",\"groupCode\":\"0803\"},{\"prdName\":\"农业器具（手动的）\",\"groupCode\":\"0802\"},{\"prdName\":\"电动编发器\",\"groupCode\":\"0806\"},{\"prdName\":\"鱼叉\",\"groupCode\":\"0805\"},{\"prdName\":\"磨具（手工具）\",\"groupCode\":\"0801\"}],\"brandStatus\":\"注册商标\",\"intCls\":\"8\",\"latestDate\":\"2023-04-20\",\"creditCode\":\"91330206786792205B\",\"applicantType\":\"企业\",\"isCommon\":\"否\",\"checkAnnounDate\":\"2019-03-13\",\"intClsCn\":\"手工器械\",\"brandAnnoInfo\":[{\"annoNo\":\"1639\",\"annoName\":\"商标初步审定公告\",\"annoDate\":\"2019-03-13\"},{\"annoNo\":\"1836\",\"annoName\":\"商标注册人/申请人名义及地址变更公告\",\"annoDate\":\"2023-04-20\"},{\"annoNo\":\"1651\",\"annoName\":\"商标注册公告（一）\",\"annoDate\":\"2019-06-13\"}],\"brandFlowInfo\":[{\"flowTitle\":\"申请收文\",\"flowDate\":\"2023-03-28\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2018-04-19\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"核准证明打印发送\",\"flowDate\":\"2023-04-20\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"等待驳回通知发文\",\"flowDate\":\"2018-12-29\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待驳回复审\",\"flowDate\":\"2019-02-23\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待受理通知书发文\",\"flowDate\":\"2018-05-04\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待注册证发文\",\"flowDate\":\"2019-08-25\",\"flowName\":\"商标注册申请\"}],\"brandName\":\"\",\"regAnnounDate\":\"2019-06-14\",\"checkAnnounNo\":\"1639\",\"applicantAddress\":\"浙江省宁波市北仑区大碶庙前山路217号\",\"regAnnounNo\":\"1651\",\"nameCn\":\"图形\",\"nameEn\":\"\",\"applicantName\":\"宁波隆源股份有限公司\",\"logoUrl\":\"\",\"brandType\":\"普通商标\",\"brandId\":\"92bee42b829e39c4a8480db0b17e5c11\",\"applyDate\":\"2018-04-19\"},{\"regNo\":\"30363096\",\"agent\":\"北京细软智谷知识产权代理有限责任公司\",\"proGroup\":[],\"brandFlowStatus\":\"商标申请中\",\"validDate\":\"\",\"brandFlowClassify\":\"申请中\",\"regDate\":\"\",\"prdScopeInfo\":[{\"prdName\":\"\",\"groupCode\":\"\"}],\"brandStatus\":\"无效\",\"intCls\":\"42\",\"latestDate\":\"2019-03-05\",\"creditCode\":\"91330206786792205B\",\"applicantType\":\"企业\",\"isCommon\":\"否\",\"checkAnnounDate\":\"\",\"intClsCn\":\"网站服务\",\"brandAnnoInfo\":[{\"annoNo\":\"\",\"annoName\":\"\",\"annoDate\":\"\"}],\"brandFlowInfo\":[{\"flowTitle\":\"等待受理通知书发文\",\"flowDate\":\"2018-05-04\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待驳回通知发文\",\"flowDate\":\"2019-01-08\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2018-04-19\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待驳回复审\",\"flowDate\":\"2019-03-05\",\"flowName\":\"商标注册申请\"}],\"brandName\":\"\",\"regAnnounDate\":\"\",\"checkAnnounNo\":\"\",\"applicantAddress\":\"浙江省宁波市北仑区大碶庙前山路217号\",\"regAnnounNo\":\"\",\"nameCn\":\"图形\",\"nameEn\":\"\",\"applicantName\":\"宁波隆源股份有限公司\",\"logoUrl\":\"\",\"brandType\":\"普通商标\",\"brandId\":\"8ca2d124b8c42b8592fdf86fa3d3457a\",\"applyDate\":\"2018-04-19\"},{\"regNo\":\"30364736\",\"agent\":\"北京细软智谷知识产权代理有限责任公司\",\"proGroup\":[],\"brandFlowStatus\":\"商标已注册\",\"validDate\":\"2020年04月28日至2030年04月27日\",\"brandFlowClassify\":\"已注册\",\"regDate\":\"2020-04-28\",\"prdScopeInfo\":[{\"prdName\":\"食物熏制\",\"groupCode\":\"4008\"},{\"prdName\":\"水处理\",\"groupCode\":\"4014\"},{\"prdName\":\"面粉加工\",\"groupCode\":\"4008\"},{\"prdName\":\"食物冷冻\",\"groupCode\":\"4008\"},{\"prdName\":\"药材加工\",\"groupCode\":\"4015\"}],\"brandStatus\":\"注册商标\",\"intCls\":\"40\",\"latestDate\":\"2023-04-19\",\"creditCode\":\"91330206786792205B\",\"applicantType\":\"企业\",\"isCommon\":\"否\",\"checkAnnounDate\":\"2020-01-27\",\"intClsCn\":\"材料加工\",\"brandAnnoInfo\":[{\"annoNo\":\"1693\",\"annoName\":\"商标注册公告（一）\",\"annoDate\":\"2020-04-27\"},{\"annoNo\":\"1681\",\"annoName\":\"商标初步审定公告\",\"annoDate\":\"2020-01-27\"},{\"annoNo\":\"1836\",\"annoName\":\"商标注册人/申请人名义及地址变更公告\",\"annoDate\":\"2023-04-20\"}],\"brandFlowInfo\":[{\"flowTitle\":\"评审分案\",\"flowDate\":\"2019-06-24\",\"flowName\":\"驳回复审\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2023-03-31\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"核准证明打印发送\",\"flowDate\":\"2023-04-19\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"等待驳回通知发文\",\"flowDate\":\"2018-12-29\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2019-01-31\",\"flowName\":\"驳回复审\"},{\"flowTitle\":\"等待受理通知书发文\",\"flowDate\":\"2018-05-04\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2019-01-30\",\"flowName\":\"驳回复审\"},{\"flowTitle\":\"等待实审裁文发文\",\"flowDate\":\"2019-09-05\",\"flowName\":\"驳回复审\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2018-04-19\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待打印注册证\",\"flowDate\":\"2020-06-09\",\"flowName\":\"驳回复审\"}],\"brandName\":\"\",\"regAnnounDate\":\"2020-04-28\",\"checkAnnounNo\":\"1681\",\"applicantAddress\":\"浙江省宁波市北仑区大碶庙前山路217号\",\"regAnnounNo\":\"1693\",\"nameCn\":\"图形\",\"nameEn\":\"\",\"applicantName\":\"宁波隆源股份有限公司\",\"logoUrl\":\"\",\"brandType\":\"普通商标\",\"brandId\":\"7e99c26636673f647eab5e82a2bc19a5\",\"applyDate\":\"2018-04-19\"},{\"regNo\":\"30372257\",\"agent\":\"北京细软智谷知识产权代理有限责任公司\",\"proGroup\":[],\"brandFlowStatus\":\"商标已注册\",\"validDate\":\"2019年06月14日至2029年06月13日\",\"brandFlowClassify\":\"已注册\",\"regDate\":\"2019-06-14\",\"prdScopeInfo\":[{\"prdName\":\"水净化设备和机器\",\"groupCode\":\"1110\"},{\"prdName\":\"浴室装置\",\"groupCode\":\"1109\"},{\"prdName\":\"烹调用装置和设备\",\"groupCode\":\"1104\"},{\"prdName\":\"消毒设备\",\"groupCode\":\"1110\"},{\"prdName\":\"空气净化装置和机器\",\"groupCode\":\"1106\"},{\"prdName\":\"电暖器\",\"groupCode\":\"1111\"},{\"prdName\":\"水净化装置\",\"groupCode\":\"1110\"},{\"prdName\":\"水冲洗设备\",\"groupCode\":\"1109\"}],\"brandStatus\":\"注册商标\",\"intCls\":\"11\",\"latestDate\":\"2023-04-20\",\"creditCode\":\"91330206786792205B\",\"applicantType\":\"企业\",\"isCommon\":\"否\",\"checkAnnounDate\":\"2019-03-13\",\"intClsCn\":\"灯具空调\",\"brandAnnoInfo\":[{\"annoNo\":\"1651\",\"annoName\":\"商标注册公告（一）\",\"annoDate\":\"2019-06-13\"},{\"annoNo\":\"1836\",\"annoName\":\"商标注册人/申请人名义及地址变更公告\",\"annoDate\":\"2023-04-20\"},{\"annoNo\":\"1639\",\"annoName\":\"商标初步审定公告\",\"annoDate\":\"2019-03-13\"}],\"brandFlowInfo\":[{\"flowTitle\":\"等待驳回复审\",\"flowDate\":\"2019-02-23\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待受理通知书发文\",\"flowDate\":\"2018-05-09\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2018-04-19\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"核准证明打印发送\",\"flowDate\":\"2023-04-20\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"等待注册证发文\",\"flowDate\":\"2019-09-05\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待驳回通知发文\",\"flowDate\":\"2018-12-29\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2023-03-27\",\"flowName\":\"变更商标申请人/注册人名义/地址\"}],\"brandName\":\"\",\"regAnnounDate\":\"2019-06-14\",\"checkAnnounNo\":\"1639\",\"applicantAddress\":\"浙江省宁波市北仑区大碶庙前山路217号\",\"regAnnounNo\":\"1651\",\"nameCn\":\"图形\",\"nameEn\":\"\",\"applicantName\":\"宁波隆源股份有限公司\",\"logoUrl\":\"\",\"brandType\":\"普通商标\",\"brandId\":\"787d309fd6a961c43af4fc9a38c2ac37\",\"applyDate\":\"2018-04-19\"},{\"regNo\":\"30364756\",\"agent\":\"北京细软智谷知识产权代理有限责任公司\",\"proGroup\":[],\"brandFlowStatus\":\"商标已注册\",\"validDate\":\"2019年06月14日至2029年06月13日\",\"brandFlowClassify\":\"已注册\",\"regDate\":\"2019-06-14\",\"prdScopeInfo\":[{\"prdName\":\"普通金属艺术品\",\"groupCode\":\"0622\"},{\"prdName\":\"普通金属合金\",\"groupCode\":\"0601\"},{\"prdName\":\"金属锁（非电）\",\"groupCode\":\"0610\"},{\"prdName\":\"家具用金属附件\",\"groupCode\":\"0608\"},{\"prdName\":\"钢管\",\"groupCode\":\"0602\"},{\"prdName\":\"保险柜\",\"groupCode\":\"0611\"}],\"brandStatus\":\"注册商标\",\"intCls\":\"6\",\"latestDate\":\"2023-04-20\",\"creditCode\":\"91330206786792205B\",\"applicantType\":\"企业\",\"isCommon\":\"否\",\"checkAnnounDate\":\"2019-03-13\",\"intClsCn\":\"金属材料\",\"brandAnnoInfo\":[{\"annoNo\":\"1651\",\"annoName\":\"商标注册公告（一）\",\"annoDate\":\"2019-06-13\"},{\"annoNo\":\"1639\",\"annoName\":\"商标初步审定公告\",\"annoDate\":\"2019-03-13\"},{\"annoNo\":\"1836\",\"annoName\":\"商标注册人/申请人名义及地址变更公告\",\"annoDate\":\"2023-04-20\"}],\"brandFlowInfo\":[{\"flowTitle\":\"等待受理通知书发文\",\"flowDate\":\"2018-05-04\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2018-04-19\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待注册证发文\",\"flowDate\":\"2019-08-30\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"核准证明打印发送\",\"flowDate\":\"2023-04-20\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"等待驳回复审\",\"flowDate\":\"2019-02-22\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待驳回通知发文\",\"flowDate\":\"2018-12-29\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2023-03-31\",\"flowName\":\"变更商标申请人/注册人名义/地址\"}],\"brandName\":\"\",\"regAnnounDate\":\"2019-06-14\",\"checkAnnounNo\":\"1639\",\"applicantAddress\":\"浙江省宁波市北仑区大碶庙前山路217号\",\"regAnnounNo\":\"1651\",\"nameCn\":\"图形\",\"nameEn\":\"\",\"applicantName\":\"宁波隆源股份有限公司\",\"logoUrl\":\"\",\"brandType\":\"普通商标\",\"brandId\":\"1b197c886a9ebe56ffcb598986c46d75\",\"applyDate\":\"2018-04-19\"},{\"regNo\":\"30078829\",\"agent\":\"北京细软智谷知识产权代理有限责任公司\",\"proGroup\":[],\"brandFlowStatus\":\"商标已注册\",\"validDate\":\"2019年02月07日至2029年02月06日\",\"brandFlowClassify\":\"已注册\",\"regDate\":\"2019-02-07\",\"prdScopeInfo\":[{\"prdName\":\"奶瓶\",\"groupCode\":\"1005\"},{\"prdName\":\"缝合材料\",\"groupCode\":\"1009\"},{\"prdName\":\"避孕套\",\"groupCode\":\"1006\"},{\"prdName\":\"电疗器械\",\"groupCode\":\"1003\"},{\"prdName\":\"按摩器械\",\"groupCode\":\"1001\"},{\"prdName\":\"口罩\",\"groupCode\":\"1004\"},{\"prdName\":\"理疗设备\",\"groupCode\":\"1003\"},{\"prdName\":\"医疗器械和仪器\",\"groupCode\":\"1001\"},{\"prdName\":\"矫形用物品\",\"groupCode\":\"1008\"},{\"prdName\":\"牙科设备和仪器\",\"groupCode\":\"1002\"}],\"brandStatus\":\"注册\",\"intCls\":\"10\",\"latestDate\":\"2023-04-19\",\"creditCode\":\"91330206786792205B\",\"applicantType\":\"企业\",\"isCommon\":\"否\",\"checkAnnounDate\":\"2018-11-06\",\"intClsCn\":\"医疗器械\",\"brandAnnoInfo\":[{\"annoNo\":\"1836\",\"annoName\":\"商标注册人/申请人名义及地址变更公告\",\"annoDate\":\"2023-04-20\"},{\"annoNo\":\"1634\",\"annoName\":\"商标注册公告（一）\",\"annoDate\":\"2019-02-06\"},{\"annoNo\":\"1622\",\"annoName\":\"商标初步审定公告\",\"annoDate\":\"2018-11-06\"}],\"brandFlowInfo\":[{\"flowTitle\":\"申请收文\",\"flowDate\":\"2023-03-28\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"核准证明打印发送\",\"flowDate\":\"2023-04-19\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2018-04-08\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待受理通知书发文\",\"flowDate\":\"2018-04-24\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待注册证发文\",\"flowDate\":\"2019-03-20\",\"flowName\":\"商标注册申请\"}],\"brandName\":\"\",\"regAnnounDate\":\"2019-02-07\",\"checkAnnounNo\":\"1622\",\"applicantAddress\":\"浙江省宁波市北仑区大碶庙前山路217号\",\"regAnnounNo\":\"1634\",\"nameCn\":\"隆园\",\"nameEn\":\"\",\"applicantName\":\"宁波隆源股份有限公司\",\"logoUrl\":\"\",\"brandType\":\"普通商标\",\"brandId\":\"f2c4d82799dccf697809121151c90fb2\",\"applyDate\":\"2018-04-08\"},{\"regNo\":\"30090389\",\"agent\":\"北京细软智谷知识产权代理有限责任公司\",\"proGroup\":[],\"brandFlowStatus\":\"商标已注册\",\"validDate\":\"2019年01月28日至2029年01月27日\",\"brandFlowClassify\":\"已注册\",\"regDate\":\"2019-01-28\",\"prdScopeInfo\":[{\"prdName\":\"陆、空、水或铁路用机动运载工具\",\"groupCode\":\"1204\"},{\"prdName\":\"陆、空、水或铁路用机动运载工具\",\"groupCode\":\"1209\"},{\"prdName\":\"陆、空、水或铁路用机动运载工具\",\"groupCode\":\"1201\"},{\"prdName\":\"电动运载工具\",\"groupCode\":\"1204\"},{\"prdName\":\"运载工具用轮胎\",\"groupCode\":\"1208\"},{\"prdName\":\"电动运载工具\",\"groupCode\":\"1202\"},{\"prdName\":\"陆、空、水或铁路用机动运载工具\",\"groupCode\":\"1210\"},{\"prdName\":\"电动运载工具\",\"groupCode\":\"1210\"},{\"prdName\":\"自行车\",\"groupCode\":\"1204\"},{\"prdName\":\"儿童安全座（运载工具用）\",\"groupCode\":\"1211\"},{\"prdName\":\"电动自行车\",\"groupCode\":\"1204\"},{\"prdName\":\"运载工具内装饰品\",\"groupCode\":\"1211\"},{\"prdName\":\"汽车\",\"groupCode\":\"1202\"},{\"prdName\":\"婴儿车\",\"groupCode\":\"1206\"},{\"prdName\":\"手推车\",\"groupCode\":\"1206\"},{\"prdName\":\"电动运载工具\",\"groupCode\":\"1205\"},{\"prdName\":\"陆、空、水或铁路用机动运载工具\",\"groupCode\":\"1202\"},{\"prdName\":\"电动运载工具\",\"groupCode\":\"1201\"}],\"brandStatus\":\"注册\",\"intCls\":\"12\",\"latestDate\":\"2023-04-20\",\"creditCode\":\"91330206786792205B\",\"applicantType\":\"企业\",\"isCommon\":\"否\",\"checkAnnounDate\":\"2018-10-27\",\"intClsCn\":\"运输工具\",\"brandAnnoInfo\":[{\"annoNo\":\"1633\",\"annoName\":\"商标注册公告（一）\",\"annoDate\":\"2019-01-27\"},{\"annoNo\":\"1836\",\"annoName\":\"商标注册人/申请人名义及地址变更公告\",\"annoDate\":\"2023-04-20\"},{\"annoNo\":\"1621\",\"annoName\":\"商标初步审定公告\",\"annoDate\":\"2018-10-27\"}],\"brandFlowInfo\":[{\"flowTitle\":\"核准证明打印发送\",\"flowDate\":\"2023-04-20\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"等待受理通知书发文\",\"flowDate\":\"2018-04-23\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2018-04-08\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待注册证发文\",\"flowDate\":\"2019-03-20\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2023-03-28\",\"flowName\":\"变更商标申请人/注册人名义/地址\"}],\"brandName\":\"\",\"regAnnounDate\":\"2019-01-28\",\"checkAnnounNo\":\"1621\",\"applicantAddress\":\"浙江省宁波市北仑区大碶庙前山路217号\",\"regAnnounNo\":\"1633\",\"nameCn\":\"隆圆\",\"nameEn\":\"\",\"applicantName\":\"宁波隆源股份有限公司\",\"logoUrl\":\"\",\"brandType\":\"普通商标\",\"brandId\":\"dc7d7ce4c5b57d8a1fd012589f91fb18\",\"applyDate\":\"2018-04-08\"},{\"regNo\":\"30086277\",\"agent\":\"北京细软智谷知识产权代理有限责任公司\",\"proGroup\":[],\"brandFlowStatus\":\"商标已注册\",\"validDate\":\"2019年01月28日至2029年01月27日\",\"brandFlowClassify\":\"已注册\",\"regDate\":\"2019-01-28\",\"prdScopeInfo\":[{\"prdName\":\"指甲刀（电动或非电动的）\",\"groupCode\":\"0806\"},{\"prdName\":\"剪刀\",\"groupCode\":\"0810\"},{\"prdName\":\"磨具（手工具）\",\"groupCode\":\"0801\"},{\"prdName\":\"电动编发器\",\"groupCode\":\"0806\"},{\"prdName\":\"鱼叉\",\"groupCode\":\"0805\"},{\"prdName\":\"餐具（刀、叉和匙）\",\"groupCode\":\"0812\"},{\"prdName\":\"园艺工具（手动的）\",\"groupCode\":\"0803\"},{\"prdName\":\"刀\",\"groupCode\":\"0810\"},{\"prdName\":\"剃须刀\",\"groupCode\":\"0806\"},{\"prdName\":\"农业器具（手动的）\",\"groupCode\":\"0802\"}],\"brandStatus\":\"注册\",\"intCls\":\"8\",\"latestDate\":\"2023-04-19\",\"creditCode\":\"91330206786792205B\",\"applicantType\":\"企业\",\"isCommon\":\"否\",\"checkAnnounDate\":\"2018-10-27\",\"intClsCn\":\"手工器械\",\"brandAnnoInfo\":[{\"annoNo\":\"1836\",\"annoName\":\"商标注册人/申请人名义及地址变更公告\",\"annoDate\":\"2023-04-20\"},{\"annoNo\":\"1633\",\"annoName\":\"商标注册公告（一）\",\"annoDate\":\"2019-01-27\"},{\"annoNo\":\"1621\",\"annoName\":\"商标初步审定公告\",\"annoDate\":\"2018-10-27\"}],\"brandFlowInfo\":[{\"flowTitle\":\"申请收文\",\"flowDate\":\"2018-04-08\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待受理通知书发文\",\"flowDate\":\"2018-04-23\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待注册证发文\",\"flowDate\":\"2019-03-26\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"核准证明打印发送\",\"flowDate\":\"2023-04-19\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2023-03-31\",\"flowName\":\"变更商标申请人/注册人名义/地址\"}],\"brandName\":\"\",\"regAnnounDate\":\"2019-01-28\",\"checkAnnounNo\":\"1621\",\"applicantAddress\":\"浙江省宁波市北仑区大碶庙前山路217号\",\"regAnnounNo\":\"1633\",\"nameCn\":\"隆园\",\"nameEn\":\"\",\"applicantName\":\"宁波隆源股份有限公司\",\"logoUrl\":\"\",\"brandType\":\"普通商标\",\"brandId\":\"d56a001a60fbcee995c820c4a009536d\",\"applyDate\":\"2018-04-08\"},{\"regNo\":\"30090276\",\"agent\":\"北京细软智谷知识产权代理有限责任公司\",\"proGroup\":[],\"brandFlowStatus\":\"商标已注册\",\"validDate\":\"2019年01月28日至2029年01月27日\",\"brandFlowClassify\":\"已注册\",\"regDate\":\"2019-01-28\",\"prdScopeInfo\":[{\"prdName\":\"托管计算机站（网站）\",\"groupCode\":\"4220\"},{\"prdName\":\"机械研究\",\"groupCode\":\"4209\"},{\"prdName\":\"技术研究\",\"groupCode\":\"4209\"},{\"prdName\":\"计算机软件设计\",\"groupCode\":\"4220\"},{\"prdName\":\"通过网站提供计算机技术和编程信息\",\"groupCode\":\"4220\"},{\"prdName\":\"替他人创建和维护网站\",\"groupCode\":\"4220\"},{\"prdName\":\"提供互联网搜索引擎\",\"groupCode\":\"4220\"},{\"prdName\":\"包装设计\",\"groupCode\":\"4216\"},{\"prdName\":\"工业品外观设计\",\"groupCode\":\"4216\"},{\"prdName\":\"计算机编程\",\"groupCode\":\"4220\"}],\"brandStatus\":\"注册\",\"intCls\":\"42\",\"latestDate\":\"2023-04-20\",\"creditCode\":\"91330206786792205B\",\"applicantType\":\"企业\",\"isCommon\":\"否\",\"checkAnnounDate\":\"2018-10-27\",\"intClsCn\":\"网站服务\",\"brandAnnoInfo\":[{\"annoNo\":\"1621\",\"annoName\":\"商标初步审定公告\",\"annoDate\":\"2018-10-27\"},{\"annoNo\":\"1633\",\"annoName\":\"商标注册公告（一）\",\"annoDate\":\"2019-01-27\"},{\"annoNo\":\"1836\",\"annoName\":\"商标注册人/申请人名义及地址变更公告\",\"annoDate\":\"2023-04-20\"}],\"brandFlowInfo\":[{\"flowTitle\":\"等待注册证发文\",\"flowDate\":\"2019-03-20\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待受理通知书发文\",\"flowDate\":\"2018-04-24\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2018-04-08\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2023-03-27\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"核准证明打印发送\",\"flowDate\":\"2023-04-20\",\"flowName\":\"变更商标申请人/注册人名义/地址\"}],\"brandName\":\"\",\"regAnnounDate\":\"2019-01-28\",\"checkAnnounNo\":\"1621\",\"applicantAddress\":\"浙江省宁波市北仑区大碶庙前山路217号\",\"regAnnounNo\":\"1633\",\"nameCn\":\"隆园\",\"nameEn\":\"\",\"applicantName\":\"宁波隆源股份有限公司\",\"logoUrl\":\"\",\"brandType\":\"普通商标\",\"brandId\":\"d1473fd5132b54d72ec9ac14fcde5632\",\"applyDate\":\"2018-04-08\"},{\"regNo\":\"30098957\",\"agent\":\"北京细软智谷知识产权代理有限责任公司\",\"proGroup\":[],\"brandFlowStatus\":\"商标已注册\",\"validDate\":\"2019年01月28日至2029年01月27日\",\"brandFlowClassify\":\"已注册\",\"regDate\":\"2019-01-28\",\"prdScopeInfo\":[{\"prdName\":\"铸模机\",\"groupCode\":\"0736\"},{\"prdName\":\"压铸机\",\"groupCode\":\"0736\"},{\"prdName\":\"内燃机（非陆地车辆用）\",\"groupCode\":\"0738\"},{\"prdName\":\"汽车发动机活塞\",\"groupCode\":\"0748\"},{\"prdName\":\"加工塑料用模具\",\"groupCode\":\"0726\"},{\"prdName\":\"车床\",\"groupCode\":\"0742\"},{\"prdName\":\"铸件设备\",\"groupCode\":\"0736\"},{\"prdName\":\"冲洗机\",\"groupCode\":\"0730\"},{\"prdName\":\"冲床（工业用机器）\",\"groupCode\":\"0735\"},{\"prdName\":\"模压加工机器\",\"groupCode\":\"0726\"}],\"brandStatus\":\"注册\",\"intCls\":\"7\",\"latestDate\":\"2023-04-20\",\"creditCode\":\"91330206786792205B\",\"applicantType\":\"企业\",\"isCommon\":\"否\",\"checkAnnounDate\":\"2018-10-27\",\"intClsCn\":\"机械设备\",\"brandAnnoInfo\":[{\"annoNo\":\"1836\",\"annoName\":\"商标注册人/申请人名义及地址变更公告\",\"annoDate\":\"2023-04-20\"},{\"annoNo\":\"1621\",\"annoName\":\"商标初步审定公告\",\"annoDate\":\"2018-10-27\"},{\"annoNo\":\"1633\",\"annoName\":\"商标注册公告（一）\",\"annoDate\":\"2019-01-27\"}],\"brandFlowInfo\":[{\"flowTitle\":\"等待注册证发文\",\"flowDate\":\"2019-03-23\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"核准证明打印发送\",\"flowDate\":\"2023-04-20\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2018-04-08\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2023-03-27\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"等待受理通知书发文\",\"flowDate\":\"2018-04-24\",\"flowName\":\"商标注册申请\"}],\"brandName\":\"\",\"regAnnounDate\":\"2019-01-28\",\"checkAnnounNo\":\"1621\",\"applicantAddress\":\"浙江省宁波市北仑区大碶庙前山路217号\",\"regAnnounNo\":\"1633\",\"nameCn\":\"隆圆\",\"nameEn\":\"\",\"applicantName\":\"宁波隆源股份有限公司\",\"logoUrl\":\"\",\"brandType\":\"普通商标\",\"brandId\":\"d12bb9f4ab28666df75e66e5db775fb9\",\"applyDate\":\"2018-04-08\"},{\"regNo\":\"30089587\",\"agent\":\"北京细软智谷知识产权代理有限责任公司\",\"proGroup\":[],\"brandFlowStatus\":\"商标已注册\",\"validDate\":\"2019年01月28日至2029年01月27日\",\"brandFlowClassify\":\"已注册\",\"regDate\":\"2019-01-28\",\"prdScopeInfo\":[{\"prdName\":\"普通金属艺术品\",\"groupCode\":\"0622\"},{\"prdName\":\"保险柜\",\"groupCode\":\"0611\"},{\"prdName\":\"金属锁（非电）\",\"groupCode\":\"0610\"},{\"prdName\":\"小五金器具\",\"groupCode\":\"0608\"},{\"prdName\":\"五金器具\",\"groupCode\":\"0607\"},{\"prdName\":\"小五金器具\",\"groupCode\":\"0609\"},{\"prdName\":\"普通金属合金\",\"groupCode\":\"0601\"},{\"prdName\":\"金属门\",\"groupCode\":\"0603\"},{\"prdName\":\"钢管\",\"groupCode\":\"0602\"},{\"prdName\":\"家具用金属附件\",\"groupCode\":\"0608\"},{\"prdName\":\"小五金器具\",\"groupCode\":\"0607\"},{\"prdName\":\"五金器具\",\"groupCode\":\"0609\"},{\"prdName\":\"五金器具\",\"groupCode\":\"0608\"},{\"prdName\":\"金属建筑材料\",\"groupCode\":\"0603\"}],\"brandStatus\":\"注册\",\"intCls\":\"6\",\"latestDate\":\"2023-04-20\",\"creditCode\":\"91330206786792205B\",\"applicantType\":\"企业\",\"isCommon\":\"否\",\"checkAnnounDate\":\"2018-10-27\",\"intClsCn\":\"金属材料\",\"brandAnnoInfo\":[{\"annoNo\":\"1621\",\"annoName\":\"商标初步审定公告\",\"annoDate\":\"2018-10-27\"},{\"annoNo\":\"1633\",\"annoName\":\"商标注册公告（一）\",\"annoDate\":\"2019-01-27\"},{\"annoNo\":\"1836\",\"annoName\":\"商标注册人/申请人名义及地址变更公告\",\"annoDate\":\"2023-04-20\"}],\"brandFlowInfo\":[{\"flowTitle\":\"申请收文\",\"flowDate\":\"2023-03-31\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"等待注册证发文\",\"flowDate\":\"2019-03-23\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"核准证明打印发送\",\"flowDate\":\"2023-04-20\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2018-04-08\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待受理通知书发文\",\"flowDate\":\"2018-04-23\",\"flowName\":\"商标注册申请\"}],\"brandName\":\"\",\"regAnnounDate\":\"2019-01-28\",\"checkAnnounNo\":\"1621\",\"applicantAddress\":\"浙江省宁波市北仑区大碶庙前山路217号\",\"regAnnounNo\":\"1633\",\"nameCn\":\"隆圆\",\"nameEn\":\"\",\"applicantName\":\"宁波隆源股份有限公司\",\"logoUrl\":\"\",\"brandType\":\"普通商标\",\"brandId\":\"ccfc398d7e261831e4c04ae9705d7302\",\"applyDate\":\"2018-04-08\"},{\"regNo\":\"30086268\",\"agent\":\"北京细软智谷知识产权代理有限责任公司\",\"proGroup\":[],\"brandFlowStatus\":\"商标已注册\",\"validDate\":\"2019年01月28日至2029年01月27日\",\"brandFlowClassify\":\"已注册\",\"regDate\":\"2019-01-28\",\"prdScopeInfo\":[{\"prdName\":\"水净化设备和机器\",\"groupCode\":\"1110\"},{\"prdName\":\"电暖器\",\"groupCode\":\"1111\"},{\"prdName\":\"空气净化装置和机器\",\"groupCode\":\"1106\"},{\"prdName\":\"消毒设备\",\"groupCode\":\"1110\"},{\"prdName\":\"水净化装置\",\"groupCode\":\"1110\"},{\"prdName\":\"浴室装置\",\"groupCode\":\"1109\"},{\"prdName\":\"照明器械及装置\",\"groupCode\":\"1101\"},{\"prdName\":\"烹调用装置和设备\",\"groupCode\":\"1104\"},{\"prdName\":\"灯\",\"groupCode\":\"1101\"},{\"prdName\":\"水冲洗设备\",\"groupCode\":\"1109\"}],\"brandStatus\":\"注册\",\"intCls\":\"11\",\"latestDate\":\"2023-04-20\",\"creditCode\":\"91330206786792205B\",\"applicantType\":\"企业\",\"isCommon\":\"否\",\"checkAnnounDate\":\"2018-10-27\",\"intClsCn\":\"灯具空调\",\"brandAnnoInfo\":[{\"annoNo\":\"1633\",\"annoName\":\"商标注册公告（一）\",\"annoDate\":\"2019-01-27\"},{\"annoNo\":\"1621\",\"annoName\":\"商标初步审定公告\",\"annoDate\":\"2018-10-27\"},{\"annoNo\":\"1836\",\"annoName\":\"商标注册人/申请人名义及地址变更公告\",\"annoDate\":\"2023-04-20\"}],\"brandFlowInfo\":[{\"flowTitle\":\"申请收文\",\"flowDate\":\"2018-04-08\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待受理通知书发文\",\"flowDate\":\"2018-04-23\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"等待注册证发文\",\"flowDate\":\"2019-03-26\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"核准证明打印发送\",\"flowDate\":\"2023-04-20\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2023-03-31\",\"flowName\":\"变更商标申请人/注册人名义/地址\"}],\"brandName\":\"\",\"regAnnounDate\":\"2019-01-28\",\"checkAnnounNo\":\"1621\",\"applicantAddress\":\"浙江省宁波市北仑区大碶庙前山路217号\",\"regAnnounNo\":\"1633\",\"nameCn\":\"隆园\",\"nameEn\":\"\",\"applicantName\":\"宁波隆源股份有限公司\",\"logoUrl\":\"\",\"brandType\":\"普通商标\",\"brandId\":\"b168cbd56ff390f4204161fccb45da77\",\"applyDate\":\"2018-04-08\"},{\"regNo\":\"30099320\",\"agent\":\"北京细软智谷知识产权代理有限责任公司\",\"proGroup\":[],\"brandFlowStatus\":\"商标已注册\",\"validDate\":\"2019年01月28日至2029年01月27日\",\"brandFlowClassify\":\"已注册\",\"regDate\":\"2019-01-28\",\"prdScopeInfo\":[{\"prdName\":\"小五金器具\",\"groupCode\":\"0608\"},{\"prdName\":\"金属锁（非电）\",\"groupCode\":\"0610\"},{\"prdName\":\"家具用金属附件\",\"groupCode\":\"0608\"},{\"prdName\":\"钢管\",\"groupCode\":\"0602\"},{\"prdName\":\"普通金属艺术品\",\"groupCode\":\"0622\"},{\"prdName\":\"五金器具\",\"groupCode\":\"0609\"},{\"prdName\":\"保险柜\",\"groupCode\":\"0611\"},{\"prdName\":\"普通金属合金\",\"groupCode\":\"0601\"},{\"prdName\":\"小五金器具\",\"groupCode\":\"0607\"},{\"prdName\":\"五金器具\",\"groupCode\":\"0607\"},{\"prdName\":\"金属建筑材料\",\"groupCode\":\"0603\"},{\"prdName\":\"金属门\",\"groupCode\":\"0603\"},{\"prdName\":\"五金器具\",\"groupCode\":\"0608\"},{\"prdName\":\"小五金器具\",\"groupCode\":\"0609\"}],\"brandStatus\":\"注册\",\"intCls\":\"6\",\"latestDate\":\"2023-04-20\",\"creditCode\":\"91330206786792205B\",\"applicantType\":\"企业\",\"isCommon\":\"否\",\"checkAnnounDate\":\"2018-10-27\",\"intClsCn\":\"金属材料\",\"brandAnnoInfo\":[{\"annoNo\":\"1621\",\"annoName\":\"商标初步审定公告\",\"annoDate\":\"2018-10-27\"},{\"annoNo\":\"1633\",\"annoName\":\"商标注册公告（一）\",\"annoDate\":\"2019-01-27\"},{\"annoNo\":\"1836\",\"annoName\":\"商标注册人/申请人名义及地址变更公告\",\"annoDate\":\"2023-04-20\"}],\"brandFlowInfo\":[{\"flowTitle\":\"申请收文\",\"flowDate\":\"2023-03-27\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"等待注册证发文\",\"flowDate\":\"2019-03-21\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"核准证明打印发送\",\"flowDate\":\"2023-04-20\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"等待受理通知书发文\",\"flowDate\":\"2018-04-23\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2018-04-08\",\"flowName\":\"商标注册申请\"}],\"brandName\":\"\",\"regAnnounDate\":\"2019-01-28\",\"checkAnnounNo\":\"1621\",\"applicantAddress\":\"浙江省宁波市北仑区大碶庙前山路217号\",\"regAnnounNo\":\"1633\",\"nameCn\":\"隆园\",\"nameEn\":\"\",\"applicantName\":\"宁波隆源股份有限公司\",\"logoUrl\":\"\",\"brandType\":\"普通商标\",\"brandId\":\"b0ce32cc6193f94c838cad722184768c\",\"applyDate\":\"2018-04-08\"},{\"regNo\":\"30089500\",\"agent\":\"北京细软智谷知识产权代理有限责任公司\",\"proGroup\":[],\"brandFlowStatus\":\"商标已注册\",\"validDate\":\"2019年01月28日至2029年01月27日\",\"brandFlowClassify\":\"已注册\",\"regDate\":\"2019-01-28\",\"prdScopeInfo\":[{\"prdName\":\"金属处理\",\"groupCode\":\"4002\"},{\"prdName\":\"服装制作\",\"groupCode\":\"4010\"},{\"prdName\":\"木器制作\",\"groupCode\":\"4004\"},{\"prdName\":\"金属铸造\",\"groupCode\":\"4002\"},{\"prdName\":\"食物熏制\",\"groupCode\":\"4008\"},{\"prdName\":\"药材加工\",\"groupCode\":\"4015\"},{\"prdName\":\"食物冷冻\",\"groupCode\":\"4008\"},{\"prdName\":\"水处理\",\"groupCode\":\"4014\"},{\"prdName\":\"面粉加工\",\"groupCode\":\"4008\"},{\"prdName\":\"空气净化\",\"groupCode\":\"4013\"}],\"brandStatus\":\"注册\",\"intCls\":\"40\",\"latestDate\":\"2023-04-20\",\"creditCode\":\"91330206786792205B\",\"applicantType\":\"企业\",\"isCommon\":\"否\",\"checkAnnounDate\":\"2018-10-27\",\"intClsCn\":\"材料加工\",\"brandAnnoInfo\":[{\"annoNo\":\"1621\",\"annoName\":\"商标初步审定公告\",\"annoDate\":\"2018-10-27\"},{\"annoNo\":\"1836\",\"annoName\":\"商标注册人/申请人名义及地址变更公告\",\"annoDate\":\"2023-04-20\"},{\"annoNo\":\"1633\",\"annoName\":\"商标注册公告（一）\",\"annoDate\":\"2019-01-27\"}],\"brandFlowInfo\":[{\"flowTitle\":\"等待注册证发文\",\"flowDate\":\"2019-03-22\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2023-03-27\",\"flowName\":\"变更商标申请人/注册人名义/地址\"},{\"flowTitle\":\"等待受理通知书发文\",\"flowDate\":\"2018-04-24\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"申请收文\",\"flowDate\":\"2018-04-08\",\"flowName\":\"商标注册申请\"},{\"flowTitle\":\"核准证明打印发送\",\"flowDate\":\"2023-04-20\",\"flowName\":\"变更商",
+      "商标名称（中文）": "",
+      "申请年份统计": [
+        {
+          "num": 24,
+          "key": "2018"
+        },
+        {
+          "num": 0,
+          "key": "2019"
+        },
+        {
+          "num": 3,
+          "key": "2020"
+        }
+      ],
+      "商标名称（英文）": "",
+      "国际分类统计": [
+        {
+          "num": 4,
+          "key": "10"
+        },
+        {
+          "num": 4,
+          "key": "12"
+        },
+        {
+          "num": 4,
+          "key": "7"
+        },
+        {
+          "num": 3,
+          "key": "11"
+        },
+        {
+          "num": 3,
+          "key": "40"
+        },
+        {
+          "num": 3,
+          "key": "42"
+        },
+        {
+          "num": 3,
+          "key": "6"
+        },
+        {
+          "num": 3,
+          "key": "8"
+        }
+      ],
+      "商标名称（中英文）": "",
+      "商标状态统计": [
+        {
+          "num": 25,
+          "key": "商标已注册"
+        },
+        {
+          "num": 2,
+          "key": "商标申请中"
+        }
+      ],
+      "商标状态": "",
+      "国际分类码": "",
+      "国际分类名": "",
+      "申请/注册号": "",
+      "申请人名称": "",
+      "申请人类型": "",
+      "申请人统一社会认证码": "",
+      "申请人地址": "",
+      "代理机构": "",
+      "申请日期": "",
+      "注册日期": "",
+      "初审公告期号": "",
+      "初审公告日期": "",
+      "注册公告期号": "",
+      "注册公告日期": "",
+      "有效期": "",
+      "商品服务范围": "",
+      "保护群组": "",
+      "商标类型": "",
+      "是否共有商标": "",
+      "商标图片链接": "",
+      "商标流程信息": "",
+      "商标公告信息": ""
+    }
+  ],
+  "1.1.商标信息": [
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "754cde2b41508961686a1a1145395400",
+      "商标名称（中文）": "隆源",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 10,
+      "国际分类名": "医疗器械",
+      "申请/注册号": 49290401,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2020-08-27",
+      "注册日期": "2021-04-07",
+      "初审公告期号": 1726,
+      "初审公告日期": "2021-01-06",
+      "注册公告期号": 1738,
+      "注册公告日期": "2021-04-07",
+      "有效期": "2021年04月07日至2031年04月06日",
+      "商品服务范围": [
+        {
+          "prdName": "医疗器械",
+          "groupCode": "1001"
+        },
+        {
+          "prdName": "医疗器械箱",
+          "groupCode": "1001"
+        },
+        {
+          "prdName": "医用诊断设备",
+          "groupCode": "1001"
+        },
+        {
+          "prdName": "健美按摩设备",
+          "groupCode": "1001"
+        },
+        {
+          "prdName": "医用测试仪",
+          "groupCode": "1001"
+        },
+        {
+          "prdName": "外科仪器和器械",
+          "groupCode": "1001"
+        },
+        {
+          "prdName": "血糖仪",
+          "groupCode": "1001"
+        },
+        {
+          "prdName": "眼科器械",
+          "groupCode": "1001"
+        },
+        {
+          "prdName": "医疗分析仪器",
+          "groupCode": "1001"
+        },
+        {
+          "prdName": "热气医疗装置",
+          "groupCode": "1001"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "一般",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-31",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2021-06-03",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2020-09-24",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-20",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2020-08-27",
+          "flowName": "商标注册申请"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1726",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2021-01-06"
+        },
+        {
+          "annoNo": "1738",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2021-04-06"
+        },
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        }
+      ],
+      "商标最新状态日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "3d88d288ceba23f65cd4c8029d3b748f",
+      "商标名称（中文）": "隆源",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "无效",
+      "清洗后商标状态": "商标申请中",
+      "商标状态归类": "申请中",
+      "国际分类码": 7,
+      "国际分类名": "机械设备",
+      "申请/注册号": 49280560,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2020-08-27",
+      "注册日期": "",
+      "初审公告期号": "",
+      "初审公告日期": "",
+      "注册公告期号": "",
+      "注册公告日期": "",
+      "有效期": "",
+      "商品服务范围": [
+        {
+          "prdName": "",
+          "groupCode": ""
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "一般",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "等待驳回复审",
+          "flowDate": "2021-03-16",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2020-09-24",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待驳回通知发文",
+          "flowDate": "2021-01-20",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2020-08-27",
+          "flowName": "商标注册申请"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "",
+          "annoName": "",
+          "annoDate": ""
+        }
+      ],
+      "商标最新状态日期": "2021-03-16"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "21dd9a5ddeffb4611112f119d758259d",
+      "商标名称（中文）": "隆源",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 12,
+      "国际分类名": "运输工具",
+      "申请/注册号": 49275593,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2020-08-27",
+      "注册日期": "2021-07-07",
+      "初审公告期号": 1738,
+      "初审公告日期": "2021-04-06",
+      "注册公告期号": 1750,
+      "注册公告日期": "2021-07-07",
+      "有效期": "2021-07-07 至 2031-07-06",
+      "商品服务范围": [
+        {
+          "prdName": "管状轮胎",
+          "groupCode": "1208"
+        },
+        {
+          "prdName": "补内胎或轮胎用胶黏补片",
+          "groupCode": "1208"
+        },
+        {
+          "prdName": "汽车轮胎内胎",
+          "groupCode": "1208"
+        },
+        {
+          "prdName": "翻新轮胎用胎面",
+          "groupCode": "1208"
+        },
+        {
+          "prdName": "汽车轮胎",
+          "groupCode": "1208"
+        },
+        {
+          "prdName": "内胎（汽车轮胎）",
+          "groupCode": "1208"
+        },
+        {
+          "prdName": "轮胎内摩丝状填充物",
+          "groupCode": "1208"
+        },
+        {
+          "prdName": "补内胎用全套工具",
+          "groupCode": "1208"
+        },
+        {
+          "prdName": "充气轮胎",
+          "groupCode": "1208"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2021-08-10",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-31",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2020-09-24",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待驳回通知发文",
+          "flowDate": "2021-01-26",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2020-08-27",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待驳回复审",
+          "flowDate": "2021-03-22",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-20",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1750",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2021-07-06"
+        },
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        },
+        {
+          "annoNo": "1738",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2021-04-06"
+        }
+      ],
+      "商标最新状态日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "eec54ad00d111c399265b6de3c781f59",
+      "商标名称（中文）": "图形",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册商标",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 12,
+      "国际分类名": "运输工具",
+      "申请/注册号": 30355347,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-19",
+      "注册日期": "2019-03-14",
+      "初审公告期号": 1627,
+      "初审公告日期": "2018-12-13",
+      "注册公告期号": 1639,
+      "注册公告日期": "2019-03-14",
+      "有效期": "2019年03月14日至2029年03月13日",
+      "商品服务范围": [
+        {
+          "prdName": "电动运载工具",
+          "groupCode": "1204"
+        },
+        {
+          "prdName": "运载工具用轮胎",
+          "groupCode": "1208"
+        },
+        {
+          "prdName": "汽车",
+          "groupCode": "1202"
+        },
+        {
+          "prdName": "陆、空、水或铁路用机动运载工具",
+          "groupCode": "1201"
+        },
+        {
+          "prdName": "电动运载工具",
+          "groupCode": "1205"
+        },
+        {
+          "prdName": "自行车",
+          "groupCode": "1204"
+        },
+        {
+          "prdName": "电动运载工具",
+          "groupCode": "1210"
+        },
+        {
+          "prdName": "陆、空、水或铁路用机动运载工具",
+          "groupCode": "1204"
+        },
+        {
+          "prdName": "电动运载工具",
+          "groupCode": "1201"
+        },
+        {
+          "prdName": "运载工具内装饰品",
+          "groupCode": "1211"
+        },
+        {
+          "prdName": "陆、空、水或铁路用机动运载工具",
+          "groupCode": "1210"
+        },
+        {
+          "prdName": "儿童安全座（运载工具用）",
+          "groupCode": "1211"
+        },
+        {
+          "prdName": "陆、空、水或铁路用机动运载工具",
+          "groupCode": "1209"
+        },
+        {
+          "prdName": "陆、空、水或铁路用机动运载工具",
+          "groupCode": "1202"
+        },
+        {
+          "prdName": "手推车",
+          "groupCode": "1206"
+        },
+        {
+          "prdName": "电动自行车",
+          "groupCode": "1204"
+        },
+        {
+          "prdName": "电动运载工具",
+          "groupCode": "1202"
+        },
+        {
+          "prdName": "婴儿车",
+          "groupCode": "1206"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-05-04",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-19",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2019-06-05",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-28",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-19",
+          "flowName": "商标注册申请"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1639",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2019-03-13"
+        },
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        },
+        {
+          "annoNo": "1627",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2018-12-13"
+        }
+      ],
+      "商标最新状态日期": "2023-04-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "e41cf7330a17ff61d5e37d0aec7f73e9",
+      "商标名称（中文）": "图形",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册公告",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 7,
+      "国际分类名": "机械设备",
+      "申请/注册号": 30358433,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-19",
+      "注册日期": "2019-06-14",
+      "初审公告期号": 1639,
+      "初审公告日期": "2019-03-13",
+      "注册公告期号": 1651,
+      "注册公告日期": "2019-06-14",
+      "有效期": "2019年06月14日至2029年06月13日",
+      "商品服务范围": [
+        {
+          "prdName": "压铸机",
+          "groupCode": "0736"
+        },
+        {
+          "prdName": "模压加工机器",
+          "groupCode": "0726"
+        },
+        {
+          "prdName": "车床",
+          "groupCode": "0742"
+        },
+        {
+          "prdName": "冲洗机",
+          "groupCode": "0730"
+        },
+        {
+          "prdName": "铸模机",
+          "groupCode": "0736"
+        },
+        {
+          "prdName": "内燃机（非陆地车辆用）",
+          "groupCode": "0738"
+        },
+        {
+          "prdName": "汽车发动机活塞",
+          "groupCode": "0748"
+        },
+        {
+          "prdName": "冲床（工业用机器）",
+          "groupCode": "0735"
+        },
+        {
+          "prdName": "铸件设备",
+          "groupCode": "0736"
+        },
+        {
+          "prdName": "加工塑料用模具",
+          "groupCode": "0726"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "等待驳回通知发文",
+          "flowDate": "2018-12-29",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-19",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-05-04",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待驳回复审",
+          "flowDate": "2019-02-22",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-31",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-19",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        },
+        {
+          "annoNo": "1651",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2019-06-13"
+        },
+        {
+          "annoNo": "1639",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2019-03-13"
+        }
+      ],
+      "商标最新状态日期": "2023-04-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "b35e1735dd5de1f532efa6413b9aadaa",
+      "商标名称（中文）": "图形",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册商标",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 10,
+      "国际分类名": "医疗器械",
+      "申请/注册号": 30355354,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-19",
+      "注册日期": "2019-03-14",
+      "初审公告期号": 1627,
+      "初审公告日期": "2018-12-13",
+      "注册公告期号": 1639,
+      "注册公告日期": "2019-03-14",
+      "有效期": "2019年03月14日至2029年03月13日",
+      "商品服务范围": [
+        {
+          "prdName": "牙科设备和仪器",
+          "groupCode": "1002"
+        },
+        {
+          "prdName": "电疗器械",
+          "groupCode": "1003"
+        },
+        {
+          "prdName": "医疗器械和仪器",
+          "groupCode": "1001"
+        },
+        {
+          "prdName": "避孕套",
+          "groupCode": "1006"
+        },
+        {
+          "prdName": "矫形用物品",
+          "groupCode": "1008"
+        },
+        {
+          "prdName": "按摩器械",
+          "groupCode": "1001"
+        },
+        {
+          "prdName": "口罩",
+          "groupCode": "1004"
+        },
+        {
+          "prdName": "缝合材料",
+          "groupCode": "1009"
+        },
+        {
+          "prdName": "奶瓶",
+          "groupCode": "1005"
+        },
+        {
+          "prdName": "理疗设备",
+          "groupCode": "1003"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-05-04",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-27",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-19",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-20",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2019-05-22",
+          "flowName": "商标注册申请"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1639",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2019-03-13"
+        },
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        },
+        {
+          "annoNo": "1627",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2018-12-13"
+        }
+      ],
+      "商标最新状态日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "92bee42b829e39c4a8480db0b17e5c11",
+      "商标名称（中文）": "图形",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册商标",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 8,
+      "国际分类名": "手工器械",
+      "申请/注册号": 30353716,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-19",
+      "注册日期": "2019-06-14",
+      "初审公告期号": 1639,
+      "初审公告日期": "2019-03-13",
+      "注册公告期号": 1651,
+      "注册公告日期": "2019-06-14",
+      "有效期": "2019年06月14日至2029年06月13日",
+      "商品服务范围": [
+        {
+          "prdName": "剃须刀",
+          "groupCode": "0806"
+        },
+        {
+          "prdName": "剪刀",
+          "groupCode": "0810"
+        },
+        {
+          "prdName": "指甲刀（电动或非电动的）",
+          "groupCode": "0806"
+        },
+        {
+          "prdName": "刀",
+          "groupCode": "0810"
+        },
+        {
+          "prdName": "园艺工具（手动的）",
+          "groupCode": "0803"
+        },
+        {
+          "prdName": "农业器具（手动的）",
+          "groupCode": "0802"
+        },
+        {
+          "prdName": "电动编发器",
+          "groupCode": "0806"
+        },
+        {
+          "prdName": "鱼叉",
+          "groupCode": "0805"
+        },
+        {
+          "prdName": "磨具（手工具）",
+          "groupCode": "0801"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-28",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-19",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-20",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "等待驳回通知发文",
+          "flowDate": "2018-12-29",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待驳回复审",
+          "flowDate": "2019-02-23",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-05-04",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2019-08-25",
+          "flowName": "商标注册申请"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1639",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2019-03-13"
+        },
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        },
+        {
+          "annoNo": "1651",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2019-06-13"
+        }
+      ],
+      "商标最新状态日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "8ca2d124b8c42b8592fdf86fa3d3457a",
+      "商标名称（中文）": "图形",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "无效",
+      "清洗后商标状态": "商标申请中",
+      "商标状态归类": "申请中",
+      "国际分类码": 42,
+      "国际分类名": "网站服务",
+      "申请/注册号": 30363096,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-19",
+      "注册日期": "",
+      "初审公告期号": "",
+      "初审公告日期": "",
+      "注册公告期号": "",
+      "注册公告日期": "",
+      "有效期": "",
+      "商品服务范围": [
+        {
+          "prdName": "",
+          "groupCode": ""
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-05-04",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待驳回通知发文",
+          "flowDate": "2019-01-08",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-19",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待驳回复审",
+          "flowDate": "2019-03-05",
+          "flowName": "商标注册申请"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "",
+          "annoName": "",
+          "annoDate": ""
+        }
+      ],
+      "商标最新状态日期": "2019-03-05"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "7e99c26636673f647eab5e82a2bc19a5",
+      "商标名称（中文）": "图形",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册商标",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 40,
+      "国际分类名": "材料加工",
+      "申请/注册号": 30364736,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-19",
+      "注册日期": "2020-04-28",
+      "初审公告期号": 1681,
+      "初审公告日期": "2020-01-27",
+      "注册公告期号": 1693,
+      "注册公告日期": "2020-04-28",
+      "有效期": "2020年04月28日至2030年04月27日",
+      "商品服务范围": [
+        {
+          "prdName": "食物熏制",
+          "groupCode": "4008"
+        },
+        {
+          "prdName": "水处理",
+          "groupCode": "4014"
+        },
+        {
+          "prdName": "面粉加工",
+          "groupCode": "4008"
+        },
+        {
+          "prdName": "食物冷冻",
+          "groupCode": "4008"
+        },
+        {
+          "prdName": "药材加工",
+          "groupCode": "4015"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "评审分案",
+          "flowDate": "2019-06-24",
+          "flowName": "驳回复审"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-31",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-19",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "等待驳回通知发文",
+          "flowDate": "2018-12-29",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2019-01-31",
+          "flowName": "驳回复审"
+        },
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-05-04",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2019-01-30",
+          "flowName": "驳回复审"
+        },
+        {
+          "flowTitle": "等待实审裁文发文",
+          "flowDate": "2019-09-05",
+          "flowName": "驳回复审"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-19",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待打印注册证",
+          "flowDate": "2020-06-09",
+          "flowName": "驳回复审"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1693",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2020-04-27"
+        },
+        {
+          "annoNo": "1681",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2020-01-27"
+        },
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        }
+      ],
+      "商标最新状态日期": "2023-04-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "787d309fd6a961c43af4fc9a38c2ac37",
+      "商标名称（中文）": "图形",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册商标",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 11,
+      "国际分类名": "灯具空调",
+      "申请/注册号": 30372257,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-19",
+      "注册日期": "2019-06-14",
+      "初审公告期号": 1639,
+      "初审公告日期": "2019-03-13",
+      "注册公告期号": 1651,
+      "注册公告日期": "2019-06-14",
+      "有效期": "2019年06月14日至2029年06月13日",
+      "商品服务范围": [
+        {
+          "prdName": "水净化设备和机器",
+          "groupCode": "1110"
+        },
+        {
+          "prdName": "浴室装置",
+          "groupCode": "1109"
+        },
+        {
+          "prdName": "烹调用装置和设备",
+          "groupCode": "1104"
+        },
+        {
+          "prdName": "消毒设备",
+          "groupCode": "1110"
+        },
+        {
+          "prdName": "空气净化装置和机器",
+          "groupCode": "1106"
+        },
+        {
+          "prdName": "电暖器",
+          "groupCode": "1111"
+        },
+        {
+          "prdName": "水净化装置",
+          "groupCode": "1110"
+        },
+        {
+          "prdName": "水冲洗设备",
+          "groupCode": "1109"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "等待驳回复审",
+          "flowDate": "2019-02-23",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-05-09",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-19",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-20",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2019-09-05",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待驳回通知发文",
+          "flowDate": "2018-12-29",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-27",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1651",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2019-06-13"
+        },
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        },
+        {
+          "annoNo": "1639",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2019-03-13"
+        }
+      ],
+      "商标最新状态日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "1b197c886a9ebe56ffcb598986c46d75",
+      "商标名称（中文）": "图形",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册商标",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 6,
+      "国际分类名": "金属材料",
+      "申请/注册号": 30364756,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-19",
+      "注册日期": "2019-06-14",
+      "初审公告期号": 1639,
+      "初审公告日期": "2019-03-13",
+      "注册公告期号": 1651,
+      "注册公告日期": "2019-06-14",
+      "有效期": "2019年06月14日至2029年06月13日",
+      "商品服务范围": [
+        {
+          "prdName": "普通金属艺术品",
+          "groupCode": "0622"
+        },
+        {
+          "prdName": "普通金属合金",
+          "groupCode": "0601"
+        },
+        {
+          "prdName": "金属锁（非电）",
+          "groupCode": "0610"
+        },
+        {
+          "prdName": "家具用金属附件",
+          "groupCode": "0608"
+        },
+        {
+          "prdName": "钢管",
+          "groupCode": "0602"
+        },
+        {
+          "prdName": "保险柜",
+          "groupCode": "0611"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-05-04",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-19",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2019-08-30",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-20",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "等待驳回复审",
+          "flowDate": "2019-02-22",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待驳回通知发文",
+          "flowDate": "2018-12-29",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-31",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1651",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2019-06-13"
+        },
+        {
+          "annoNo": "1639",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2019-03-13"
+        },
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        }
+      ],
+      "商标最新状态日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "f2c4d82799dccf697809121151c90fb2",
+      "商标名称（中文）": "隆园",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 10,
+      "国际分类名": "医疗器械",
+      "申请/注册号": 30078829,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-08",
+      "注册日期": "2019-02-07",
+      "初审公告期号": 1622,
+      "初审公告日期": "2018-11-06",
+      "注册公告期号": 1634,
+      "注册公告日期": "2019-02-07",
+      "有效期": "2019年02月07日至2029年02月06日",
+      "商品服务范围": [
+        {
+          "prdName": "奶瓶",
+          "groupCode": "1005"
+        },
+        {
+          "prdName": "缝合材料",
+          "groupCode": "1009"
+        },
+        {
+          "prdName": "避孕套",
+          "groupCode": "1006"
+        },
+        {
+          "prdName": "电疗器械",
+          "groupCode": "1003"
+        },
+        {
+          "prdName": "按摩器械",
+          "groupCode": "1001"
+        },
+        {
+          "prdName": "口罩",
+          "groupCode": "1004"
+        },
+        {
+          "prdName": "理疗设备",
+          "groupCode": "1003"
+        },
+        {
+          "prdName": "医疗器械和仪器",
+          "groupCode": "1001"
+        },
+        {
+          "prdName": "矫形用物品",
+          "groupCode": "1008"
+        },
+        {
+          "prdName": "牙科设备和仪器",
+          "groupCode": "1002"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-28",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-19",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-08",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-04-24",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2019-03-20",
+          "flowName": "商标注册申请"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        },
+        {
+          "annoNo": "1634",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2019-02-06"
+        },
+        {
+          "annoNo": "1622",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2018-11-06"
+        }
+      ],
+      "商标最新状态日期": "2023-04-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "dc7d7ce4c5b57d8a1fd012589f91fb18",
+      "商标名称（中文）": "隆圆",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 12,
+      "国际分类名": "运输工具",
+      "申请/注册号": 30090389,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-08",
+      "注册日期": "2019-01-28",
+      "初审公告期号": 1621,
+      "初审公告日期": "2018-10-27",
+      "注册公告期号": 1633,
+      "注册公告日期": "2019-01-28",
+      "有效期": "2019年01月28日至2029年01月27日",
+      "商品服务范围": [
+        {
+          "prdName": "陆、空、水或铁路用机动运载工具",
+          "groupCode": "1204"
+        },
+        {
+          "prdName": "陆、空、水或铁路用机动运载工具",
+          "groupCode": "1209"
+        },
+        {
+          "prdName": "陆、空、水或铁路用机动运载工具",
+          "groupCode": "1201"
+        },
+        {
+          "prdName": "电动运载工具",
+          "groupCode": "1204"
+        },
+        {
+          "prdName": "运载工具用轮胎",
+          "groupCode": "1208"
+        },
+        {
+          "prdName": "电动运载工具",
+          "groupCode": "1202"
+        },
+        {
+          "prdName": "陆、空、水或铁路用机动运载工具",
+          "groupCode": "1210"
+        },
+        {
+          "prdName": "电动运载工具",
+          "groupCode": "1210"
+        },
+        {
+          "prdName": "自行车",
+          "groupCode": "1204"
+        },
+        {
+          "prdName": "儿童安全座（运载工具用）",
+          "groupCode": "1211"
+        },
+        {
+          "prdName": "电动自行车",
+          "groupCode": "1204"
+        },
+        {
+          "prdName": "运载工具内装饰品",
+          "groupCode": "1211"
+        },
+        {
+          "prdName": "汽车",
+          "groupCode": "1202"
+        },
+        {
+          "prdName": "婴儿车",
+          "groupCode": "1206"
+        },
+        {
+          "prdName": "手推车",
+          "groupCode": "1206"
+        },
+        {
+          "prdName": "电动运载工具",
+          "groupCode": "1205"
+        },
+        {
+          "prdName": "陆、空、水或铁路用机动运载工具",
+          "groupCode": "1202"
+        },
+        {
+          "prdName": "电动运载工具",
+          "groupCode": "1201"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-20",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-04-23",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-08",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2019-03-20",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-28",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1633",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2019-01-27"
+        },
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        },
+        {
+          "annoNo": "1621",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2018-10-27"
+        }
+      ],
+      "商标最新状态日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "d56a001a60fbcee995c820c4a009536d",
+      "商标名称（中文）": "隆园",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 8,
+      "国际分类名": "手工器械",
+      "申请/注册号": 30086277,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-08",
+      "注册日期": "2019-01-28",
+      "初审公告期号": 1621,
+      "初审公告日期": "2018-10-27",
+      "注册公告期号": 1633,
+      "注册公告日期": "2019-01-28",
+      "有效期": "2019年01月28日至2029年01月27日",
+      "商品服务范围": [
+        {
+          "prdName": "指甲刀（电动或非电动的）",
+          "groupCode": "0806"
+        },
+        {
+          "prdName": "剪刀",
+          "groupCode": "0810"
+        },
+        {
+          "prdName": "磨具（手工具）",
+          "groupCode": "0801"
+        },
+        {
+          "prdName": "电动编发器",
+          "groupCode": "0806"
+        },
+        {
+          "prdName": "鱼叉",
+          "groupCode": "0805"
+        },
+        {
+          "prdName": "餐具（刀、叉和匙）",
+          "groupCode": "0812"
+        },
+        {
+          "prdName": "园艺工具（手动的）",
+          "groupCode": "0803"
+        },
+        {
+          "prdName": "刀",
+          "groupCode": "0810"
+        },
+        {
+          "prdName": "剃须刀",
+          "groupCode": "0806"
+        },
+        {
+          "prdName": "农业器具（手动的）",
+          "groupCode": "0802"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-08",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-04-23",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2019-03-26",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-19",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-31",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        },
+        {
+          "annoNo": "1633",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2019-01-27"
+        },
+        {
+          "annoNo": "1621",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2018-10-27"
+        }
+      ],
+      "商标最新状态日期": "2023-04-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "d1473fd5132b54d72ec9ac14fcde5632",
+      "商标名称（中文）": "隆园",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 42,
+      "国际分类名": "网站服务",
+      "申请/注册号": 30090276,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-08",
+      "注册日期": "2019-01-28",
+      "初审公告期号": 1621,
+      "初审公告日期": "2018-10-27",
+      "注册公告期号": 1633,
+      "注册公告日期": "2019-01-28",
+      "有效期": "2019年01月28日至2029年01月27日",
+      "商品服务范围": [
+        {
+          "prdName": "托管计算机站（网站）",
+          "groupCode": "4220"
+        },
+        {
+          "prdName": "机械研究",
+          "groupCode": "4209"
+        },
+        {
+          "prdName": "技术研究",
+          "groupCode": "4209"
+        },
+        {
+          "prdName": "计算机软件设计",
+          "groupCode": "4220"
+        },
+        {
+          "prdName": "通过网站提供计算机技术和编程信息",
+          "groupCode": "4220"
+        },
+        {
+          "prdName": "替他人创建和维护网站",
+          "groupCode": "4220"
+        },
+        {
+          "prdName": "提供互联网搜索引擎",
+          "groupCode": "4220"
+        },
+        {
+          "prdName": "包装设计",
+          "groupCode": "4216"
+        },
+        {
+          "prdName": "工业品外观设计",
+          "groupCode": "4216"
+        },
+        {
+          "prdName": "计算机编程",
+          "groupCode": "4220"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2019-03-20",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-04-24",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-08",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-27",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-20",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1621",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2018-10-27"
+        },
+        {
+          "annoNo": "1633",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2019-01-27"
+        },
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        }
+      ],
+      "商标最新状态日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "d12bb9f4ab28666df75e66e5db775fb9",
+      "商标名称（中文）": "隆圆",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 7,
+      "国际分类名": "机械设备",
+      "申请/注册号": 30098957,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-08",
+      "注册日期": "2019-01-28",
+      "初审公告期号": 1621,
+      "初审公告日期": "2018-10-27",
+      "注册公告期号": 1633,
+      "注册公告日期": "2019-01-28",
+      "有效期": "2019年01月28日至2029年01月27日",
+      "商品服务范围": [
+        {
+          "prdName": "铸模机",
+          "groupCode": "0736"
+        },
+        {
+          "prdName": "压铸机",
+          "groupCode": "0736"
+        },
+        {
+          "prdName": "内燃机（非陆地车辆用）",
+          "groupCode": "0738"
+        },
+        {
+          "prdName": "汽车发动机活塞",
+          "groupCode": "0748"
+        },
+        {
+          "prdName": "加工塑料用模具",
+          "groupCode": "0726"
+        },
+        {
+          "prdName": "车床",
+          "groupCode": "0742"
+        },
+        {
+          "prdName": "铸件设备",
+          "groupCode": "0736"
+        },
+        {
+          "prdName": "冲洗机",
+          "groupCode": "0730"
+        },
+        {
+          "prdName": "冲床（工业用机器）",
+          "groupCode": "0735"
+        },
+        {
+          "prdName": "模压加工机器",
+          "groupCode": "0726"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2019-03-23",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-20",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-08",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-27",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-04-24",
+          "flowName": "商标注册申请"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        },
+        {
+          "annoNo": "1621",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2018-10-27"
+        },
+        {
+          "annoNo": "1633",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2019-01-27"
+        }
+      ],
+      "商标最新状态日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "ccfc398d7e261831e4c04ae9705d7302",
+      "商标名称（中文）": "隆圆",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 6,
+      "国际分类名": "金属材料",
+      "申请/注册号": 30089587,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-08",
+      "注册日期": "2019-01-28",
+      "初审公告期号": 1621,
+      "初审公告日期": "2018-10-27",
+      "注册公告期号": 1633,
+      "注册公告日期": "2019-01-28",
+      "有效期": "2019年01月28日至2029年01月27日",
+      "商品服务范围": [
+        {
+          "prdName": "普通金属艺术品",
+          "groupCode": "0622"
+        },
+        {
+          "prdName": "保险柜",
+          "groupCode": "0611"
+        },
+        {
+          "prdName": "金属锁（非电）",
+          "groupCode": "0610"
+        },
+        {
+          "prdName": "小五金器具",
+          "groupCode": "0608"
+        },
+        {
+          "prdName": "五金器具",
+          "groupCode": "0607"
+        },
+        {
+          "prdName": "小五金器具",
+          "groupCode": "0609"
+        },
+        {
+          "prdName": "普通金属合金",
+          "groupCode": "0601"
+        },
+        {
+          "prdName": "金属门",
+          "groupCode": "0603"
+        },
+        {
+          "prdName": "钢管",
+          "groupCode": "0602"
+        },
+        {
+          "prdName": "家具用金属附件",
+          "groupCode": "0608"
+        },
+        {
+          "prdName": "小五金器具",
+          "groupCode": "0607"
+        },
+        {
+          "prdName": "五金器具",
+          "groupCode": "0609"
+        },
+        {
+          "prdName": "五金器具",
+          "groupCode": "0608"
+        },
+        {
+          "prdName": "金属建筑材料",
+          "groupCode": "0603"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-31",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2019-03-23",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-20",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-08",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-04-23",
+          "flowName": "商标注册申请"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1621",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2018-10-27"
+        },
+        {
+          "annoNo": "1633",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2019-01-27"
+        },
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        }
+      ],
+      "商标最新状态日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "b168cbd56ff390f4204161fccb45da77",
+      "商标名称（中文）": "隆园",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 11,
+      "国际分类名": "灯具空调",
+      "申请/注册号": 30086268,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-08",
+      "注册日期": "2019-01-28",
+      "初审公告期号": 1621,
+      "初审公告日期": "2018-10-27",
+      "注册公告期号": 1633,
+      "注册公告日期": "2019-01-28",
+      "有效期": "2019年01月28日至2029年01月27日",
+      "商品服务范围": [
+        {
+          "prdName": "水净化设备和机器",
+          "groupCode": "1110"
+        },
+        {
+          "prdName": "电暖器",
+          "groupCode": "1111"
+        },
+        {
+          "prdName": "空气净化装置和机器",
+          "groupCode": "1106"
+        },
+        {
+          "prdName": "消毒设备",
+          "groupCode": "1110"
+        },
+        {
+          "prdName": "水净化装置",
+          "groupCode": "1110"
+        },
+        {
+          "prdName": "浴室装置",
+          "groupCode": "1109"
+        },
+        {
+          "prdName": "照明器械及装置",
+          "groupCode": "1101"
+        },
+        {
+          "prdName": "烹调用装置和设备",
+          "groupCode": "1104"
+        },
+        {
+          "prdName": "灯",
+          "groupCode": "1101"
+        },
+        {
+          "prdName": "水冲洗设备",
+          "groupCode": "1109"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-08",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-04-23",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2019-03-26",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-20",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-31",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1633",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2019-01-27"
+        },
+        {
+          "annoNo": "1621",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2018-10-27"
+        },
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        }
+      ],
+      "商标最新状态日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "b0ce32cc6193f94c838cad722184768c",
+      "商标名称（中文）": "隆园",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 6,
+      "国际分类名": "金属材料",
+      "申请/注册号": 30099320,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-08",
+      "注册日期": "2019-01-28",
+      "初审公告期号": 1621,
+      "初审公告日期": "2018-10-27",
+      "注册公告期号": 1633,
+      "注册公告日期": "2019-01-28",
+      "有效期": "2019年01月28日至2029年01月27日",
+      "商品服务范围": [
+        {
+          "prdName": "小五金器具",
+          "groupCode": "0608"
+        },
+        {
+          "prdName": "金属锁（非电）",
+          "groupCode": "0610"
+        },
+        {
+          "prdName": "家具用金属附件",
+          "groupCode": "0608"
+        },
+        {
+          "prdName": "钢管",
+          "groupCode": "0602"
+        },
+        {
+          "prdName": "普通金属艺术品",
+          "groupCode": "0622"
+        },
+        {
+          "prdName": "五金器具",
+          "groupCode": "0609"
+        },
+        {
+          "prdName": "保险柜",
+          "groupCode": "0611"
+        },
+        {
+          "prdName": "普通金属合金",
+          "groupCode": "0601"
+        },
+        {
+          "prdName": "小五金器具",
+          "groupCode": "0607"
+        },
+        {
+          "prdName": "五金器具",
+          "groupCode": "0607"
+        },
+        {
+          "prdName": "金属建筑材料",
+          "groupCode": "0603"
+        },
+        {
+          "prdName": "金属门",
+          "groupCode": "0603"
+        },
+        {
+          "prdName": "五金器具",
+          "groupCode": "0608"
+        },
+        {
+          "prdName": "小五金器具",
+          "groupCode": "0609"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-27",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2019-03-21",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-20",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-04-23",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-08",
+          "flowName": "商标注册申请"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1621",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2018-10-27"
+        },
+        {
+          "annoNo": "1633",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2019-01-27"
+        },
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        }
+      ],
+      "商标最新状态日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "773eefe31c597e09866b04064de0fd14",
+      "商标名称（中文）": "隆圆",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 40,
+      "国际分类名": "材料加工",
+      "申请/注册号": 30089500,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-08",
+      "注册日期": "2019-01-28",
+      "初审公告期号": 1621,
+      "初审公告日期": "2018-10-27",
+      "注册公告期号": 1633,
+      "注册公告日期": "2019-01-28",
+      "有效期": "2019年01月28日至2029年01月27日",
+      "商品服务范围": [
+        {
+          "prdName": "金属处理",
+          "groupCode": "4002"
+        },
+        {
+          "prdName": "服装制作",
+          "groupCode": "4010"
+        },
+        {
+          "prdName": "木器制作",
+          "groupCode": "4004"
+        },
+        {
+          "prdName": "金属铸造",
+          "groupCode": "4002"
+        },
+        {
+          "prdName": "食物熏制",
+          "groupCode": "4008"
+        },
+        {
+          "prdName": "药材加工",
+          "groupCode": "4015"
+        },
+        {
+          "prdName": "食物冷冻",
+          "groupCode": "4008"
+        },
+        {
+          "prdName": "水处理",
+          "groupCode": "4014"
+        },
+        {
+          "prdName": "面粉加工",
+          "groupCode": "4008"
+        },
+        {
+          "prdName": "空气净化",
+          "groupCode": "4013"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2019-03-22",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-27",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-04-24",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-08",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-20",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1621",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2018-10-27"
+        },
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        },
+        {
+          "annoNo": "1633",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2019-01-27"
+        }
+      ],
+      "商标最新状态日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "376964209c6213833c2377a2c9b32010",
+      "商标名称（中文）": "隆园",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 40,
+      "国际分类名": "材料加工",
+      "申请/注册号": 30081191,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-08",
+      "注册日期": "2019-01-28",
+      "初审公告期号": 1621,
+      "初审公告日期": "2018-10-27",
+      "注册公告期号": 1633,
+      "注册公告日期": "2019-01-28",
+      "有效期": "2019年01月28日至2029年01月27日",
+      "商品服务范围": [
+        {
+          "prdName": "食物冷冻",
+          "groupCode": "4008"
+        },
+        {
+          "prdName": "水处理",
+          "groupCode": "4014"
+        },
+        {
+          "prdName": "食物熏制",
+          "groupCode": "4008"
+        },
+        {
+          "prdName": "服装制作",
+          "groupCode": "4010"
+        },
+        {
+          "prdName": "面粉加工",
+          "groupCode": "4008"
+        },
+        {
+          "prdName": "木器制作",
+          "groupCode": "4004"
+        },
+        {
+          "prdName": "空气净化",
+          "groupCode": "4013"
+        },
+        {
+          "prdName": "金属处理",
+          "groupCode": "4002"
+        },
+        {
+          "prdName": "金属铸造",
+          "groupCode": "4002"
+        },
+        {
+          "prdName": "药材加工",
+          "groupCode": "4015"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-04-23",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2019-03-26",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-08",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-20",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-28",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        },
+        {
+          "annoNo": "1621",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2018-10-27"
+        },
+        {
+          "annoNo": "1633",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2019-01-27"
+        }
+      ],
+      "商标最新状态日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "30d4b751d439b3139ac86c0d277ce74d",
+      "商标名称（中文）": "隆圆",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 8,
+      "国际分类名": "手工器械",
+      "申请/注册号": 30084764,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-08",
+      "注册日期": "2019-01-28",
+      "初审公告期号": 1621,
+      "初审公告日期": "2018-10-27",
+      "注册公告期号": 1633,
+      "注册公告日期": "2019-01-28",
+      "有效期": "2019年01月28日至2029年01月27日",
+      "商品服务范围": [
+        {
+          "prdName": "鱼叉",
+          "groupCode": "0805"
+        },
+        {
+          "prdName": "剃须刀",
+          "groupCode": "0806"
+        },
+        {
+          "prdName": "刀",
+          "groupCode": "0810"
+        },
+        {
+          "prdName": "电动编发器",
+          "groupCode": "0806"
+        },
+        {
+          "prdName": "剪刀",
+          "groupCode": "0810"
+        },
+        {
+          "prdName": "农业器具（手动的）",
+          "groupCode": "0802"
+        },
+        {
+          "prdName": "磨具（手工具）",
+          "groupCode": "0801"
+        },
+        {
+          "prdName": "园艺工具（手动的）",
+          "groupCode": "0803"
+        },
+        {
+          "prdName": "指甲刀（电动或非电动的）",
+          "groupCode": "0806"
+        },
+        {
+          "prdName": "餐具（刀、叉和匙）",
+          "groupCode": "0812"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-28",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2019-03-20",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-08",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-19",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-04-25",
+          "flowName": "商标注册申请"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1633",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2019-01-27"
+        },
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        },
+        {
+          "annoNo": "1621",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2018-10-27"
+        }
+      ],
+      "商标最新状态日期": "2023-04-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "28aa245daafe2efd0eb2a13ca01c386e",
+      "商标名称（中文）": "隆园",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 7,
+      "国际分类名": "机械设备",
+      "申请/注册号": 30093917,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-08",
+      "注册日期": "2019-02-07",
+      "初审公告期号": 1622,
+      "初审公告日期": "2018-11-06",
+      "注册公告期号": 1634,
+      "注册公告日期": "2019-02-07",
+      "有效期": "2019年02月07日至2029年02月06日",
+      "商品服务范围": [
+        {
+          "prdName": "压铸机",
+          "groupCode": "0736"
+        },
+        {
+          "prdName": "加工塑料用模具",
+          "groupCode": "0726"
+        },
+        {
+          "prdName": "铸件设备",
+          "groupCode": "0736"
+        },
+        {
+          "prdName": "模压加工机器",
+          "groupCode": "0726"
+        },
+        {
+          "prdName": "冲床（工业用机器）",
+          "groupCode": "0735"
+        },
+        {
+          "prdName": "冲洗机",
+          "groupCode": "0730"
+        },
+        {
+          "prdName": "车床",
+          "groupCode": "0742"
+        },
+        {
+          "prdName": "汽车发动机活塞",
+          "groupCode": "0748"
+        },
+        {
+          "prdName": "铸模机",
+          "groupCode": "0736"
+        },
+        {
+          "prdName": "内燃机（非陆地车辆用）",
+          "groupCode": "0738"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-31",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-04-24",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2019-03-20",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-08",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-20",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        },
+        {
+          "annoNo": "1634",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2019-02-06"
+        },
+        {
+          "annoNo": "1622",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2018-11-06"
+        }
+      ],
+      "商标最新状态日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "25cfdac2bb9ac98204125aea1ba9b01b",
+      "商标名称（中文）": "隆圆",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 11,
+      "国际分类名": "灯具空调",
+      "申请/注册号": 30087059,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-08",
+      "注册日期": "2019-02-07",
+      "初审公告期号": 1622,
+      "初审公告日期": "2018-11-06",
+      "注册公告期号": 1634,
+      "注册公告日期": "2019-02-07",
+      "有效期": "2019年02月07日至2029年02月06日",
+      "商品服务范围": [
+        {
+          "prdName": "消毒设备",
+          "groupCode": "1110"
+        },
+        {
+          "prdName": "浴室装置",
+          "groupCode": "1109"
+        },
+        {
+          "prdName": "烹调用装置和设备",
+          "groupCode": "1104"
+        },
+        {
+          "prdName": "灯",
+          "groupCode": "1101"
+        },
+        {
+          "prdName": "水冲洗设备",
+          "groupCode": "1109"
+        },
+        {
+          "prdName": "电暖器",
+          "groupCode": "1111"
+        },
+        {
+          "prdName": "水净化设备和机器",
+          "groupCode": "1110"
+        },
+        {
+          "prdName": "空气净化装置和机器",
+          "groupCode": "1106"
+        },
+        {
+          "prdName": "照明器械及装置",
+          "groupCode": "1101"
+        },
+        {
+          "prdName": "水净化装置",
+          "groupCode": "1110"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2019-03-27",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-08",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-04-23",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-20",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-27",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1634",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2019-02-06"
+        },
+        {
+          "annoNo": "1622",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2018-11-06"
+        },
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        }
+      ],
+      "商标最新状态日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "19cb5e925b80cf575348d5d622384f1d",
+      "商标名称（中文）": "隆圆",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 10,
+      "国际分类名": "医疗器械",
+      "申请/注册号": 30087061,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-08",
+      "注册日期": "2019-01-28",
+      "初审公告期号": 1621,
+      "初审公告日期": "2018-10-27",
+      "注册公告期号": 1633,
+      "注册公告日期": "2019-01-28",
+      "有效期": "2019年01月28日至2029年01月27日",
+      "商品服务范围": [
+        {
+          "prdName": "口罩",
+          "groupCode": "1004"
+        },
+        {
+          "prdName": "避孕套",
+          "groupCode": "1006"
+        },
+        {
+          "prdName": "矫形用物品",
+          "groupCode": "1008"
+        },
+        {
+          "prdName": "理疗设备",
+          "groupCode": "1003"
+        },
+        {
+          "prdName": "牙科设备和仪器",
+          "groupCode": "1002"
+        },
+        {
+          "prdName": "按摩器械",
+          "groupCode": "1001"
+        },
+        {
+          "prdName": "缝合材料",
+          "groupCode": "1009"
+        },
+        {
+          "prdName": "奶瓶",
+          "groupCode": "1005"
+        },
+        {
+          "prdName": "医疗器械和仪器",
+          "groupCode": "1001"
+        },
+        {
+          "prdName": "电疗器械",
+          "groupCode": "1003"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-31",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-08",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-19",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-04-23",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2019-03-20",
+          "flowName": "商标注册申请"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1621",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2018-10-27"
+        },
+        {
+          "annoNo": "1633",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2019-01-27"
+        },
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        }
+      ],
+      "商标最新状态日期": "2023-04-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "11cd25bdae2025ce67234125d7803d4e",
+      "商标名称（中文）": "隆圆",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 42,
+      "国际分类名": "网站服务",
+      "申请/注册号": 30093926,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-08",
+      "注册日期": "2019-01-28",
+      "初审公告期号": 1621,
+      "初审公告日期": "2018-10-27",
+      "注册公告期号": 1633,
+      "注册公告日期": "2019-01-28",
+      "有效期": "2019年01月28日至2029年01月27日",
+      "商品服务范围": [
+        {
+          "prdName": "通过网站提供计算机技术和编程信息",
+          "groupCode": "4220"
+        },
+        {
+          "prdName": "计算机编程",
+          "groupCode": "4220"
+        },
+        {
+          "prdName": "技术研究",
+          "groupCode": "4209"
+        },
+        {
+          "prdName": "工业品外观设计",
+          "groupCode": "4216"
+        },
+        {
+          "prdName": "计算机软件设计",
+          "groupCode": "4220"
+        },
+        {
+          "prdName": "机械研究",
+          "groupCode": "4209"
+        },
+        {
+          "prdName": "托管计算机站（网站）",
+          "groupCode": "4220"
+        },
+        {
+          "prdName": "替他人创建和维护网站",
+          "groupCode": "4220"
+        },
+        {
+          "prdName": "提供互联网搜索引擎",
+          "groupCode": "4220"
+        },
+        {
+          "prdName": "包装设计",
+          "groupCode": "4216"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2019-03-20",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-08",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-04-24",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-20",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-28",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        },
+        {
+          "annoNo": "1621",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2018-10-27"
+        },
+        {
+          "annoNo": "1633",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2019-01-27"
+        }
+      ],
+      "商标最新状态日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标id": "0d30bc5a0b0361148cff670290fc72fb",
+      "商标名称（中文）": "隆园",
+      "商标名称（英文）": "",
+      "商标名称（中英文）": "",
+      "商标状态": "注册",
+      "清洗后商标状态": "商标已注册",
+      "商标状态归类": "已注册",
+      "国际分类码": 12,
+      "国际分类名": "运输工具",
+      "申请/注册号": 30086265,
+      "申请人名称": "宁波隆源股份有限公司",
+      "申请人类型": "企业",
+      "申请人统一社会认证码": "91330206786792205B",
+      "申请人地址": "浙江省宁波市北仑区大碶庙前山路217号",
+      "代理机构": "北京细软智谷知识产权代理有限责任公司",
+      "申请日期": "2018-04-08",
+      "注册日期": "2019-02-07",
+      "初审公告期号": 1622,
+      "初审公告日期": "2018-11-06",
+      "注册公告期号": 1634,
+      "注册公告日期": "2019-02-07",
+      "有效期": "2019年02月07日至2029年02月06日",
+      "商品服务范围": [
+        {
+          "prdName": "婴儿车",
+          "groupCode": "1206"
+        },
+        {
+          "prdName": "运载工具用轮胎",
+          "groupCode": "1208"
+        },
+        {
+          "prdName": "电动运载工具",
+          "groupCode": "1210"
+        },
+        {
+          "prdName": "电动自行车",
+          "groupCode": "1204"
+        },
+        {
+          "prdName": "陆、空、水或铁路用机动运载工具",
+          "groupCode": "1202"
+        },
+        {
+          "prdName": "运载工具内装饰品",
+          "groupCode": "1211"
+        },
+        {
+          "prdName": "电动运载工具",
+          "groupCode": "1204"
+        },
+        {
+          "prdName": "电动运载工具",
+          "groupCode": "1201"
+        },
+        {
+          "prdName": "自行车",
+          "groupCode": "1204"
+        },
+        {
+          "prdName": "电动运载工具",
+          "groupCode": "1202"
+        },
+        {
+          "prdName": "手推车",
+          "groupCode": "1206"
+        },
+        {
+          "prdName": "儿童安全座（运载工具用）",
+          "groupCode": "1211"
+        },
+        {
+          "prdName": "陆、空、水或铁路用机动运载工具",
+          "groupCode": "1209"
+        },
+        {
+          "prdName": "陆、空、水或铁路用机动运载工具",
+          "groupCode": "1210"
+        },
+        {
+          "prdName": "汽车",
+          "groupCode": "1202"
+        },
+        {
+          "prdName": "陆、空、水或铁路用机动运载工具",
+          "groupCode": "1204"
+        },
+        {
+          "prdName": "陆、空、水或铁路用机动运载工具",
+          "groupCode": "1201"
+        },
+        {
+          "prdName": "电动运载工具",
+          "groupCode": "1205"
+        }
+      ],
+      "保护群组": [],
+      "商标类型": "普通商标",
+      "是否共有商标": "否",
+      "商标图片链接": "",
+      "商标流程信息": [
+        {
+          "flowTitle": "核准证明打印发送",
+          "flowDate": "2023-04-20",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2018-04-08",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "等待注册证发文",
+          "flowDate": "2019-03-19",
+          "flowName": "商标注册申请"
+        },
+        {
+          "flowTitle": "申请收文",
+          "flowDate": "2023-03-31",
+          "flowName": "变更商标申请人/注册人名义/地址"
+        },
+        {
+          "flowTitle": "等待受理通知书发文",
+          "flowDate": "2018-04-23",
+          "flowName": "商标注册申请"
+        }
+      ],
+      "商标公告信息": [
+        {
+          "annoNo": "1634",
+          "annoName": "商标注册公告（一）",
+          "annoDate": "2019-02-06"
+        },
+        {
+          "annoNo": "1622",
+          "annoName": "商标初步审定公告",
+          "annoDate": "2018-11-06"
+        },
+        {
+          "annoNo": "1836",
+          "annoName": "商标注册人/申请人名义及地址变更公告",
+          "annoDate": "2023-04-20"
+        }
+      ],
+      "商标最新状态日期": "2023-04-20"
+    }
+  ],
+  "1.1.23.商品服务范围": [
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "医疗器械",
+      "群组号": 1001
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "医疗器械箱",
+      "群组号": 1001
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "医用诊断设备",
+      "群组号": 1001
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "健美按摩设备",
+      "群组号": 1001
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "医用测试仪",
+      "群组号": 1001
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "外科仪器和器械",
+      "群组号": 1001
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "血糖仪",
+      "群组号": 1001
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "眼科器械",
+      "群组号": 1001
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "医疗分析仪器",
+      "群组号": 1001
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "热气医疗装置",
+      "群组号": 1001
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "管状轮胎",
+      "群组号": 1208
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "补内胎或轮胎用胶黏补片",
+      "群组号": 1208
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "汽车轮胎内胎",
+      "群组号": 1208
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "翻新轮胎用胎面",
+      "群组号": 1208
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "汽车轮胎",
+      "群组号": 1208
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "内胎（汽车轮胎）",
+      "群组号": 1208
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "轮胎内摩丝状填充物",
+      "群组号": 1208
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "补内胎用全套工具",
+      "群组号": 1208
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "充气轮胎",
+      "群组号": 1208
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电动运载工具",
+      "群组号": 1204
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "运载工具用轮胎",
+      "群组号": 1208
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "汽车",
+      "群组号": 1202
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "陆、空、水或铁路用机动运载工具",
+      "群组号": 1201
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电动运载工具",
+      "群组号": 1205
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "自行车",
+      "群组号": 1204
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电动运载工具",
+      "群组号": 1210
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "陆、空、水或铁路用机动运载工具",
+      "群组号": 1204
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电动运载工具",
+      "群组号": 1201
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "运载工具内装饰品",
+      "群组号": 1211
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "陆、空、水或铁路用机动运载工具",
+      "群组号": 1210
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "儿童安全座（运载工具用）",
+      "群组号": 1211
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "陆、空、水或铁路用机动运载工具",
+      "群组号": 1209
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "陆、空、水或铁路用机动运载工具",
+      "群组号": 1202
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "手推车",
+      "群组号": 1206
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电动自行车",
+      "群组号": 1204
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电动运载工具",
+      "群组号": 1202
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "婴儿车",
+      "群组号": 1206
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "压铸机",
+      "群组号": "0736"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "模压加工机器",
+      "群组号": "0726"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "车床",
+      "群组号": "0742"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "冲洗机",
+      "群组号": "0730"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "铸模机",
+      "群组号": "0736"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "内燃机（非陆地车辆用）",
+      "群组号": "0738"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "汽车发动机活塞",
+      "群组号": "0748"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "冲床（工业用机器）",
+      "群组号": "0735"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "铸件设备",
+      "群组号": "0736"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "加工塑料用模具",
+      "群组号": "0726"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "牙科设备和仪器",
+      "群组号": 1002
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电疗器械",
+      "群组号": 1003
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "医疗器械和仪器",
+      "群组号": 1001
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "避孕套",
+      "群组号": 1006
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "矫形用物品",
+      "群组号": 1008
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "按摩器械",
+      "群组号": 1001
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "口罩",
+      "群组号": 1004
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "缝合材料",
+      "群组号": 1009
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "奶瓶",
+      "群组号": 1005
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "理疗设备",
+      "群组号": 1003
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "剃须刀",
+      "群组号": "0806"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "剪刀",
+      "群组号": "0810"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "指甲刀（电动或非电动的）",
+      "群组号": "0806"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "刀",
+      "群组号": "0810"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "园艺工具（手动的）",
+      "群组号": "0803"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "农业器具（手动的）",
+      "群组号": "0802"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电动编发器",
+      "群组号": "0806"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "鱼叉",
+      "群组号": "0805"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "磨具（手工具）",
+      "群组号": "0801"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "食物熏制",
+      "群组号": 4008
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "水处理",
+      "群组号": 4014
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "面粉加工",
+      "群组号": 4008
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "食物冷冻",
+      "群组号": 4008
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "药材加工",
+      "群组号": 4015
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "水净化设备和机器",
+      "群组号": 1110
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "浴室装置",
+      "群组号": 1109
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "烹调用装置和设备",
+      "群组号": 1104
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "消毒设备",
+      "群组号": 1110
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "空气净化装置和机器",
+      "群组号": 1106
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电暖器",
+      "群组号": 1111
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "水净化装置",
+      "群组号": 1110
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "水冲洗设备",
+      "群组号": 1109
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "普通金属艺术品",
+      "群组号": "0622"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "普通金属合金",
+      "群组号": "0601"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "金属锁（非电）",
+      "群组号": "0610"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "家具用金属附件",
+      "群组号": "0608"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "钢管",
+      "群组号": "0602"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "保险柜",
+      "群组号": "0611"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "奶瓶",
+      "群组号": 1005
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "缝合材料",
+      "群组号": 1009
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "避孕套",
+      "群组号": 1006
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电疗器械",
+      "群组号": 1003
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "按摩器械",
+      "群组号": 1001
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "口罩",
+      "群组号": 1004
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "理疗设备",
+      "群组号": 1003
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "医疗器械和仪器",
+      "群组号": 1001
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "矫形用物品",
+      "群组号": 1008
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "牙科设备和仪器",
+      "群组号": 1002
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "陆、空、水或铁路用机动运载工具",
+      "群组号": 1204
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "陆、空、水或铁路用机动运载工具",
+      "群组号": 1209
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "陆、空、水或铁路用机动运载工具",
+      "群组号": 1201
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电动运载工具",
+      "群组号": 1204
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "运载工具用轮胎",
+      "群组号": 1208
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电动运载工具",
+      "群组号": 1202
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "陆、空、水或铁路用机动运载工具",
+      "群组号": 1210
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电动运载工具",
+      "群组号": 1210
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "自行车",
+      "群组号": 1204
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "儿童安全座（运载工具用）",
+      "群组号": 1211
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电动自行车",
+      "群组号": 1204
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "运载工具内装饰品",
+      "群组号": 1211
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "汽车",
+      "群组号": 1202
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "婴儿车",
+      "群组号": 1206
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "手推车",
+      "群组号": 1206
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电动运载工具",
+      "群组号": 1205
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "陆、空、水或铁路用机动运载工具",
+      "群组号": 1202
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电动运载工具",
+      "群组号": 1201
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "指甲刀（电动或非电动的）",
+      "群组号": "0806"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "剪刀",
+      "群组号": "0810"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "磨具（手工具）",
+      "群组号": "0801"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电动编发器",
+      "群组号": "0806"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "鱼叉",
+      "群组号": "0805"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "餐具（刀、叉和匙）",
+      "群组号": "0812"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "园艺工具（手动的）",
+      "群组号": "0803"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "刀",
+      "群组号": "0810"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "剃须刀",
+      "群组号": "0806"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "农业器具（手动的）",
+      "群组号": "0802"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "托管计算机站（网站）",
+      "群组号": 4220
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "机械研究",
+      "群组号": 4209
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "技术研究",
+      "群组号": 4209
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "计算机软件设计",
+      "群组号": 4220
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "通过网站提供计算机技术和编程信息",
+      "群组号": 4220
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "替他人创建和维护网站",
+      "群组号": 4220
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "提供互联网搜索引擎",
+      "群组号": 4220
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "包装设计",
+      "群组号": 4216
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "工业品外观设计",
+      "群组号": 4216
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "计算机编程",
+      "群组号": 4220
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "铸模机",
+      "群组号": "0736"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "压铸机",
+      "群组号": "0736"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "内燃机（非陆地车辆用）",
+      "群组号": "0738"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "汽车发动机活塞",
+      "群组号": "0748"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "加工塑料用模具",
+      "群组号": "0726"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "车床",
+      "群组号": "0742"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "铸件设备",
+      "群组号": "0736"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "冲洗机",
+      "群组号": "0730"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "冲床（工业用机器）",
+      "群组号": "0735"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "模压加工机器",
+      "群组号": "0726"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "普通金属艺术品",
+      "群组号": "0622"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "保险柜",
+      "群组号": "0611"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "金属锁（非电）",
+      "群组号": "0610"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "小五金器具",
+      "群组号": "0608"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "五金器具",
+      "群组号": "0607"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "小五金器具",
+      "群组号": "0609"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "普通金属合金",
+      "群组号": "0601"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "金属门",
+      "群组号": "0603"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "钢管",
+      "群组号": "0602"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "家具用金属附件",
+      "群组号": "0608"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "小五金器具",
+      "群组号": "0607"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "五金器具",
+      "群组号": "0609"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "五金器具",
+      "群组号": "0608"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "金属建筑材料",
+      "群组号": "0603"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "水净化设备和机器",
+      "群组号": 1110
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电暖器",
+      "群组号": 1111
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "空气净化装置和机器",
+      "群组号": 1106
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "消毒设备",
+      "群组号": 1110
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "水净化装置",
+      "群组号": 1110
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "浴室装置",
+      "群组号": 1109
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "照明器械及装置",
+      "群组号": 1101
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "烹调用装置和设备",
+      "群组号": 1104
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "灯",
+      "群组号": 1101
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "水冲洗设备",
+      "群组号": 1109
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "小五金器具",
+      "群组号": "0608"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "金属锁（非电）",
+      "群组号": "0610"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "家具用金属附件",
+      "群组号": "0608"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "钢管",
+      "群组号": "0602"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "普通金属艺术品",
+      "群组号": "0622"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "五金器具",
+      "群组号": "0609"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "保险柜",
+      "群组号": "0611"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "普通金属合金",
+      "群组号": "0601"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "小五金器具",
+      "群组号": "0607"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "五金器具",
+      "群组号": "0607"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "金属建筑材料",
+      "群组号": "0603"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "金属门",
+      "群组号": "0603"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "五金器具",
+      "群组号": "0608"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "小五金器具",
+      "群组号": "0609"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "金属处理",
+      "群组号": 4002
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "服装制作",
+      "群组号": 4010
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "木器制作",
+      "群组号": 4004
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "金属铸造",
+      "群组号": 4002
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "食物熏制",
+      "群组号": 4008
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "药材加工",
+      "群组号": 4015
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "食物冷冻",
+      "群组号": 4008
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "水处理",
+      "群组号": 4014
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "面粉加工",
+      "群组号": 4008
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "空气净化",
+      "群组号": 4013
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "食物冷冻",
+      "群组号": 4008
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "水处理",
+      "群组号": 4014
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "食物熏制",
+      "群组号": 4008
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "服装制作",
+      "群组号": 4010
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "面粉加工",
+      "群组号": 4008
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "木器制作",
+      "群组号": 4004
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "空气净化",
+      "群组号": 4013
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "金属处理",
+      "群组号": 4002
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "金属铸造",
+      "群组号": 4002
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "药材加工",
+      "群组号": 4015
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "鱼叉",
+      "群组号": "0805"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "剃须刀",
+      "群组号": "0806"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "刀",
+      "群组号": "0810"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电动编发器",
+      "群组号": "0806"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "剪刀",
+      "群组号": "0810"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "农业器具（手动的）",
+      "群组号": "0802"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "磨具（手工具）",
+      "群组号": "0801"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "园艺工具（手动的）",
+      "群组号": "0803"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "指甲刀（电动或非电动的）",
+      "群组号": "0806"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "餐具（刀、叉和匙）",
+      "群组号": "0812"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "压铸机",
+      "群组号": "0736"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "加工塑料用模具",
+      "群组号": "0726"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "铸件设备",
+      "群组号": "0736"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "模压加工机器",
+      "群组号": "0726"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "冲床（工业用机器）",
+      "群组号": "0735"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "冲洗机",
+      "群组号": "0730"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "车床",
+      "群组号": "0742"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "汽车发动机活塞",
+      "群组号": "0748"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "铸模机",
+      "群组号": "0736"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "内燃机（非陆地车辆用）",
+      "群组号": "0738"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "消毒设备",
+      "群组号": 1110
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "浴室装置",
+      "群组号": 1109
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "烹调用装置和设备",
+      "群组号": 1104
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "灯",
+      "群组号": 1101
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "水冲洗设备",
+      "群组号": 1109
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电暖器",
+      "群组号": 1111
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "水净化设备和机器",
+      "群组号": 1110
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "空气净化装置和机器",
+      "群组号": 1106
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "照明器械及装置",
+      "群组号": 1101
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "水净化装置",
+      "群组号": 1110
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "口罩",
+      "群组号": 1004
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "避孕套",
+      "群组号": 1006
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "矫形用物品",
+      "群组号": 1008
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "理疗设备",
+      "群组号": 1003
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "牙科设备和仪器",
+      "群组号": 1002
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "按摩器械",
+      "群组号": 1001
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "缝合材料",
+      "群组号": 1009
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "奶瓶",
+      "群组号": 1005
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "医疗器械和仪器",
+      "群组号": 1001
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电疗器械",
+      "群组号": 1003
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "通过网站提供计算机技术和编程信息",
+      "群组号": 4220
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "计算机编程",
+      "群组号": 4220
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "技术研究",
+      "群组号": 4209
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "工业品外观设计",
+      "群组号": 4216
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "计算机软件设计",
+      "群组号": 4220
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "机械研究",
+      "群组号": 4209
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "托管计算机站（网站）",
+      "群组号": 4220
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "替他人创建和维护网站",
+      "群组号": 4220
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "提供互联网搜索引擎",
+      "群组号": 4220
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "包装设计",
+      "群组号": 4216
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "婴儿车",
+      "群组号": 1206
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "运载工具用轮胎",
+      "群组号": 1208
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电动运载工具",
+      "群组号": 1210
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电动自行车",
+      "群组号": 1204
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "陆、空、水或铁路用机动运载工具",
+      "群组号": 1202
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "运载工具内装饰品",
+      "群组号": 1211
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电动运载工具",
+      "群组号": 1204
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电动运载工具",
+      "群组号": 1201
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "自行车",
+      "群组号": 1204
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电动运载工具",
+      "群组号": 1202
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "手推车",
+      "群组号": 1206
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "儿童安全座（运载工具用）",
+      "群组号": 1211
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "陆、空、水或铁路用机动运载工具",
+      "群组号": 1209
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "陆、空、水或铁路用机动运载工具",
+      "群组号": 1210
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "汽车",
+      "群组号": 1202
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "陆、空、水或铁路用机动运载工具",
+      "群组号": 1204
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "陆、空、水或铁路用机动运载工具",
+      "群组号": 1201
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商品服务项目名称": "电动运载工具",
+      "群组号": 1205
+    }
+  ],
+  "1.1.28.商标流程信息": [
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-31"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2021-06-03"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2020-09-24"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2020-08-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待驳回复审",
+      "流程日期": "2021-03-16"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2020-09-24"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待驳回通知发文",
+      "流程日期": "2021-01-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2020-08-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2021-08-10"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-31"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2020-09-24"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待驳回通知发文",
+      "流程日期": "2021-01-26"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2020-08-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待驳回复审",
+      "流程日期": "2021-03-22"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-05-04"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2019-06-05"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-28"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待驳回通知发文",
+      "流程日期": "2018-12-29"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-05-04"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待驳回复审",
+      "流程日期": "2019-02-22"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-31"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-05-04"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2019-05-22"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-28"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待驳回通知发文",
+      "流程日期": "2018-12-29"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待驳回复审",
+      "流程日期": "2019-02-23"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-05-04"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2019-08-25"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-05-04"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待驳回通知发文",
+      "流程日期": "2019-01-08"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待驳回复审",
+      "流程日期": "2019-03-05"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "驳回复审",
+      "流程标题": "评审分案",
+      "流程日期": "2019-06-24"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-31"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待驳回通知发文",
+      "流程日期": "2018-12-29"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "驳回复审",
+      "流程标题": "申请收文",
+      "流程日期": "2019-01-31"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-05-04"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "驳回复审",
+      "流程标题": "申请收文",
+      "流程日期": "2019-01-30"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "驳回复审",
+      "流程标题": "等待实审裁文发文",
+      "流程日期": "2019-09-05"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "驳回复审",
+      "流程标题": "等待打印注册证",
+      "流程日期": "2020-06-09"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待驳回复审",
+      "流程日期": "2019-02-23"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-05-09"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2019-09-05"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待驳回通知发文",
+      "流程日期": "2018-12-29"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-05-04"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2019-08-30"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待驳回复审",
+      "流程日期": "2019-02-22"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待驳回通知发文",
+      "流程日期": "2018-12-29"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-31"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-28"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-08"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-04-24"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2019-03-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-04-23"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-08"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2019-03-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-28"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-08"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-04-23"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2019-03-26"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-31"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2019-03-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-04-24"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-08"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2019-03-23"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-08"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-04-24"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-31"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2019-03-23"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-08"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-04-23"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-08"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-04-23"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2019-03-26"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-31"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2019-03-21"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-04-23"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-08"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2019-03-22"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-04-24"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-08"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-04-23"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2019-03-26"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-08"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-28"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-28"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2019-03-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-08"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-04-25"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-31"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-04-24"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2019-03-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-08"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2019-03-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-08"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-04-23"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-31"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-08"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-04-23"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2019-03-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2019-03-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-08"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-04-24"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-28"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "核准证明打印发送",
+      "流程日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "申请收文",
+      "流程日期": "2018-04-08"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待注册证发文",
+      "流程日期": "2019-03-19"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "变更商标申请人/注册人名义/地址",
+      "流程标题": "申请收文",
+      "流程日期": "2023-03-31"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "流程名称": "商标注册申请",
+      "流程标题": "等待受理通知书发文",
+      "流程日期": "2018-04-23"
+    }
+  ],
+  "1.1.29.商标公告信息": [
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1726,
+      "公告日期": "2021-01-06"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1738,
+      "公告日期": "2021-04-06"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1750,
+      "公告日期": "2021-07-06"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1738,
+      "公告日期": "2021-04-06"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1639,
+      "公告日期": "2019-03-13"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1627,
+      "公告日期": "2018-12-13"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1651,
+      "公告日期": "2019-06-13"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1639,
+      "公告日期": "2019-03-13"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1639,
+      "公告日期": "2019-03-13"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1627,
+      "公告日期": "2018-12-13"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1639,
+      "公告日期": "2019-03-13"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1651,
+      "公告日期": "2019-06-13"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1693,
+      "公告日期": "2020-04-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1681,
+      "公告日期": "2020-01-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1651,
+      "公告日期": "2019-06-13"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1639,
+      "公告日期": "2019-03-13"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1651,
+      "公告日期": "2019-06-13"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1639,
+      "公告日期": "2019-03-13"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1634,
+      "公告日期": "2019-02-06"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1622,
+      "公告日期": "2018-11-06"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1633,
+      "公告日期": "2019-01-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1621,
+      "公告日期": "2018-10-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1633,
+      "公告日期": "2019-01-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1621,
+      "公告日期": "2018-10-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1621,
+      "公告日期": "2018-10-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1633,
+      "公告日期": "2019-01-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1621,
+      "公告日期": "2018-10-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1633,
+      "公告日期": "2019-01-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1621,
+      "公告日期": "2018-10-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1633,
+      "公告日期": "2019-01-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1633,
+      "公告日期": "2019-01-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1621,
+      "公告日期": "2018-10-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1621,
+      "公告日期": "2018-10-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1633,
+      "公告日期": "2019-01-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1621,
+      "公告日期": "2018-10-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1633,
+      "公告日期": "2019-01-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1621,
+      "公告日期": "2018-10-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1633,
+      "公告日期": "2019-01-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1633,
+      "公告日期": "2019-01-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1621,
+      "公告日期": "2018-10-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1634,
+      "公告日期": "2019-02-06"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1622,
+      "公告日期": "2018-11-06"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1634,
+      "公告日期": "2019-02-06"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1622,
+      "公告日期": "2018-11-06"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1621,
+      "公告日期": "2018-10-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1633,
+      "公告日期": "2019-01-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1621,
+      "公告日期": "2018-10-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1633,
+      "公告日期": "2019-01-27"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册公告（一）",
+      "公告期号": 1634,
+      "公告日期": "2019-02-06"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标初步审定公告",
+      "公告期号": 1622,
+      "公告日期": "2018-11-06"
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告名称": "商标注册人/申请人名义及地址变更公告",
+      "公告期号": 1836,
+      "公告日期": "2023-04-20"
+    }
+  ],
+  "1.2.申请年份统计": [
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "申请年份": 2018,
+      "对应统计数量": 24
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "申请年份": 2019,
+      "对应统计数量": 0
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "申请年份": 2020,
+      "对应统计数量": 3
+    }
+  ],
+  "1.3.国际分类统计": [
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "国际分类": 10,
+      "对应统计数量": 4
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "国际分类": 12,
+      "对应统计数量": 4
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "国际分类": 7,
+      "对应统计数量": 4
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "国际分类": 11,
+      "对应统计数量": 3
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "国际分类": 40,
+      "对应统计数量": 3
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "国际分类": 42,
+      "对应统计数量": 3
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "国际分类": 6,
+      "对应统计数量": 3
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "国际分类": 8,
+      "对应统计数量": 3
+    }
+  ],
+  "1.4.商标状态统计": [
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标状态": "商标已注册",
+      "对应统计数量": 25
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "商标状态": "商标申请中",
+      "对应统计数量": 2
+    }
+  ]
+}

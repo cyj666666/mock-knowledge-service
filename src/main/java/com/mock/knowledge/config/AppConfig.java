@@ -45,4 +45,5 @@ public class AppConfig {
 
     public String getValidSecretKey() { return validSecretKey; }
     public void setValidSecretKey(String validSecretKey) { this.validSecretKey = validSecretKey; }
+
 }

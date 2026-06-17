@@ -1,0 +1,1603 @@
+{
+  "1.企业招投标信息": [
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "招投标信息": [
+        {
+          "fundSrc": "",
+          "website": "http://www.qianlima.com/zb/detail/20240131_402896449.html",
+          "role": "招标人",
+          "provCode": "330000",
+          "endDate": "",
+          "tenderMoney": "",
+          "title": "宁波隆源股份有限公司新能源汽车转向系统零部件技改项目竣工环境保护验收公示",
+          "annoDate": "2024-01-31",
+          "serialNo": "8cba7f4debe728903ddcf123290408eb",
+          "purchaseType": "能源化工",
+          "annoType": "10",
+          "proNo": "",
+          "beginDate": "",
+          "province": "浙江省",
+          "annoSubType": "竣工",
+          "budgetAmount": "",
+          "openAddr": "",
+          "relatedParties": [
+            {
+              "entType": "企业",
+              "relatedName": "宁波隆源股份有限公司",
+              "relatedType": "招标人",
+              "creditCode": "91330206786792205B",
+              "address": "",
+              "bankType": "",
+              "email": "longyuan@nblongyuan.com",
+              "top10Ind": ""
+            }
+          ],
+          "bidCode": "d8a9ac654c0043a3851f9c6e57ca1f2a",
+          "details": "",
+          "proName": "新能源汽车转向系统零部件技改项目",
+          "biddingLabel": "",
+          "openDate": "",
+          "prjLimit": ""
+        },
+        {
+          "fundSrc": "",
+          "website": "http://www.qianlima.com/zb/detail/20240131_402899897.html",
+          "role": "招标人",
+          "provCode": "330000",
+          "endDate": "",
+          "tenderMoney": "",
+          "title": "宁波隆源股份有限公司新能源汽车驱动系统核心组件技改项目竣工环境保护验收公示",
+          "annoDate": "2024-01-31",
+          "serialNo": "50818165cf2961912330f6c388910e33",
+          "purchaseType": "能源化工",
+          "annoType": "10",
+          "proNo": "",
+          "beginDate": "",
+          "province": "浙江省",
+          "annoSubType": "竣工",
+          "budgetAmount": "",
+          "openAddr": "",
+          "relatedParties": [
+            {
+              "entType": "企业",
+              "relatedName": "宁波隆源股份有限公司",
+              "relatedType": "招标人",
+              "creditCode": "91330206786792205B",
+              "address": "",
+              "bankType": "",
+              "email": "longyuan@nblongyuan.com",
+              "top10Ind": ""
+            }
+          ],
+          "bidCode": "5432cb6c503e4ff85e3e780ec5f6a103",
+          "details": "",
+          "proName": "新能源汽车驱动系统核心组件技改项目",
+          "biddingLabel": "",
+          "openDate": "",
+          "prjLimit": ""
+        },
+        {
+          "fundSrc": "",
+          "website": "http://www.qianlima.com/zb/detail/20231205_391816355.html",
+          "role": "招标人",
+          "provCode": "330000",
+          "endDate": "",
+          "tenderMoney": "",
+          "title": "2023年12月04日建设项目环评报告审批批复公告",
+          "annoDate": "2023-12-05",
+          "serialNo": "7933cddfeec77289c3cb21f1fca2256c",
+          "purchaseType": "房屋建筑",
+          "annoType": "10",
+          "proNo": "",
+          "beginDate": "",
+          "province": "浙江省",
+          "annoSubType": "环评",
+          "budgetAmount": "",
+          "openAddr": "",
+          "relatedParties": [
+            {
+              "entType": "企业",
+              "relatedName": "宁波科宁达工业有限公司",
+              "relatedType": "中标候选人",
+              "creditCode": "913302067204765680",
+              "address": "",
+              "bankType": "",
+              "email": "ylh@qq.com",
+              "top10Ind": ""
+            },
+            {
+              "entType": "企业",
+              "relatedName": "宁波隆源股份有限公司",
+              "relatedType": "招标人",
+              "creditCode": "91330206786792205B",
+              "address": "",
+              "bankType": "",
+              "email": "longyuan@nblongyuan.com",
+              "top10Ind": ""
+            }
+          ],
+          "bidCode": "ee09fac2834f35dd553dd1301e892684",
+          "details": "",
+          "proName": "2023年12月04日建设项目环评报告审批批复公告",
+          "biddingLabel": "",
+          "openDate": "",
+          "prjLimit": ""
+        },
+        {
+          "fundSrc": "",
+          "website": "http://www.bidizhaobiao.com/info-114111090.html?companyId=32",
+          "role": "中标候选人",
+          "provCode": "330000",
+          "endDate": "",
+          "tenderMoney": "",
+          "title": "2020年区长质量奖申报企业资格审查结果公示",
+          "annoDate": "2020-09-27",
+          "serialNo": "fb4c2effbb8dd6a635bffea09f0ab693",
+          "purchaseType": "房屋建筑",
+          "annoType": "30",
+          "proNo": "",
+          "beginDate": "",
+          "province": "浙江省",
+          "annoSubType": "中标",
+          "budgetAmount": "",
+          "openAddr": "",
+          "relatedParties": [
+            {
+              "entType": "",
+              "relatedName": "宁波隆源股份有限公司",
+              "relatedType": "中标候选人",
+              "creditCode": "",
+              "address": "",
+              "bankType": "",
+              "email": "",
+              "top10Ind": ""
+            },
+            {
+              "entType": "企业",
+              "relatedName": "宁波美乐雅荧光科技股份有限公司",
+              "relatedType": "中标候选人",
+              "creditCode": "91330200775619941X",
+              "address": "",
+              "bankType": "",
+              "email": "916953989@qq.com",
+              "top10Ind": ""
+            },
+            {
+              "entType": "企业",
+              "relatedName": "宁波顺兴机械制造有限公司",
+              "relatedType": "中标候选人",
+              "creditCode": "913302067588783006",
+              "address": "",
+              "bankType": "",
+              "email": "468919117@qq.com",
+              "top10Ind": ""
+            },
+            {
+              "entType": "",
+              "relatedName": "宁波润轴汽配有限公司",
+              "relatedType": "中标候选人",
+              "creditCode": "91330206747393893B",
+              "address": "",
+              "bankType": "",
+              "email": "",
+              "top10Ind": ""
+            },
+            {
+              "entType": "企业",
+              "relatedName": "浙江信宇建设集团有限公司",
+              "relatedType": "中标候选人",
+              "creditCode": "91330206144290713E",
+              "address": "",
+              "bankType": "",
+              "email": "124930861@QQ.COM",
+              "top10Ind": ""
+            },
+            {
+              "entType": "企业",
+              "relatedName": "宁波腾宇金属制品有限公司",
+              "relatedType": "中标候选人",
+              "creditCode": "913302066776748407",
+              "address": "",
+              "bankType": "",
+              "email": "sales@nbtengyu.cn",
+              "top10Ind": ""
+            },
+            {
+              "entType": "企业",
+              "relatedName": "宁波德业变频技术有限公司",
+              "relatedType": "中标候选人",
+              "creditCode": "91330200665572062U",
+              "address": "",
+              "bankType": "",
+              "email": "paypal@deye.com.cn",
+              "top10Ind": ""
+            }
+          ],
+          "bidCode": "b7b1a7abfdbef5ff5181651061216860",
+          "details": "",
+          "proName": "2020年区长质量奖申报企业资格审查",
+          "biddingLabel": "",
+          "openDate": "",
+          "prjLimit": ""
+        },
+        {
+          "fundSrc": "",
+          "website": "http://www.bidizhaobiao.com/info-81760871.html?companyId=32",
+          "role": "中标单位",
+          "provCode": "330000",
+          "endDate": "",
+          "tenderMoney": "",
+          "title": "竞争性谈判结果公示",
+          "annoDate": "2019-10-28",
+          "serialNo": "3e8e4fd24d53e2373b3b497f9ce2b6ef",
+          "purchaseType": "交通工程",
+          "annoType": "30",
+          "proNo": "",
+          "beginDate": "",
+          "province": "浙江省",
+          "annoSubType": "中标",
+          "budgetAmount": "",
+          "openAddr": "",
+          "relatedParties": [
+            {
+              "entType": "",
+              "relatedName": "宁波隆源股份有限公司",
+              "relatedType": "中标单位",
+              "creditCode": "91330206786792205B",
+              "address": "",
+              "bankType": "",
+              "email": "",
+              "top10Ind": ""
+            },
+            {
+              "entType": "企业",
+              "relatedName": "宁波安普升安防科技有限公司",
+              "relatedType": "中标候选人",
+              "creditCode": "91330206MA282M5A2D",
+              "address": "",
+              "bankType": "",
+              "email": "2373044651@qq.com",
+              "top10Ind": ""
+            },
+            {
+              "entType": "企业",
+              "relatedName": "中国电信股份有限公司宁波北仑分公司",
+              "relatedType": "招标人",
+              "creditCode": "91330206747353613Q",
+              "address": "",
+              "bankType": "",
+              "email": "15306665568@189.cn",
+              "top10Ind": ""
+            }
+          ],
+          "bidCode": "9731746396f67328f071cf35d6e9ef1c",
+          "details": "",
+          "proName": "宁波隆源精密机械有限公司车间无线MES网络覆盖项目",
+          "biddingLabel": "",
+          "openDate": "",
+          "prjLimit": ""
+        },
+        {
+          "fundSrc": "",
+          "website": "",
+          "role": "招标人",
+          "provCode": "",
+          "endDate": "",
+          "tenderMoney": "",
+          "title": "2023年12月04日建设项目环评报告审批批复公告",
+          "annoDate": "",
+          "serialNo": "ee09fac2834f35dd553dd1301e892684",
+          "purchaseType": "",
+          "annoType": "",
+          "proNo": "",
+          "beginDate": "",
+          "province": "",
+          "annoSubType": "",
+          "budgetAmount": "",
+          "openAddr": "",
+          "relatedParties": [
+            {
+              "entType": "企业",
+              "relatedName": "宁波科宁达工业有限公司",
+              "relatedType": "中标候选人",
+              "creditCode": "913302067204765680",
+              "address": "",
+              "bankType": "",
+              "email": "ylh@qq.com",
+              "top10Ind": ""
+            },
+            {
+              "entType": "企业",
+              "relatedName": "宁波隆源股份有限公司",
+              "relatedType": "招标人",
+              "creditCode": "91330206786792205B",
+              "address": "",
+              "bankType": "",
+              "email": "longyuan@nblongyuan.com",
+              "top10Ind": ""
+            }
+          ],
+          "bidCode": "ee09fac2834f35dd553dd1301e892684",
+          "details": "",
+          "proName": "",
+          "biddingLabel": "",
+          "openDate": "",
+          "prjLimit": ""
+        },
+        {
+          "fundSrc": "",
+          "website": "",
+          "role": "招标人",
+          "provCode": "",
+          "endDate": "",
+          "tenderMoney": "",
+          "title": "宁波隆源股份有限公司新能源汽车转向系统零部件技改项目竣工环境保护验收公示",
+          "annoDate": "",
+          "serialNo": "d8a9ac654c0043a3851f9c6e57ca1f2a",
+          "purchaseType": "",
+          "annoType": "",
+          "proNo": "",
+          "beginDate": "",
+          "province": "",
+          "annoSubType": "",
+          "budgetAmount": "",
+          "openAddr": "",
+          "relatedParties": [
+            {
+              "entType": "企业",
+              "relatedName": "宁波隆源股份有限公司",
+              "relatedType": "招标人",
+              "creditCode": "91330206786792205B",
+              "address": "",
+              "bankType": "",
+              "email": "longyuan@nblongyuan.com",
+              "top10Ind": ""
+            }
+          ],
+          "bidCode": "d8a9ac654c0043a3851f9c6e57ca1f2a",
+          "details": "",
+          "proName": "",
+          "biddingLabel": "",
+          "openDate": "",
+          "prjLimit": ""
+        },
+        {
+          "fundSrc": "",
+          "website": "",
+          "role": "中标候选人",
+          "provCode": "",
+          "endDate": "",
+          "tenderMoney": "",
+          "title": "2020年区长质量奖申报企业资格审查结果公示",
+          "annoDate": "",
+          "serialNo": "b7b1a7abfdbef5ff5181651061216860",
+          "purchaseType": "",
+          "annoType": "",
+          "proNo": "",
+          "beginDate": "",
+          "province": "",
+          "annoSubType": "",
+          "budgetAmount": "",
+          "openAddr": "",
+          "relatedParties": [
+            {
+              "entType": "",
+              "relatedName": "宁波隆源股份有限公司",
+              "relatedType": "中标候选人",
+              "creditCode": "",
+              "address": "",
+              "bankType": "",
+              "email": "",
+              "top10Ind": ""
+            },
+            {
+              "entType": "企业",
+              "relatedName": "浙江信宇建设集团有限公司",
+              "relatedType": "中标候选人",
+              "creditCode": "91330206144290713E",
+              "address": "",
+              "bankType": "",
+              "email": "124930861@QQ.COM",
+              "top10Ind": ""
+            },
+            {
+              "entType": "企业",
+              "relatedName": "宁波腾宇金属制品有限公司",
+              "relatedType": "中标候选人",
+              "creditCode": "913302066776748407",
+              "address": "",
+              "bankType": "",
+              "email": "sales@nbtengyu.cn",
+              "top10Ind": ""
+            },
+            {
+              "entType": "企业",
+              "relatedName": "宁波顺兴机械制造有限公司",
+              "relatedType": "中标候选人",
+              "creditCode": "913302067588783006",
+              "address": "",
+              "bankType": "",
+              "email": "468919117@qq.com",
+              "top10Ind": ""
+            },
+            {
+              "entType": "企业",
+              "relatedName": "宁波美乐雅荧光科技股份有限公司",
+              "relatedType": "中标候选人",
+              "creditCode": "91330200775619941X",
+              "address": "",
+              "bankType": "",
+              "email": "916953989@qq.com",
+              "top10Ind": ""
+            },
+            {
+              "entType": "",
+              "relatedName": "宁波润轴汽配有限公司",
+              "relatedType": "中标候选人",
+              "creditCode": "91330206747393893B",
+              "address": "",
+              "bankType": "",
+              "email": "",
+              "top10Ind": ""
+            },
+            {
+              "entType": "企业",
+              "relatedName": "宁波德业变频技术有限公司",
+              "relatedType": "中标候选人",
+              "creditCode": "91330200665572062U",
+              "address": "",
+              "bankType": "",
+              "email": "paypal@deye.com.cn",
+              "top10Ind": ""
+            }
+          ],
+          "bidCode": "b7b1a7abfdbef5ff5181651061216860",
+          "details": "",
+          "proName": "",
+          "biddingLabel": "",
+          "openDate": "",
+          "prjLimit": ""
+        },
+        {
+          "fundSrc": "",
+          "website": "",
+          "role": "中标单位",
+          "provCode": "",
+          "endDate": "",
+          "tenderMoney": "",
+          "title": "竞争性谈判结果公示",
+          "annoDate": "",
+          "serialNo": "9731746396f67328f071cf35d6e9ef1c",
+          "purchaseType": "",
+          "annoType": "",
+          "proNo": "",
+          "beginDate": "",
+          "province": "",
+          "annoSubType": "",
+          "budgetAmount": "",
+          "openAddr": "",
+          "relatedParties": [
+            {
+              "entType": "",
+              "relatedName": "宁波隆源股份有限公司",
+              "relatedType": "中标单位",
+              "creditCode": "91330206786792205B",
+              "address": "",
+              "bankType": "",
+              "email": "",
+              "top10Ind": ""
+            },
+            {
+              "entType": "企业",
+              "relatedName": "宁波安普升安防科技有限公司",
+              "relatedType": "中标候选人",
+              "creditCode": "91330206MA282M5A2D",
+              "address": "",
+              "bankType": "",
+              "email": "2373044651@qq.com",
+              "top10Ind": ""
+            },
+            {
+              "entType": "企业",
+              "relatedName": "中国电信股份有限公司宁波北仑分公司",
+              "relatedType": "招标人",
+              "creditCode": "91330206747353613Q",
+              "address": "",
+              "bankType": "",
+              "email": "15306665568@189.cn",
+              "top10Ind": ""
+            }
+          ],
+          "bidCode": "9731746396f67328f071cf35d6e9ef1c",
+          "details": "",
+          "proName": "",
+          "biddingLabel": "",
+          "openDate": "",
+          "prjLimit": ""
+        },
+        {
+          "fundSrc": "",
+          "website": "",
+          "role": "招标人",
+          "provCode": "",
+          "endDate": "",
+          "tenderMoney": "",
+          "title": "宁波隆源股份有限公司新能源汽车驱动系统核心组件技改项目竣工环境保护验收公示",
+          "annoDate": "",
+          "serialNo": "5432cb6c503e4ff85e3e780ec5f6a103",
+          "purchaseType": "",
+          "annoType": "",
+          "proNo": "",
+          "beginDate": "",
+          "province": "",
+          "annoSubType": "",
+          "budgetAmount": "",
+          "openAddr": "",
+          "relatedParties": [
+            {
+              "entType": "企业",
+              "relatedName": "宁波隆源股份有限公司",
+              "relatedType": "招标人",
+              "creditCode": "91330206786792205B",
+              "address": "",
+              "bankType": "",
+              "email": "longyuan@nblongyuan.com",
+              "top10Ind": ""
+            }
+          ],
+          "bidCode": "5432cb6c503e4ff85e3e780ec5f6a103",
+          "details": "",
+          "proName": "",
+          "biddingLabel": "",
+          "openDate": "",
+          "prjLimit": ""
+        }
+      ],
+      "省份维度统计": [
+        {
+          "num": 5,
+          "key": "浙江省"
+        }
+      ],
+      "公告类型统计及下属指标": [
+        {
+          "purchaseTypeAgg": [
+            {
+              "num": 2,
+              "key": "能源化工"
+            },
+            {
+              "num": 1,
+              "key": "房屋建筑"
+            }
+          ],
+          "num": 3,
+          "annoDateAgg": [
+            {
+              "num": 1,
+              "key": "2023"
+            },
+            {
+              "num": 2,
+              "key": "2024"
+            }
+          ],
+          "key": "10"
+        },
+        {
+          "purchaseTypeAgg": [
+            {
+              "num": 1,
+              "key": "交通工程"
+            },
+            {
+              "num": 1,
+              "key": "房屋建筑"
+            }
+          ],
+          "num": 2,
+          "annoDateAgg": [
+            {
+              "num": 1,
+              "key": "2019"
+            },
+            {
+              "num": 1,
+              "key": "2020"
+            }
+          ],
+          "key": "30"
+        }
+      ],
+      "招标人企业类型统计": [
+        {
+          "num": 8,
+          "key": "企业"
+        }
+      ]
+    }
+  ],
+  "1.1.招投标信息": [
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "序列号": "8cba7f4debe728903ddcf123290408eb",
+      "正文id": "d8a9ac654c0043a3851f9c6e57ca1f2a",
+      "公告类型": 10,
+      "公告小类": "竣工",
+      "项目名称": "新能源汽车转向系统零部件技改项目",
+      "项目编号": "",
+      "省份": "浙江省",
+      "省份编码": 330000,
+      "标题": "宁波隆源股份有限公司新能源汽车转向系统零部件技改项目竣工环境保护验收公示",
+      "招标详情": "",
+      "公告日期": "2024-01-31",
+      "招投标标签": "",
+      "预算金额": "",
+      "工期": "",
+      "报名开始日期": "",
+      "报名结束日期": "",
+      "开标时间": "",
+      "开标地点": "",
+      "资金来源": "",
+      "查询角色": "招标人",
+      "成交金额": "",
+      "项目行业分类": "能源化工",
+      "链接": "http://www.qianlima.com/zb/detail/20240131_402896449.html",
+      "关联方": [
+        {
+          "entType": "企业",
+          "relatedName": "宁波隆源股份有限公司",
+          "relatedType": "招标人",
+          "creditCode": "91330206786792205B",
+          "address": "",
+          "bankType": "",
+          "email": "longyuan@nblongyuan.com",
+          "top10Ind": ""
+        }
+      ]
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "序列号": "50818165cf2961912330f6c388910e33",
+      "正文id": "5432cb6c503e4ff85e3e780ec5f6a103",
+      "公告类型": 10,
+      "公告小类": "竣工",
+      "项目名称": "新能源汽车驱动系统核心组件技改项目",
+      "项目编号": "",
+      "省份": "浙江省",
+      "省份编码": 330000,
+      "标题": "宁波隆源股份有限公司新能源汽车驱动系统核心组件技改项目竣工环境保护验收公示",
+      "招标详情": "",
+      "公告日期": "2024-01-31",
+      "招投标标签": "",
+      "预算金额": "",
+      "工期": "",
+      "报名开始日期": "",
+      "报名结束日期": "",
+      "开标时间": "",
+      "开标地点": "",
+      "资金来源": "",
+      "查询角色": "招标人",
+      "成交金额": "",
+      "项目行业分类": "能源化工",
+      "链接": "http://www.qianlima.com/zb/detail/20240131_402899897.html",
+      "关联方": [
+        {
+          "entType": "企业",
+          "relatedName": "宁波隆源股份有限公司",
+          "relatedType": "招标人",
+          "creditCode": "91330206786792205B",
+          "address": "",
+          "bankType": "",
+          "email": "longyuan@nblongyuan.com",
+          "top10Ind": ""
+        }
+      ]
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "序列号": "7933cddfeec77289c3cb21f1fca2256c",
+      "正文id": "ee09fac2834f35dd553dd1301e892684",
+      "公告类型": 10,
+      "公告小类": "环评",
+      "项目名称": "2023年12月04日建设项目环评报告审批批复公告",
+      "项目编号": "",
+      "省份": "浙江省",
+      "省份编码": 330000,
+      "标题": "2023年12月04日建设项目环评报告审批批复公告",
+      "招标详情": "",
+      "公告日期": "2023-12-05",
+      "招投标标签": "",
+      "预算金额": "",
+      "工期": "",
+      "报名开始日期": "",
+      "报名结束日期": "",
+      "开标时间": "",
+      "开标地点": "",
+      "资金来源": "",
+      "查询角色": "招标人",
+      "成交金额": "",
+      "项目行业分类": "房屋建筑",
+      "链接": "http://www.qianlima.com/zb/detail/20231205_391816355.html",
+      "关联方": [
+        {
+          "entType": "企业",
+          "relatedName": "宁波科宁达工业有限公司",
+          "relatedType": "中标候选人",
+          "creditCode": "913302067204765680",
+          "address": "",
+          "bankType": "",
+          "email": "ylh@qq.com",
+          "top10Ind": ""
+        },
+        {
+          "entType": "企业",
+          "relatedName": "宁波隆源股份有限公司",
+          "relatedType": "招标人",
+          "creditCode": "91330206786792205B",
+          "address": "",
+          "bankType": "",
+          "email": "longyuan@nblongyuan.com",
+          "top10Ind": ""
+        }
+      ]
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "序列号": "fb4c2effbb8dd6a635bffea09f0ab693",
+      "正文id": "b7b1a7abfdbef5ff5181651061216860",
+      "公告类型": 30,
+      "公告小类": "中标",
+      "项目名称": "2020年区长质量奖申报企业资格审查",
+      "项目编号": "",
+      "省份": "浙江省",
+      "省份编码": 330000,
+      "标题": "2020年区长质量奖申报企业资格审查结果公示",
+      "招标详情": "",
+      "公告日期": "2020-09-27",
+      "招投标标签": "",
+      "预算金额": "",
+      "工期": "",
+      "报名开始日期": "",
+      "报名结束日期": "",
+      "开标时间": "",
+      "开标地点": "",
+      "资金来源": "",
+      "查询角色": "中标候选人",
+      "成交金额": "",
+      "项目行业分类": "房屋建筑",
+      "链接": "http://www.bidizhaobiao.com/info-114111090.html?companyId=32",
+      "关联方": [
+        {
+          "entType": "",
+          "relatedName": "宁波隆源股份有限公司",
+          "relatedType": "中标候选人",
+          "creditCode": "",
+          "address": "",
+          "bankType": "",
+          "email": "",
+          "top10Ind": ""
+        },
+        {
+          "entType": "企业",
+          "relatedName": "宁波美乐雅荧光科技股份有限公司",
+          "relatedType": "中标候选人",
+          "creditCode": "91330200775619941X",
+          "address": "",
+          "bankType": "",
+          "email": "916953989@qq.com",
+          "top10Ind": ""
+        },
+        {
+          "entType": "企业",
+          "relatedName": "宁波顺兴机械制造有限公司",
+          "relatedType": "中标候选人",
+          "creditCode": "913302067588783006",
+          "address": "",
+          "bankType": "",
+          "email": "468919117@qq.com",
+          "top10Ind": ""
+        },
+        {
+          "entType": "",
+          "relatedName": "宁波润轴汽配有限公司",
+          "relatedType": "中标候选人",
+          "creditCode": "91330206747393893B",
+          "address": "",
+          "bankType": "",
+          "email": "",
+          "top10Ind": ""
+        },
+        {
+          "entType": "企业",
+          "relatedName": "浙江信宇建设集团有限公司",
+          "relatedType": "中标候选人",
+          "creditCode": "91330206144290713E",
+          "address": "",
+          "bankType": "",
+          "email": "124930861@QQ.COM",
+          "top10Ind": ""
+        },
+        {
+          "entType": "企业",
+          "relatedName": "宁波腾宇金属制品有限公司",
+          "relatedType": "中标候选人",
+          "creditCode": "913302066776748407",
+          "address": "",
+          "bankType": "",
+          "email": "sales@nbtengyu.cn",
+          "top10Ind": ""
+        },
+        {
+          "entType": "企业",
+          "relatedName": "宁波德业变频技术有限公司",
+          "relatedType": "中标候选人",
+          "creditCode": "91330200665572062U",
+          "address": "",
+          "bankType": "",
+          "email": "paypal@deye.com.cn",
+          "top10Ind": ""
+        }
+      ]
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "序列号": "3e8e4fd24d53e2373b3b497f9ce2b6ef",
+      "正文id": "9731746396f67328f071cf35d6e9ef1c",
+      "公告类型": 30,
+      "公告小类": "中标",
+      "项目名称": "宁波隆源精密机械有限公司车间无线MES网络覆盖项目",
+      "项目编号": "",
+      "省份": "浙江省",
+      "省份编码": 330000,
+      "标题": "竞争性谈判结果公示",
+      "招标详情": "",
+      "公告日期": "2019-10-28",
+      "招投标标签": "",
+      "预算金额": "",
+      "工期": "",
+      "报名开始日期": "",
+      "报名结束日期": "",
+      "开标时间": "",
+      "开标地点": "",
+      "资金来源": "",
+      "查询角色": "中标单位",
+      "成交金额": "",
+      "项目行业分类": "交通工程",
+      "链接": "http://www.bidizhaobiao.com/info-81760871.html?companyId=32",
+      "关联方": [
+        {
+          "entType": "",
+          "relatedName": "宁波隆源股份有限公司",
+          "relatedType": "中标单位",
+          "creditCode": "91330206786792205B",
+          "address": "",
+          "bankType": "",
+          "email": "",
+          "top10Ind": ""
+        },
+        {
+          "entType": "企业",
+          "relatedName": "宁波安普升安防科技有限公司",
+          "relatedType": "中标候选人",
+          "creditCode": "91330206MA282M5A2D",
+          "address": "",
+          "bankType": "",
+          "email": "2373044651@qq.com",
+          "top10Ind": ""
+        },
+        {
+          "entType": "企业",
+          "relatedName": "中国电信股份有限公司宁波北仑分公司",
+          "relatedType": "招标人",
+          "creditCode": "91330206747353613Q",
+          "address": "",
+          "bankType": "",
+          "email": "15306665568@189.cn",
+          "top10Ind": ""
+        }
+      ]
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "序列号": "ee09fac2834f35dd553dd1301e892684",
+      "正文id": "ee09fac2834f35dd553dd1301e892684",
+      "公告类型": "",
+      "公告小类": "",
+      "项目名称": "",
+      "项目编号": "",
+      "省份": "",
+      "省份编码": "",
+      "标题": "2023年12月04日建设项目环评报告审批批复公告",
+      "招标详情": "",
+      "公告日期": "",
+      "招投标标签": "",
+      "预算金额": "",
+      "工期": "",
+      "报名开始日期": "",
+      "报名结束日期": "",
+      "开标时间": "",
+      "开标地点": "",
+      "资金来源": "",
+      "查询角色": "招标人",
+      "成交金额": "",
+      "项目行业分类": "",
+      "链接": "",
+      "关联方": [
+        {
+          "entType": "企业",
+          "relatedName": "宁波科宁达工业有限公司",
+          "relatedType": "中标候选人",
+          "creditCode": "913302067204765680",
+          "address": "",
+          "bankType": "",
+          "email": "ylh@qq.com",
+          "top10Ind": ""
+        },
+        {
+          "entType": "企业",
+          "relatedName": "宁波隆源股份有限公司",
+          "relatedType": "招标人",
+          "creditCode": "91330206786792205B",
+          "address": "",
+          "bankType": "",
+          "email": "longyuan@nblongyuan.com",
+          "top10Ind": ""
+        }
+      ]
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "序列号": "d8a9ac654c0043a3851f9c6e57ca1f2a",
+      "正文id": "d8a9ac654c0043a3851f9c6e57ca1f2a",
+      "公告类型": "",
+      "公告小类": "",
+      "项目名称": "",
+      "项目编号": "",
+      "省份": "",
+      "省份编码": "",
+      "标题": "宁波隆源股份有限公司新能源汽车转向系统零部件技改项目竣工环境保护验收公示",
+      "招标详情": "",
+      "公告日期": "",
+      "招投标标签": "",
+      "预算金额": "",
+      "工期": "",
+      "报名开始日期": "",
+      "报名结束日期": "",
+      "开标时间": "",
+      "开标地点": "",
+      "资金来源": "",
+      "查询角色": "招标人",
+      "成交金额": "",
+      "项目行业分类": "",
+      "链接": "",
+      "关联方": [
+        {
+          "entType": "企业",
+          "relatedName": "宁波隆源股份有限公司",
+          "relatedType": "招标人",
+          "creditCode": "91330206786792205B",
+          "address": "",
+          "bankType": "",
+          "email": "longyuan@nblongyuan.com",
+          "top10Ind": ""
+        }
+      ]
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "序列号": "b7b1a7abfdbef5ff5181651061216860",
+      "正文id": "b7b1a7abfdbef5ff5181651061216860",
+      "公告类型": "",
+      "公告小类": "",
+      "项目名称": "",
+      "项目编号": "",
+      "省份": "",
+      "省份编码": "",
+      "标题": "2020年区长质量奖申报企业资格审查结果公示",
+      "招标详情": "",
+      "公告日期": "",
+      "招投标标签": "",
+      "预算金额": "",
+      "工期": "",
+      "报名开始日期": "",
+      "报名结束日期": "",
+      "开标时间": "",
+      "开标地点": "",
+      "资金来源": "",
+      "查询角色": "中标候选人",
+      "成交金额": "",
+      "项目行业分类": "",
+      "链接": "",
+      "关联方": [
+        {
+          "entType": "",
+          "relatedName": "宁波隆源股份有限公司",
+          "relatedType": "中标候选人",
+          "creditCode": "",
+          "address": "",
+          "bankType": "",
+          "email": "",
+          "top10Ind": ""
+        },
+        {
+          "entType": "企业",
+          "relatedName": "浙江信宇建设集团有限公司",
+          "relatedType": "中标候选人",
+          "creditCode": "91330206144290713E",
+          "address": "",
+          "bankType": "",
+          "email": "124930861@QQ.COM",
+          "top10Ind": ""
+        },
+        {
+          "entType": "企业",
+          "relatedName": "宁波腾宇金属制品有限公司",
+          "relatedType": "中标候选人",
+          "creditCode": "913302066776748407",
+          "address": "",
+          "bankType": "",
+          "email": "sales@nbtengyu.cn",
+          "top10Ind": ""
+        },
+        {
+          "entType": "企业",
+          "relatedName": "宁波顺兴机械制造有限公司",
+          "relatedType": "中标候选人",
+          "creditCode": "913302067588783006",
+          "address": "",
+          "bankType": "",
+          "email": "468919117@qq.com",
+          "top10Ind": ""
+        },
+        {
+          "entType": "企业",
+          "relatedName": "宁波美乐雅荧光科技股份有限公司",
+          "relatedType": "中标候选人",
+          "creditCode": "91330200775619941X",
+          "address": "",
+          "bankType": "",
+          "email": "916953989@qq.com",
+          "top10Ind": ""
+        },
+        {
+          "entType": "",
+          "relatedName": "宁波润轴汽配有限公司",
+          "relatedType": "中标候选人",
+          "creditCode": "91330206747393893B",
+          "address": "",
+          "bankType": "",
+          "email": "",
+          "top10Ind": ""
+        },
+        {
+          "entType": "企业",
+          "relatedName": "宁波德业变频技术有限公司",
+          "relatedType": "中标候选人",
+          "creditCode": "91330200665572062U",
+          "address": "",
+          "bankType": "",
+          "email": "paypal@deye.com.cn",
+          "top10Ind": ""
+        }
+      ]
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "序列号": "9731746396f67328f071cf35d6e9ef1c",
+      "正文id": "9731746396f67328f071cf35d6e9ef1c",
+      "公告类型": "",
+      "公告小类": "",
+      "项目名称": "",
+      "项目编号": "",
+      "省份": "",
+      "省份编码": "",
+      "标题": "竞争性谈判结果公示",
+      "招标详情": "",
+      "公告日期": "",
+      "招投标标签": "",
+      "预算金额": "",
+      "工期": "",
+      "报名开始日期": "",
+      "报名结束日期": "",
+      "开标时间": "",
+      "开标地点": "",
+      "资金来源": "",
+      "查询角色": "中标单位",
+      "成交金额": "",
+      "项目行业分类": "",
+      "链接": "",
+      "关联方": [
+        {
+          "entType": "",
+          "relatedName": "宁波隆源股份有限公司",
+          "relatedType": "中标单位",
+          "creditCode": "91330206786792205B",
+          "address": "",
+          "bankType": "",
+          "email": "",
+          "top10Ind": ""
+        },
+        {
+          "entType": "企业",
+          "relatedName": "宁波安普升安防科技有限公司",
+          "relatedType": "中标候选人",
+          "creditCode": "91330206MA282M5A2D",
+          "address": "",
+          "bankType": "",
+          "email": "2373044651@qq.com",
+          "top10Ind": ""
+        },
+        {
+          "entType": "企业",
+          "relatedName": "中国电信股份有限公司宁波北仑分公司",
+          "relatedType": "招标人",
+          "creditCode": "91330206747353613Q",
+          "address": "",
+          "bankType": "",
+          "email": "15306665568@189.cn",
+          "top10Ind": ""
+        }
+      ]
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "序列号": "5432cb6c503e4ff85e3e780ec5f6a103",
+      "正文id": "5432cb6c503e4ff85e3e780ec5f6a103",
+      "公告类型": "",
+      "公告小类": "",
+      "项目名称": "",
+      "项目编号": "",
+      "省份": "",
+      "省份编码": "",
+      "标题": "宁波隆源股份有限公司新能源汽车驱动系统核心组件技改项目竣工环境保护验收公示",
+      "招标详情": "",
+      "公告日期": "",
+      "招投标标签": "",
+      "预算金额": "",
+      "工期": "",
+      "报名开始日期": "",
+      "报名结束日期": "",
+      "开标时间": "",
+      "开标地点": "",
+      "资金来源": "",
+      "查询角色": "招标人",
+      "成交金额": "",
+      "项目行业分类": "",
+      "链接": "",
+      "关联方": [
+        {
+          "entType": "企业",
+          "relatedName": "宁波隆源股份有限公司",
+          "relatedType": "招标人",
+          "creditCode": "91330206786792205B",
+          "address": "",
+          "bankType": "",
+          "email": "longyuan@nblongyuan.com",
+          "top10Ind": ""
+        }
+      ]
+    }
+  ],
+  "1.1.24.关联方": [
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波隆源股份有限公司",
+      "关联方类型": "招标人",
+      "关联方统一社会信用代码": "91330206786792205B",
+      "关联方邮箱": "longyuan@nblongyuan.com",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "企业",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波隆源股份有限公司",
+      "关联方类型": "招标人",
+      "关联方统一社会信用代码": "91330206786792205B",
+      "关联方邮箱": "longyuan@nblongyuan.com",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "企业",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波科宁达工业有限公司",
+      "关联方类型": "中标候选人",
+      "关联方统一社会信用代码": 913302067204765680,
+      "关联方邮箱": "ylh@qq.com",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "企业",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波隆源股份有限公司",
+      "关联方类型": "招标人",
+      "关联方统一社会信用代码": "91330206786792205B",
+      "关联方邮箱": "longyuan@nblongyuan.com",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "企业",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波隆源股份有限公司",
+      "关联方类型": "中标候选人",
+      "关联方统一社会信用代码": "",
+      "关联方邮箱": "",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波美乐雅荧光科技股份有限公司",
+      "关联方类型": "中标候选人",
+      "关联方统一社会信用代码": "91330200775619941X",
+      "关联方邮箱": "916953989@qq.com",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "企业",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波顺兴机械制造有限公司",
+      "关联方类型": "中标候选人",
+      "关联方统一社会信用代码": 913302067588783006,
+      "关联方邮箱": "468919117@qq.com",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "企业",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波润轴汽配有限公司",
+      "关联方类型": "中标候选人",
+      "关联方统一社会信用代码": "91330206747393893B",
+      "关联方邮箱": "",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "浙江信宇建设集团有限公司",
+      "关联方类型": "中标候选人",
+      "关联方统一社会信用代码": "91330206144290713E",
+      "关联方邮箱": "124930861@QQ.COM",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "企业",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波腾宇金属制品有限公司",
+      "关联方类型": "中标候选人",
+      "关联方统一社会信用代码": 913302066776748407,
+      "关联方邮箱": "sales@nbtengyu.cn",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "企业",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波德业变频技术有限公司",
+      "关联方类型": "中标候选人",
+      "关联方统一社会信用代码": "91330200665572062U",
+      "关联方邮箱": "paypal@deye.com.cn",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "企业",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波隆源股份有限公司",
+      "关联方类型": "中标单位",
+      "关联方统一社会信用代码": "91330206786792205B",
+      "关联方邮箱": "",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波安普升安防科技有限公司",
+      "关联方类型": "中标候选人",
+      "关联方统一社会信用代码": "91330206MA282M5A2D",
+      "关联方邮箱": "2373044651@qq.com",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "企业",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "中国电信股份有限公司宁波北仑分公司",
+      "关联方类型": "招标人",
+      "关联方统一社会信用代码": "91330206747353613Q",
+      "关联方邮箱": "15306665568@189.cn",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "企业",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波科宁达工业有限公司",
+      "关联方类型": "中标候选人",
+      "关联方统一社会信用代码": 913302067204765680,
+      "关联方邮箱": "ylh@qq.com",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "企业",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波隆源股份有限公司",
+      "关联方类型": "招标人",
+      "关联方统一社会信用代码": "91330206786792205B",
+      "关联方邮箱": "longyuan@nblongyuan.com",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "企业",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波隆源股份有限公司",
+      "关联方类型": "招标人",
+      "关联方统一社会信用代码": "91330206786792205B",
+      "关联方邮箱": "longyuan@nblongyuan.com",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "企业",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波隆源股份有限公司",
+      "关联方类型": "中标候选人",
+      "关联方统一社会信用代码": "",
+      "关联方邮箱": "",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "浙江信宇建设集团有限公司",
+      "关联方类型": "中标候选人",
+      "关联方统一社会信用代码": "91330206144290713E",
+      "关联方邮箱": "124930861@QQ.COM",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "企业",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波腾宇金属制品有限公司",
+      "关联方类型": "中标候选人",
+      "关联方统一社会信用代码": 913302066776748407,
+      "关联方邮箱": "sales@nbtengyu.cn",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "企业",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波顺兴机械制造有限公司",
+      "关联方类型": "中标候选人",
+      "关联方统一社会信用代码": 913302067588783006,
+      "关联方邮箱": "468919117@qq.com",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "企业",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波美乐雅荧光科技股份有限公司",
+      "关联方类型": "中标候选人",
+      "关联方统一社会信用代码": "91330200775619941X",
+      "关联方邮箱": "916953989@qq.com",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "企业",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波润轴汽配有限公司",
+      "关联方类型": "中标候选人",
+      "关联方统一社会信用代码": "91330206747393893B",
+      "关联方邮箱": "",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波德业变频技术有限公司",
+      "关联方类型": "中标候选人",
+      "关联方统一社会信用代码": "91330200665572062U",
+      "关联方邮箱": "paypal@deye.com.cn",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "企业",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波隆源股份有限公司",
+      "关联方类型": "中标单位",
+      "关联方统一社会信用代码": "91330206786792205B",
+      "关联方邮箱": "",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波安普升安防科技有限公司",
+      "关联方类型": "中标候选人",
+      "关联方统一社会信用代码": "91330206MA282M5A2D",
+      "关联方邮箱": "2373044651@qq.com",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "企业",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "中国电信股份有限公司宁波北仑分公司",
+      "关联方类型": "招标人",
+      "关联方统一社会信用代码": "91330206747353613Q",
+      "关联方邮箱": "15306665568@189.cn",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "企业",
+      "涉及10大行业": ""
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "关联方名称": "宁波隆源股份有限公司",
+      "关联方类型": "招标人",
+      "关联方统一社会信用代码": "91330206786792205B",
+      "关联方邮箱": "longyuan@nblongyuan.com",
+      "关联方地址": "",
+      "金融机构类型": "",
+      "招标人性质类型": "企业",
+      "涉及10大行业": ""
+    }
+  ],
+  "1.2.省份维度统计": [
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "省份": "浙江省",
+      "对应统计数量": 5
+    }
+  ],
+  "1.3.公告类型统计及下属指标": [
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告类型": 10,
+      "统计数量": 3,
+      "行业分类": [
+        {
+          "num": 2,
+          "key": "能源化工"
+        },
+        {
+          "num": 1,
+          "key": "房屋建筑"
+        }
+      ],
+      "发布时间": [
+        {
+          "num": 1,
+          "key": "2023"
+        },
+        {
+          "num": 2,
+          "key": "2024"
+        }
+      ]
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "公告类型": 30,
+      "统计数量": 2,
+      "行业分类": [
+        {
+          "num": 1,
+          "key": "交通工程"
+        },
+        {
+          "num": 1,
+          "key": "房屋建筑"
+        }
+      ],
+      "发布时间": [
+        {
+          "num": 1,
+          "key": "2019"
+        },
+        {
+          "num": 1,
+          "key": "2020"
+        }
+      ]
+    }
+  ],
+  "1.3.3.行业分类": [
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "所属行业": "能源化工",
+      "统计数量": 2
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "所属行业": "房屋建筑",
+      "统计数量": 1
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "所属行业": "交通工程",
+      "统计数量": 1
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "所属行业": "房屋建筑",
+      "统计数量": 1
+    }
+  ],
+  "1.3.4.发布时间": [
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "发布时间（年份）": 2023,
+      "统计数量": 1
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "发布时间（年份）": 2024,
+      "统计数量": 2
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "发布时间（年份）": 2019,
+      "统计数量": 1
+    },
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "发布时间（年份）": 2020,
+      "统计数量": 1
+    }
+  ],
+  "1.4.招标人企业类型统计": [
+    {
+      "请求主体名称": "宁波隆源股份有限公司",
+      "企业类型": "企业",
+      "统计数量": 8
+    }
+  ]
+}

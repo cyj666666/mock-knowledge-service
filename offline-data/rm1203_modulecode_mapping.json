@@ -1,0 +1,361 @@
+{
+  "BasicProfile-EnterpriseBasicInfo-630API": {
+    "name": "企业照面信息",
+    "transcode": "R11103V3",
+    "dataKey": "basicList"
+  },
+  "BasicProfile-ShareholderInfo-630API": {
+    "name": "企业股东及出资信息",
+    "transcode": "R11103V3",
+    "dataKey": "shareholderList"
+  },
+  "BasicProfile-KeyPersonnel-630API": {
+    "name": "企业主要管理人员",
+    "transcode": "R11103V3",
+    "dataKey": "personList"
+  },
+  "BasicProfile-EnterpriseInvest-630API": {
+    "name": "企业对外投资信息",
+    "transcode": "R11103V3",
+    "dataKey": "entInvItemList"
+  },
+  "BasicProfile-AlterRecord-630API": {
+    "name": "企业历史变更信息",
+    "transcode": "R11103V3",
+    "dataKey": "alterList"
+  },
+  "BasicProfile-MortgageInfo-630API": {
+    "name": "动产抵押信息",
+    "transcode": "R11103V3",
+    "dataKey": "mortgageBasicList"
+  },
+  "BasicProfile-AnnualReport-630API": {
+    "name": "年报基本信息",
+    "transcode": "R11103V3",
+    "dataKey": "yearReportBasicList"
+  },
+  "BasicProfile-AdminLicense-630API": {
+    "name": "行政许可信息",
+    "transcode": "R11103V3",
+    "dataKey": "instantLicenseList"
+  },
+  "BasicProfile-ExceptionList-630API": {
+    "name": "经营异常名录",
+    "transcode": "R11103V3",
+    "dataKey": "exceptionList"
+  },
+  "BasicProfile-IllegalDiscredit-630API": {
+    "name": "严重违法失信企业名单",
+    "transcode": "R11103V3",
+    "dataKey": "illegalityDiscreditList"
+  },
+  "ControlRelation-ActualController-630API": {
+    "name": "企业实际控制人信息",
+    "transcode": "R11Z03",
+    "dataKey": null,
+    "preStep": {
+      "transcode": "R11103V3",
+      "dataKey": "basicList",
+      "extractField": "creditCode",
+      "useAsParam": "name"
+    }
+  },
+  "ControlRelation-UltimateBeneficiary-630API": {
+    "name": "企业最终受益人挖掘",
+    "transcode": "R11C72",
+    "dataKey": null
+  },
+  "ControlRelation-CapitalChain-630API": {
+    "name": "企业资金链图谱挖掘",
+    "transcode": "R1167",
+    "dataKey": null,
+    "preStep": {
+      "transcode": "R11103V3",
+      "dataKey": "basicList",
+      "extractField": "creditCode",
+      "useAsParam": "entName"
+    },
+    "extraParams": {
+      "labelSpecific": [
+        "Enterprise",
+        "Person"
+      ],
+      "query": "all"
+    }
+  },
+  "ControlRelation-RelatedParty-630API": {
+    "name": "关联关系查询配置化",
+    "transcode": "R11133",
+    "dataKey": null,
+    "preStep": {
+      "transcode": "R11103V3",
+      "dataKey": "basicList",
+      "extractField": "creditCode",
+      "useAsParam": "entName"
+    },
+    "extraParams": {
+      "investRatio": 0,
+      "level": 1
+    }
+  },
+  "ControlRelation-ExecutiveInvest-630API": {
+    "name": "高管投资任职信息",
+    "transcode": "R11Z02",
+    "dataKey": null
+  },
+  "Personnel-ExecutiveResume-630API": {
+    "name": "高管履历信息",
+    "transcode": "RA403",
+    "dataKey": null
+  },
+  "Operation-Bidding-630API": {
+    "name": "企业招投标信息",
+    "transcode": "R11110",
+    "dataKey": null
+  },
+  "Operation-ConstructionProject-630API": {
+    "name": "在建工程实时接口",
+    "transcode": "R115",
+    "dataKey": null
+  },
+  "Operation-CustomsRecord-630API": {
+    "name": "海关备案数据",
+    "transcode": "R1618",
+    "dataKey": null,
+    "preStep": {
+      "transcode": "R11103V3",
+      "dataKey": "basicList",
+      "extractField": "creditCode",
+      "useAsParam": "entName"
+    }
+  },
+  "Operation-MarketingDirectory-630API": {
+    "name": "营销名录企业查询",
+    "transcode": "RA1216",
+    "dataKey": null
+  },
+  "IntellectualProperty-Patent-630API": {
+    "name": "专利基本信息",
+    "transcode": "R11101",
+    "dataKey": null,
+    "extraParams": {
+      "pageIndex": 1
+    }
+  },
+  "IntellectualProperty-SoftwareCopyright-630API": {
+    "name": "软件著作权实时接口",
+    "transcode": "R1184",
+    "dataKey": null
+  },
+  "IntellectualProperty-Trademark-630API": {
+    "name": "商标基本信息",
+    "transcode": "R1199",
+    "dataKey": null
+  },
+  "IntellectualProperty-PledgeRecord-630API": {
+    "name": "知识产权出质信息",
+    "transcode": "R11103V3",
+    "dataKey": "intellectualPropertyPawnList"
+  },
+  "Qualification-CertData-630API": {
+    "name": "资质数据实时查询",
+    "transcode": "R1617",
+    "dataKey": null
+  },
+  "Qualification-TaxCreditRating-630API": {
+    "name": "纳税信用排名信息",
+    "transcode": "R705V5",
+    "dataKey": null
+  },
+  "JudicialRisk-JudicialAnnounce-630API": {
+    "name": "企业司法公告信息",
+    "transcode": "R227V2",
+    "dataKey": null
+  },
+  "JudicialRisk-DishonestList-630API": {
+    "name": "企业失信被执行人信息",
+    "transcode": "R217V2",
+    "dataKey": null,
+    "extraParams": {
+      "NameType": "1",
+      "isRelationHisName": "true"
+    }
+  },
+  "JudicialRisk-ExecutedPerson-630API": {
+    "name": "企业被执行人信息",
+    "transcode": "R241V2",
+    "dataKey": null,
+    "extraParams": {
+      "isRelationHisName": "true",
+      "pageIndex": 1,
+      "pageSize": 10
+    }
+  },
+  "JudicialRisk-ConsumptionLimit-630API": {
+    "name": "企业限制高消费信息",
+    "transcode": "R243V2",
+    "dataKey": null,
+    "extraParams": {
+      "isRelationHisName": "true",
+      "isNeedHisData": "true",
+      "pageIndex": 1,
+      "pageSize": 10
+    }
+  },
+  "JudicialRisk-AdminPenalty-630API": {
+    "name": "企业行政处罚信息",
+    "transcode": "R1212V2",
+    "dataKey": null,
+    "extraParams": {
+      "pageIndex": 1
+    }
+  },
+  "JudicialRisk-SeizureFreeze-630API": {
+    "name": "企业司法查封信息",
+    "transcode": "R255",
+    "dataKey": null,
+    "preStep": {
+      "transcode": "R11103V3",
+      "dataKey": "basicList",
+      "extractField": "creditCode",
+      "useAsParam": "entName"
+    }
+  },
+  "JudicialRisk-Blacklist-630API": {
+    "name": "企业风险失信名单",
+    "transcode": "R1201V3",
+    "dataKey": null
+  },
+  "Sentiment-NewsMonitor-630API": {
+    "name": "企业舆情快讯",
+    "transcode": "R354V2",
+    "dataKey": null
+  },
+  "Sentiment-RiskMonitor-630API": {
+    "name": "企业风险舆情信息",
+    "transcode": "R301V2",
+    "dataKey": null
+  },
+  "Policy-ListDetail-630API": {
+    "name": "政策信息",
+    "transcode": "R426",
+    "dataKey": null,
+    "extraParams": {
+      "field": "printDate",
+      "order": "asc",
+      "priority": 1,
+      "pageIndex": 1,
+      "pageSize": 10
+    }
+  },
+  "ListedCompany-BasicInfo-630API": {
+    "name": "上市公司基础信息",
+    "transcode": "R4G04V2",
+    "dataKey": null
+  },
+  "Financial-ReportList-630API": {
+    "name": "财务报表列表",
+    "transcode": "R4G05",
+    "dataKey": null
+  },
+  "Financial-ReportDetail-630API": {
+    "name": "财务报表详情",
+    "transcode": "R4G06V2",
+    "dataKey": null,
+    "preStep": {
+      "transcode": "R4G05",
+      "dataKey": null,
+      "extractField": "serialNo",
+      "useAsParam": "serialNo"
+    },
+    "extraParams": {
+      "optionalFields": [
+        "uniBalance",
+        "uniIncome",
+        "uniCashFlow",
+        "remark1",
+        "remark4"
+      ]
+    }
+  },
+  "Financial-ReportBalanceSheet-630API": {
+    "name": "通用类资产负债表",
+    "transcode": "R4G06V2",
+    "dataKey": "uniBalance",
+    "preStep": {
+      "transcode": "R4G05",
+      "dataKey": null,
+      "extractField": "serialNo",
+      "useAsParam": "serialNo"
+    },
+    "extraParams": {
+      "optionalFields": [
+        "uniBalance"
+      ]
+    }
+  },
+  "Financial-ReportIncomeStatement-630API": {
+    "name": "通用类利润表",
+    "transcode": "R4G06V2",
+    "dataKey": "uniIncome",
+    "preStep": {
+      "transcode": "R4G05",
+      "dataKey": null,
+      "extractField": "serialNo",
+      "useAsParam": "serialNo"
+    },
+    "extraParams": {
+      "optionalFields": [
+        "uniIncome"
+      ]
+    }
+  },
+  "Financial-ReportCashFlow-630API": {
+    "name": "通用类现金流量表",
+    "transcode": "R4G06V2",
+    "dataKey": "uniCashFlow",
+    "preStep": {
+      "transcode": "R4G05",
+      "dataKey": null,
+      "extractField": "serialNo",
+      "useAsParam": "serialNo"
+    },
+    "extraParams": {
+      "optionalFields": [
+        "uniCashFlow"
+      ]
+    }
+  },
+  "Financial-ReportFinancialIndicator-630API": {
+    "name": "通用财务指标",
+    "transcode": "R4G06V2",
+    "dataKey": "remark4",
+    "preStep": {
+      "transcode": "R4G05",
+      "dataKey": null,
+      "extractField": "serialNo",
+      "useAsParam": "serialNo"
+    },
+    "extraParams": {
+      "optionalFields": [
+        "remark4"
+      ]
+    }
+  },
+  "Financial-ReportAuditOpinion-630API": {
+    "name": "审计报告",
+    "transcode": "R4G06V2",
+    "dataKey": "remark1",
+    "preStep": {
+      "transcode": "R4G05",
+      "dataKey": null,
+      "extractField": "serialNo",
+      "useAsParam": "serialNo"
+    },
+    "extraParams": {
+      "optionalFields": [
+        "remark1"
+      ]
+    }
+  }
+}

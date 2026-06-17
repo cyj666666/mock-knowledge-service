@@ -1,0 +1,51 @@
+{
+  "R11103V3": {
+    "basicList": "企业照面信息",
+    "yearReportWebSiteInfoList": "年报-网站信息",
+    "shareholderList": "企业股东及出资信息",
+    "alterList": "历史变更",
+    "stockPawnList": "股权出质信息",
+    "personList": "企业主要管理人员",
+    "instantLicenseList": "行政许可信息",
+    "intellectualPropertyPawnList": "知识产权出质",
+    "yearReportSocSecList": "年报-社会保险信息",
+    "exceptionList": "企业异常名录",
+    "entInvItemList": "企业对外投资信息"
+  },
+  "R11101": {
+    "patentTypeStatistic": "专利类型统计"
+  },
+  "R1167": {
+    "nodes": "节点信息",
+    "relations": "关系信息"
+  },
+  "R4G04V2": {
+    "licoFnCustomer5/licoFnSupplier5": "前五名客户/前五名供应商"
+  },
+  "R11110": {
+    "biddingInfo": "招投标信息"
+  },
+  "R227V2": {
+    "bankrupt\nliquidation": "破产公告\n清算公告"
+  },
+  "R11133": {
+    "AcInvest": "实控人对外投资企业"
+  },
+  "R4G05/R4G06V2": {
+    "uniBalance": "通用类资产负债表",
+    "uniIncome": "通用类利润表",
+    "uniCashFlow": "通用类现金流量表",
+    "remark1": "审计报告",
+    "remark4": "通用财务指标"
+  },
+  "RM1201/RM1202": {
+    "Financial-FinancialItemZC-Analysis-Standard": "资产负债表科目异动分析",
+    "Financial-FinancialItemLR-Analysis-Standard": "利润表科目异动分析",
+    "Financial-FinancialItemXJ-Analysis-Standard": "现金流量表科目异动分析",
+    "Financial-ZC-Structure-Standard": "资产负债表构成与趋势分析",
+    "Financial-Profitability-Analysis-Standard": "盈利能力分析（客户经理视角标准版）",
+    "Financial-CashFlow-Analysis-Standard": "现金流量分析（客户经理视角标准版）",
+    "Operational-CoreCompetitiveness-AnnualReport-Standard": "核心竞争力分析",
+    "Basic-ImportantChange-AnnualReport-Standard": "重大变动事项"
+  }
+}

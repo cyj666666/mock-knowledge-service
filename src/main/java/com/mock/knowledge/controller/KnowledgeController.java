@@ -3,6 +3,7 @@ package com.mock.knowledge.controller;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.mock.knowledge.model.KnowledgeRequest;
 import com.mock.knowledge.model.KnowledgeResponse;
+import com.mock.knowledge.service.RealtimeKnowledgeService;
 import com.mock.knowledge.service.RoutingService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -21,10 +22,14 @@ public class KnowledgeController {
     private static final String PFX = "[MOCK] ";
 
     private final RoutingService routingService;
+    private final RealtimeKnowledgeService realtimeKnowledgeService;
     private final ObjectMapper objectMapper;
 
-    public KnowledgeController(RoutingService routingService, ObjectMapper objectMapper) {
+    public KnowledgeController(RoutingService routingService,
+                               RealtimeKnowledgeService realtimeKnowledgeService,
+                               ObjectMapper objectMapper) {
         this.routingService = routingService;
+        this.realtimeKnowledgeService = realtimeKnowledgeService;
         this.objectMapper = objectMapper;
     }
 
@@ -42,6 +47,8 @@ public class KnowledgeController {
             resp = routingService.handleRM1201(req);
         } else if ("RM1202".equals(transcode)) {
             resp = routingService.handleRM1202(req);
+        } else if ("RM1203".equals(transcode)) {
+            resp = realtimeKnowledgeService.handle(req);
         } else {
             log.warn("{}不支持的 transcode: {}", PFX, transcode);
             resp = new KnowledgeResponse("9999", "接口不存在: " + transcode, objectMapper.createArrayNode());
