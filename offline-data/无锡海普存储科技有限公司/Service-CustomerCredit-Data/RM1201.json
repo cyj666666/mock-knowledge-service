@@ -1,0 +1,66 @@
+{
+  "key": "2c807aaadbd4c6780fff1160201fac05",
+  "prompt": "",
+  "inputIndexContent": {
+    "ExecuteeInfo": [
+      []
+    ],
+    "DishonestyExecutee": [
+      []
+    ],
+    "ConsumptionLimit": [
+      []
+    ],
+    "AdminPenalty": [
+      []
+    ],
+    "EnterpriseInfo": [
+      [
+        {
+          "illegalityDiscreditList": [],
+          "exceptionList": []
+        }
+      ]
+    ],
+    "JudicialSeizure": [
+      []
+    ],
+    "TaxCreditRank": [
+      []
+    ],
+    "CustomsRecord": [
+      [
+        {
+          "bizType": "",
+          "entName": "无锡海普存储科技有限公司",
+          "isHighCertifyEnt": "否",
+          "dataStatus": "U",
+          "prodInfos": [],
+          "unitedId": "91320214MACRCQQJ0N",
+          "cancelFlag": "否",
+          "serialNo": "1f73a12e89bea1afe3f37e7ef110edd2",
+          "statsEcoRegion": "无锡高新技术产业开发区",
+          "ecoRegion": "高新技术产业开发区",
+          "subEntInfos": [],
+          "regCoInfos": [
+            {
+              "tradeTypeName": "进出口货物收发货人",
+              "regCoCgac": "32023632ZY",
+              "availDate": "2099-12-31"
+            }
+          ],
+          "yearRptSituation": "",
+          "recordDate": "2026-06-05",
+          "entOperType": "进出口货物收发货人",
+          "indKind": "其他技术推广服务",
+          "addr": "无锡市新吴区新安街道菱湖大道228号天安智慧城7-202.204",
+          "region": "江苏省无锡市新吴区",
+          "customsAddr": "无锡海关"
+        }
+      ]
+    ],
+    "RiskBlacklist": [
+      []
+    ]
+  }
+}

@@ -1,0 +1,599 @@
+{
+  "key": "a9782ef44cab130286c35e967da0c8a8",
+  "prompt": "",
+  "inputIndexContent": {
+    "NewsFlash": [
+      [
+        {
+          "dataList": [
+            {
+              "sentiment": "中性",
+              "charCount": "159",
+              "articleId": "1628741607",
+              "siteName": "大智慧",
+              "nerent": "无锡海普,南京银行,无锡海普存储科技有限公司,香农芯创",
+              "similarNewsNum": "",
+              "abstract": "香农芯创公告，公司与南京银行签署《最高额保证合同》，为控股孙公司无锡海普存储科技有限公司申请的最高额不超过人民币1亿元融资提供连带责任保证。本次担保后，公司累计为子公司担保合同金额为人民币90.44亿元，占2024年度经审计净资产的比例为307.88%。公司及子公司无对合并报表范围外的对外担保事项，也不存在逾期担保。",
+              "title": "香农芯创：为控股孙公司无锡海普提供不超过1亿元担保",
+              "pubDate": "2026-02-09 21:09:37",
+              "url": "https://detailpage.dzh.com.cn/dist/index.html?id=gsxw-8830522",
+              "importantEvents": [],
+              "articleRelaEnt": [
+                {
+                  "entName": "香农芯创科技股份有限公司",
+                  "relative": "0.5"
+                },
+                {
+                  "entName": "无锡海普存储科技有限公司",
+                  "relative": "0.5"
+                }
+              ],
+              "relData": [],
+              "isMainEnt": "否",
+              "ruleInfo": [],
+              "entInfo": [
+                {
+                  "area": {
+                    "province": "340000",
+                    "city": "341800",
+                    "district": "341800"
+                  },
+                  "entName": "香农芯创科技股份有限公司",
+                  "formattedenttname": "香农芯创科技股份有限公司",
+                  "isInTitle": "Y",
+                  "shortname": "香农芯创"
+                },
+                {
+                  "area": {
+                    "province": "320000",
+                    "city": "320100",
+                    "district": "320105"
+                  },
+                  "entName": "南京银行股份有限公司",
+                  "formattedenttname": "南京银行股份有限公司",
+                  "isInTitle": "N",
+                  "shortname": "南京银行"
+                },
+                {
+                  "area": {
+                    "province": "320000",
+                    "city": "320200",
+                    "district": "320214"
+                  },
+                  "entName": "无锡海普存储科技有限公司",
+                  "formattedenttname": "无锡海普存储科技有限公司",
+                  "isInTitle": "N",
+                  "shortname": ""
+                }
+              ],
+              "unicomModule": [],
+              "alias": [],
+              "entfullName": [
+                {
+                  "entName": "香农芯创科技股份有限公司",
+                  "confidence": "1.0"
+                },
+                {
+                  "entName": "南京银行股份有限公司",
+                  "confidence": "1.0"
+                },
+                {
+                  "entName": "无锡海普存储科技有限公司",
+                  "confidence": "1.0"
+                }
+              ],
+              "category": "新闻,APP",
+              "importantEventsAbstract": "",
+              "poster": ""
+            },
+            {
+              "sentiment": "正面",
+              "charCount": "650",
+              "articleId": "1689314381",
+              "siteName": "新浪看点",
+              "nerent": "福建省星汉智能科技有限公司,香港量子人工智能实验室,星汉智能,北京捷通华声科技股份有限公司,厦门算能科技有限公司,无锡海普存储科技有限公司,福建省大数据集团,星汉公司",
+              "similarNewsNum": "",
+              "abstract": "签约仪式上，福建省星汉智能科技有限公司与北京捷通华声科技股份有限公司、厦门算能科技有限公司、无锡海普存储科技有限公司及香港量子人工智能实验室签署了多项战略合作协议，协议涵盖人工智能创新应用合作项目、国产内存与NVMe盘合作项目以及闽港通AI算力服务项目等，旨在推动闽港合作以及人工智能技术的全面国产化和产品化。据悉，所有签约项目均计划于近期启动，并预计在今年内逐步推进。",
+              "title": "星汉智能多笔签约助推福建人工智能产业发展",
+              "pubDate": "2026-05-22 15:53:39",
+              "url": "https://k.sina.cn/article_7857141524_1d452771401902s12k.html",
+              "importantEvents": [
+                {
+                  "topic1": "经营管理",
+                  "topic2": "决策风险",
+                  "isMajorEvent": "Y",
+                  "senti": "",
+                  "warnLevel": "低",
+                  "ruleNo": "RE0203006",
+                  "ruleConfidence": "",
+                  "ruleName": "重大合作/协议",
+                  "riskScore": "",
+                  "extraInfo": [
+                    {
+                      "extraInfoCnName": "合作方",
+                      "isimportantelement": "Y",
+                      "extraInfoKey": "PAR",
+                      "extraInfoValue": [
+                        "北京捷通华声科技股份有限公司",
+                        "厦门算能科技有限公司",
+                        "无锡海普存储科技有限公司",
+                        "福建省星汉智能科技有限公司",
+                        "香港量子人工智能实验室"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "articleRelaEnt": [
+                {
+                  "entName": "福建省星汉智能科技有限公司",
+                  "relative": "1.0"
+                }
+              ],
+              "relData": [],
+              "isMainEnt": "是",
+              "ruleInfo": [
+                {
+                  "topic1": "经营管理",
+                  "topic2": "决策风险",
+                  "fullCompany": [
+                    "北京捷通华声科技股份有限公司",
+                    "厦门算能科技有限公司",
+                    "无锡海普存储科技有限公司",
+                    "福建省星汉智能科技有限公司"
+                  ],
+                  "ruleNo": "RE0203006",
+                  "ruleName": "重大合作/协议"
+                }
+              ],
+              "entInfo": [
+                {
+                  "area": {
+                    "province": "350000",
+                    "city": "350100",
+                    "district": "350112"
+                  },
+                  "entName": "福建省星汉智能科技有限公司",
+                  "formattedenttname": "福建省星汉智能科技有限公司",
+                  "isInTitle": "Y",
+                  "shortname": "星汉智能"
+                },
+                {
+                  "area": {
+                    "province": "110000",
+                    "city": "110100",
+                    "district": "110108"
+                  },
+                  "entName": "北京捷通华声科技股份有限公司",
+                  "formattedenttname": "北京捷通华声科技股份有限公司",
+                  "isInTitle": "N",
+                  "shortname": ""
+                },
+                {
+                  "area": {
+                    "province": "350000",
+                    "city": "350200",
+                    "district": "350213"
+                  },
+                  "entName": "厦门算能科技有限公司",
+                  "formattedenttname": "厦门算能科技有限公司",
+                  "isInTitle": "N",
+                  "shortname": ""
+                },
+                {
+                  "area": {
+                    "province": "350000",
+                    "city": "350100",
+                    "district": "350112"
+                  },
+                  "entName": "福建省大数据集团有限公司",
+                  "formattedenttname": "福建省大数据集团有限公司",
+                  "isInTitle": "N",
+                  "shortname": "福建省大数据集团"
+                },
+                {
+                  "area": {
+                    "province": "320000",
+                    "city": "320200",
+                    "district": "320214"
+                  },
+                  "entName": "无锡海普存储科技有限公司",
+                  "formattedenttname": "无锡海普存储科技有限公司",
+                  "isInTitle": "N",
+                  "shortname": ""
+                }
+              ],
+              "unicomModule": [],
+              "alias": [],
+              "entfullName": [
+                {
+                  "entName": "福建省星汉智能科技有限公司",
+                  "confidence": "1.0"
+                },
+                {
+                  "entName": "北京捷通华声科技股份有限公司",
+                  "confidence": "1.0"
+                },
+                {
+                  "entName": "厦门算能科技有限公司",
+                  "confidence": "1.0"
+                },
+                {
+                  "entName": "福建省大数据集团有限公司",
+                  "confidence": "1.0"
+                },
+                {
+                  "entName": "无锡海普存储科技有限公司",
+                  "confidence": "1.0"
+                }
+              ],
+              "category": "新闻,新闻媒体",
+              "importantEventsAbstract": "签约仪式上，福建省星汉智能科技有限公司与北京捷通华声科技股份有限公司、厦门算能科技有限公司、无锡海普存储科技有限公司及香港量子人工智能实验室签署了多项战略合作协议，协议涵盖人工智能创新应用合作项目、国产内存与NVMe盘合作项目以及闽港通AI算力服务项目等，旨在推动闽港合作以及人工智能技术的全面国产化和产品化。",
+              "poster": "天天值得买"
+            },
+            {
+              "sentiment": "中性",
+              "charCount": "261",
+              "articleId": "1674680770",
+              "siteName": "金融界",
+              "nerent": "无锡海普芯创科技有限公司,无锡海普,无锡海普存储科技有限公司,江苏银行无锡分行,香农芯创",
+              "similarNewsNum": "3",
+              "abstract": "近日，香农芯创控股子公司无锡海普芯创科技有限公司与关联方黄泽伟先生、彭红女士，为无锡海普存储科技有限公司向江苏银行无锡分行申请的人民币5000万元授信额度提供最高本金额5000万元的连带责任担保。本次担保事项在公司相关授权范围内。截至2026年4月30日，黄泽伟先生累计为公司合并报表范围内主体提供有效担保合同金额201.50亿元，彭红女士累计为193.99亿元。",
+              "title": "香农芯创：控股子公司及关联方黄泽伟、彭红为无锡海普5000万元授信提供连带责任担保",
+              "pubDate": "2026-04-30 18:24:06",
+              "url": "https://m.jrj.com.cn/madapter/finance/2026/04/30182456956257.shtml",
+              "importantEvents": [],
+              "articleRelaEnt": [
+                {
+                  "entName": "香农芯创科技股份有限公司",
+                  "relative": "1.0"
+                }
+              ],
+              "relData": [],
+              "isMainEnt": "否",
+              "ruleInfo": [],
+              "entInfo": [
+                {
+                  "area": {
+                    "province": "320000",
+                    "city": "320200",
+                    "district": "320214"
+                  },
+                  "entName": "无锡海普芯创科技有限公司",
+                  "formattedenttname": "无锡海普芯创科技有限公司",
+                  "isInTitle": "N",
+                  "shortname": ""
+                },
+                {
+                  "area": {
+                    "province": "340000",
+                    "city": "341800",
+                    "district": "341800"
+                  },
+                  "entName": "香农芯创科技股份有限公司",
+                  "formattedenttname": "香农芯创科技股份有限公司",
+                  "isInTitle": "Y",
+                  "shortname": "香农芯创"
+                },
+                {
+                  "area": {
+                    "province": "320000",
+                    "city": "320200",
+                    "district": "320214"
+                  },
+                  "entName": "无锡海普存储科技有限公司",
+                  "formattedenttname": "无锡海普存储科技有限公司",
+                  "isInTitle": "N",
+                  "shortname": ""
+                },
+                {
+                  "area": {
+                    "province": "320000",
+                    "city": "320200",
+                    "district": "320200"
+                  },
+                  "entName": "江苏银行股份有限公司无锡分行",
+                  "formattedenttname": "江苏银行股份有限公司无锡分行",
+                  "isInTitle": "N",
+                  "shortname": "江苏银行无锡分行"
+                }
+              ],
+              "unicomModule": [],
+              "alias": [],
+              "entfullName": [
+                {
+                  "entName": "无锡海普芯创科技有限公司",
+                  "confidence": "1.0"
+                },
+                {
+                  "entName": "香农芯创科技股份有限公司",
+                  "confidence": "1.0"
+                },
+                {
+                  "entName": "无锡海普存储科技有限公司",
+                  "confidence": "1.0"
+                },
+                {
+                  "entName": "江苏银行股份有限公司无锡分行",
+                  "confidence": "1.0"
+                }
+              ],
+              "category": "新闻,新闻媒体",
+              "importantEventsAbstract": "",
+              "poster": ""
+            },
+            {
+              "sentiment": "中性",
+              "charCount": "148",
+              "articleId": "1669073941",
+              "siteName": "中国基金报",
+              "nerent": "壁仞科技,聚隆景润,香农芯创,好达电子",
+              "similarNewsNum": "",
+              "abstract": "中国基金报4月23日电，香农芯创（300475.SZ）公告，公司董事会同意授权管理层择机出售全资子公司聚隆景润持有的好达电子0.47%股权（账面值721.80万元）及壁仞科技0.1678%股份（账面值6667万元），旨在盘活存量资产、聚焦半导体主业。交易不构成重大资产重组，后续进展将及时披露。",
+              "title": "香农芯创：授权处置好达电子、壁仞科技股权",
+              "pubDate": "2026-04-23 19:37:00",
+              "url": "https://app-web.chnfund.com/flash/202604/t20260423_4676084.html",
+              "importantEvents": [],
+              "articleRelaEnt": [
+                {
+                  "entName": "上海壁仞科技股份有限公司",
+                  "relative": "0.3333333333333333"
+                },
+                {
+                  "entName": "无锡市好达电子股份有限公司",
+                  "relative": "0.3333333333333333"
+                },
+                {
+                  "entName": "香农芯创科技股份有限公司",
+                  "relative": "0.3333333333333333"
+                }
+              ],
+              "relData": [],
+              "isMainEnt": "否",
+              "ruleInfo": [
+                {
+                  "topic1": "公司治理",
+                  "topic2": "股东层质量",
+                  "fullCompany": [
+                    "香农芯创科技股份有限公司"
+                  ],
+                  "ruleNo": "RE0102003",
+                  "ruleName": "股权变动"
+                }
+              ],
+              "entInfo": [
+                {
+                  "area": {
+                    "province": "310000",
+                    "city": "310100",
+                    "district": "310112"
+                  },
+                  "entName": "上海壁仞科技股份有限公司",
+                  "formattedenttname": "上海壁仞科技股份有限公司",
+                  "isInTitle": "Y",
+                  "shortname": "壁仞科技"
+                },
+                {
+                  "area": {
+                    "province": "320000",
+                    "city": "320200",
+                    "district": "320211"
+                  },
+                  "entName": "无锡市好达电子股份有限公司",
+                  "formattedenttname": "无锡市好达电子股份有限公司",
+                  "isInTitle": "Y",
+                  "shortname": "好达电子"
+                },
+                {
+                  "area": {
+                    "province": "340000",
+                    "city": "341800",
+                    "district": "341800"
+                  },
+                  "entName": "香农芯创科技股份有限公司",
+                  "formattedenttname": "香农芯创科技股份有限公司",
+                  "isInTitle": "Y",
+                  "shortname": "香农芯创"
+                },
+                {
+                  "area": {
+                    "province": "440000",
+                    "city": "440300",
+                    "district": "440305"
+                  },
+                  "entName": "深圳市聚隆景润科技有限公司",
+                  "formattedenttname": "深圳市聚隆景润科技有限公司",
+                  "isInTitle": "N",
+                  "shortname": "聚隆景润"
+                }
+              ],
+              "unicomModule": [],
+              "alias": [],
+              "entfullName": [
+                {
+                  "entName": "上海壁仞科技股份有限公司",
+                  "confidence": "1.0"
+                },
+                {
+                  "entName": "无锡市好达电子股份有限公司",
+                  "confidence": "1.0"
+                },
+                {
+                  "entName": "香农芯创科技股份有限公司",
+                  "confidence": "1.0"
+                },
+                {
+                  "entName": "深圳市聚隆景润科技有限公司",
+                  "confidence": "0.771059334278"
+                }
+              ],
+              "category": "新闻,APP",
+              "importantEventsAbstract": "",
+              "poster": ""
+            },
+            {
+              "sentiment": "中性",
+              "charCount": "495",
+              "articleId": "1652403231",
+              "siteName": "搜狐新闻",
+              "nerent": "海普芯创,无锡海普芯创,华夏银行股份有限公司无锡分行,香农芯创科技股份有限公司,无锡海普同创,无锡海普存储科技有限公司,香农芯创,无锡新联普,证券之星",
+              "similarNewsNum": "1",
+              "abstract": "该股当日开盘140.0元，最高146.66元，最低137.1元，成交额达28.29亿元，换手率为4.46%。香农芯创科技股份有限公司近日与华夏银行股份有限公司无锡分行签署《最高额保证合同》，为控股孙公司无锡海普存储科技有限公司提供最高本金金额为人民币1.28亿元的连带责任保证。",
+              "title": "香农芯创（300475）披露为控股孙公司提供担保的进展公告，3月27日股价下跌2.19%",
+              "pubDate": "2026-03-27 17:04:00",
+              "url": "https://www.sohu.com/a/1001925293_122121789",
+              "importantEvents": [],
+              "articleRelaEnt": [
+                {
+                  "entName": "香农芯创科技股份有限公司",
+                  "relative": "1.0"
+                }
+              ],
+              "relData": [],
+              "isMainEnt": "否",
+              "ruleInfo": [],
+              "entInfo": [
+                {
+                  "area": {
+                    "province": "320000",
+                    "city": "320200",
+                    "district": "320214"
+                  },
+                  "entName": "无锡海普芯创科技有限公司",
+                  "formattedenttname": "无锡海普芯创科技有限公司",
+                  "isInTitle": "N",
+                  "shortname": "海普芯创"
+                },
+                {
+                  "area": {
+                    "province": "320000",
+                    "city": "320200",
+                    "district": "320200"
+                  },
+                  "entName": "华夏银行股份有限公司无锡分行",
+                  "formattedenttname": "华夏银行股份有限公司无锡分行",
+                  "isInTitle": "N",
+                  "shortname": ""
+                },
+                {
+                  "area": {
+                    "province": "340000",
+                    "city": "341800",
+                    "district": "341800"
+                  },
+                  "entName": "香农芯创科技股份有限公司",
+                  "formattedenttname": "香农芯创科技股份有限公司",
+                  "isInTitle": "Y",
+                  "shortname": "香农芯创"
+                },
+                {
+                  "area": {
+                    "province": "320000",
+                    "city": "320200",
+                    "district": "320214"
+                  },
+                  "entName": "无锡新联普投资合伙企业（有限合伙）",
+                  "formattedenttname": "无锡新联普投资合伙企业有限合伙",
+                  "isInTitle": "N",
+                  "shortname": "无锡新联普"
+                },
+                {
+                  "area": {
+                    "province": "320000",
+                    "city": "320200",
+                    "district": "320214"
+                  },
+                  "entName": "无锡海普存储科技有限公司",
+                  "formattedenttname": "无锡海普存储科技有限公司",
+                  "isInTitle": "N",
+                  "shortname": ""
+                }
+              ],
+              "unicomModule": [],
+              "alias": [],
+              "entfullName": [
+                {
+                  "entName": "无锡海普芯创科技有限公司",
+                  "confidence": "0.715"
+                },
+                {
+                  "entName": "华夏银行股份有限公司无锡分行",
+                  "confidence": "1.0"
+                },
+                {
+                  "entName": "香农芯创科技股份有限公司",
+                  "confidence": "1.0"
+                },
+                {
+                  "entName": "无锡新联普投资合伙企业（有限合伙）",
+                  "confidence": "0.556787490845"
+                },
+                {
+                  "entName": "无锡海普存储科技有限公司",
+                  "confidence": "1.0"
+                }
+              ],
+              "category": "新闻,新闻媒体",
+              "importantEventsAbstract": "",
+              "poster": "证券之星基金"
+            }
+          ],
+          "relEntInfo": [
+            {
+              "minLevel": "0",
+              "nodeRole": "母公司",
+              "relType": "1",
+              "relEnt": "香农芯创科技股份有限公司"
+            },
+            {
+              "minLevel": "1",
+              "nodeRole": "控股股东",
+              "relType": "1",
+              "relEnt": "无锡海普芯创科技有限公司"
+            }
+          ]
+        }
+      ]
+    ],
+    "RiskPublicOpinion": [
+      [
+        {
+          "Rulename": "重大合作/协议",
+          "SerialNo": "1255472409",
+          "CollectionDate": "2026-05-22 16:35:28",
+          "Topic2": "决策风险",
+          "Topic1": "经营管理",
+          "Abstract": "签约仪式上，福建省星汉智能科技有限公司与北京捷通华声科技股份有限公司、厦门算能科技有限公司、无锡海普存储科技有限公司及香港量子人工智能实验室签署了多项战略合作协议，协议涵盖人工智能创新应用合作项目、国产内存与NVMe盘合作项目以及闽港通AI算力服务项目等，旨在推动闽港合作以及人工智能技术的全面国产化和产品化。",
+          "Title": "星汉智能多笔签约助推福建人工智能产业发展",
+          "Text": "5月23日，由福建省大数据集团承办的“人工智能与数据要素产业生态大会”在福州数字中国会展中心举行。大会聚焦“新要素、新技术、新模式”主题，围绕数据要素市场与数字生态培育展开，促成一批产业优质项目落地，这批项目将推动人工智能与数据要素在垂直行业中的应用与发展。\n签约仪式上，福建省星汉智能科技有限公司与北京捷通华声科技股份有限公司、厦门算能科技有限公司、无锡海普存储科技有限公司及香港量子人工智能实验室签署了多项战略合作协议，协议涵盖人工智能创新应用合作项目、国产内存与NVMe盘合作项目以及闽港通AI算力服务项目等，旨在推动闽港合作以及人工智能技术的全面国产化和产品化。\n据悉，所有签约项目均计划于近期启动，并预计在今年内逐步推进。这些合作项目将致力于三大方向：一是在本次大会已发布的国产AI大模型应用一体机系列产品的基础上，紧密结合市场需求，积极推进国产人工智能技术的深度创新与广泛应用，以助力人工智能产业生态持续升级与发展；二是积极探索数据中心高效存储解决方案，以满足日益增长的数据存储国产化和安全可控的需求；三是为通过算力服务推进闽港合作，在AI算力、算法方面实现更深入的融合，推动人工智能在多元场景下的创新应用，为行业数字化转型和高质量发展提供强大支持。\n本次大会的成功举办不仅标志着人工智能技术在实际应用中的进一步落地，也为各行业的转型升级提供了重要机遇。在星汉公司与各方的共同努力下，这些合作项目预计将为相关行业带来深远变革，为推动我国数字经济和新质生产力的持续、健康发展作出重要贡献。\n",
+          "RuleNo": "RE0203006",
+          "Sentiment": "正面",
+          "Url": "https://k.sina.cn/article_7857141524_1d452771401902s12k.html",
+          "Ruledesc": "企业或组织为了实现共同目标而与外部实体进行联合、协同的一种方式，包括对外与企业、政府、高校、研究机构等组织之间的合作",
+          "PubDate": "2026-05-22 15:53:39",
+          "Sitename": "新浪看点",
+          "Warninglevel": "低",
+          "ArticleId": "1689314381"
+        },
+        {
+          "Rulename": "重大合作/协议",
+          "SerialNo": "1089685604",
+          "CollectionDate": "2024-06-07 17:36:01",
+          "Topic2": "决策风险",
+          "Topic1": "经营管理",
+          "Abstract": "5月23日，由福建省大数据集团承办的“人工智能与数据要素产业生态大会”在福州数字中国会展中心举行。大会聚焦“新要素、新技术、新模式”主题，围绕数据要素市场与数字生态培育展开，促成一批产业优质项目落地，这批项目将推动人工智能与数据要素在垂直行业中的应用与发展。签约仪式上，福建省星汉智能科技有限公司与北京捷通华声科技股份有限公司、厦门算能科技有限公司、无锡海普存储科技有限公司及香港量子人工智能实验室签署了多项战略合作协议，协议涵盖人工智能创新应用合作项目、国产内存与NVMe盘合作项目以及闽港通AI算力服务项目等，旨在推动闽港合作以及人工智能技术的全面国产化和产品化。",
+          "Title": "星汉智能多笔签约助推福建人工智能产业发展",
+          "Text": "原标题：星汉智能多笔签约助推福建人工智能产业发展\n5月23日，由福建省大数据集团承办的“人工智能与数据要素产业生态大会”在福州数字中国会展中心举行。大会聚焦“新要素、新技术、新模式”主题，围绕数据要素市场与数字生态培育展开，促成一批产业优质项目落地，这批项目将推动人工智能与数据要素在垂直行业中的应用与发展。\n签约仪式上，福建省星汉智能科技有限公司与北京捷通华声科技股份有限公司、厦门算能科技有限公司、无锡海普存储科技有限公司及香港量子人工智能实验室签署了多项战略合作协议，协议涵盖人工智能创新应用合作项目、国产内存与NVMe盘合作项目以及闽港通AI算力服务项目等，旨在推动闽港合作以及人工智能技术的全面国产化和产品化。\n据悉，所有签约项目均计划于近期启动，并预计在今年内逐步推进。这些合作项目将致力于三大方向：一是在本次大会已发布的国产AI大模型应用一体机系列产品的基础上，紧密结合市场需求，积极推进国产人工智能技术的深度创新与广泛应用，以助力人工智能产业生态持续升级与发展；二是积极探索数据中心高效存储解决方案，以满足日益增长的数据存储国产化和安全可控的需求；三是为通过算力服务推进闽港合作，在AI算力、算法方面实现更深入的融合，推动人工智能在多元场景下的创新应用，为行业数字化转型和高质量发展提供强大支持。\n本次大会的成功举办不仅标志着人工智能技术在实际应用中的进一步落地，也为各行业的转型升级提供了重要机遇。在星汉公司与各方的共同努力下，这些合作项目预计将为相关行业带来深远变革，为推动我国数字经济和新质生产力的持续、健康发展作出重要贡献。\n（陈诚）\n",
+          "RuleNo": "RE0203006",
+          "Sentiment": "正面",
+          "Url": "https://society.yunnan.cn/system/2024/06/07/033091129.shtml",
+          "Ruledesc": "企业或组织为了实现共同目标而与外部实体进行联合、协同的一种方式，包括对外与企业、政府、高校、研究机构等组织之间的合作",
+          "PubDate": "2024-06-07 17:30:06",
+          "Sitename": "云南网",
+          "Warninglevel": "低",
+          "ArticleId": "1252165492"
+        }
+      ]
+    ]
+  }
+}

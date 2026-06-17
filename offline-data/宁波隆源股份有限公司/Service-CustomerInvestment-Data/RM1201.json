@@ -1,0 +1,74 @@
+{
+  "key": "9b6a4dcecbdc845fc024df39137ee128",
+  "prompt": "",
+  "inputIndexContent": {
+    "EnterpriseInfo": [
+      [
+        {
+          "entInvItemList": [
+            {
+              "relEntName": "宁波隆跃科技有限公司",
+              "regNo": "330283000359608",
+              "cancelDate": "",
+              "conForm": "货币",
+              "binvAmount": "3",
+              "revokeDate": "",
+              "frName": "林国栋",
+              "entType": "有限责任公司（自然人投资或控股的法人独资）",
+              "regOrgCode": "330213",
+              "subConAm": "24000",
+              "esDate": "2022-08-04",
+              "creditCode": "91330283MABW11KH0H",
+              "regCapCur": "人民币元",
+              "subConCur": "人民币元",
+              "regOrg": "宁波市奉化区市场监督管理局",
+              "regCap": "24000",
+              "entStatus": "存续",
+              "fundedRatio": "100.0000%"
+            },
+            {
+              "relEntName": "浙江莱博精密科技有限公司",
+              "regNo": "330206000738444",
+              "cancelDate": "2022-01-18",
+              "conForm": "",
+              "binvAmount": "3",
+              "revokeDate": "",
+              "frName": "林国栋",
+              "entType": "有限责任公司（自然人投资或控股的法人独资）",
+              "regOrgCode": "330206",
+              "subConAm": "1000",
+              "esDate": "2021-05-24",
+              "creditCode": "91330206MA2J73HU84",
+              "regCapCur": "人民币元",
+              "subConCur": "人民币元",
+              "regOrg": "宁波市北仑区市场监督管理局",
+              "regCap": "1000",
+              "entStatus": "注销",
+              "fundedRatio": "100.0000%"
+            },
+            {
+              "relEntName": "宁波嘉隆新能源有限公司",
+              "regNo": "330206000790115",
+              "cancelDate": "",
+              "conForm": "货币",
+              "binvAmount": "3",
+              "revokeDate": "",
+              "frName": "林国栋",
+              "entType": "其他有限责任公司",
+              "regOrgCode": "330206",
+              "subConAm": "90",
+              "esDate": "2022-05-11",
+              "creditCode": "91330206MABLX4YN1H",
+              "regCapCur": "人民币元",
+              "subConCur": "人民币元",
+              "regOrg": "宁波市北仑区市场监督管理局",
+              "regCap": "150",
+              "entStatus": "存续",
+              "fundedRatio": "60.0000%"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+}

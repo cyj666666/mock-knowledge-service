@@ -1,0 +1,138 @@
+{
+  "key": "1c2e750a15dcbd27011461dcc93fd441",
+  "prompt": "",
+  "inputIndexContent": {
+    "EnterpriseInfo": [
+      [
+        {
+          "basicList": [
+            {
+              "regNo": "330200400030029",
+              "cancelDate": "",
+              "townCode": "",
+              "revokeDate": "",
+              "regOrgDistrict": "北仑区",
+              "frName": "林国栋",
+              "industryCode": "3670",
+              "regOrgCode": "330206",
+              "creditCode": "91330206786792205B",
+              "regCapCur": "人民币元",
+              "empNum": "779",
+              "orgCode": "786792205",
+              "regOrgCity": "宁波市",
+              "enterpriseStatus": "存续",
+              "regCap": "5100",
+              "industryPhyCode": "C",
+              "enterpriseName": "宁波隆源股份有限公司",
+              "isBoard": "是",
+              "email": "longyuan@nblongyuan.com",
+              "industryName": "汽车零部件及配件制造",
+              "industryPhyName": "制造业",
+              "holdUnit": "",
+              "address": "浙江省宁波市北仑区大碶官塘河路58号",
+              "lastAnnCheckDate": "2026-05-06",
+              "town": "",
+              "openTo": "9999-09-09",
+              "enterpriseEngName": "Ningbo LONG Yuan PRECISION Machinery Co., Ltd.",
+              "recCap": "5100",
+              "oprPlace": "",
+              "entScale": "中型",
+              "telephone": "0574-86106358",
+              "abuItem": "一般项目：汽车零部件及配件制造；汽车零部件研发；汽车零配件零售；汽车零配件批发；机械零件、零部件加工；机械零件、零部件销售；通用零部件制造；新能源汽车电附件销售；模具制造；模具销售；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；机械设备租赁；软件开发；技术进出口；货物进出口；进出口代理(除依法须经批准的项目外，凭营业执照依法自主开展经营活动)。",
+              "apprDate": "2023-10-12",
+              "enterpriseType": "股份有限公司(非上市、自然人投资或控股)",
+              "insurePerCnt": "779",
+              "openFrom": "2006-07-04",
+              "esDate": "2006-07-04",
+              "anCheYear": "2025",
+              "operateScope": "一般项目：汽车零部件及配件制造；汽车零部件研发；汽车零配件零售；汽车零配件批发；机械零件、零部件加工；机械零件、零部件销售；通用零部件制造；新能源汽车电附件销售；模具制造；模具销售；技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；机械设备租赁；软件开发；技术进出口；货物进出口；进出口代理(除依法须经批准的项目外，凭营业执照依法自主开展经营活动)。",
+              "regOrg": "宁波市北仑区市场监督管理局",
+              "addrDistrict": "330206",
+              "regOrgProvince": "浙江省",
+              "enterpriseHisName": "宁波隆源精密机械有限公司"
+            }
+          ],
+          "yearReportWebSiteInfoList": [
+            {
+              "webType": "网站",
+              "webAddress": "http://www.nblongyuan.com",
+              "webName": "http://www.nblongyuan.com",
+              "yearReportId": "6e0e4de0f20e86c2282fa03833ed4405",
+              "publishStatus": "公示中"
+            },
+            {
+              "webType": "网店",
+              "webAddress": "http://www.nblongyuan.com",
+              "webName": "宁波隆源精密机械有限公司",
+              "yearReportId": "846458d67705a1c8556c845d036b4311",
+              "publishStatus": "公示中"
+            },
+            {
+              "webType": "网站",
+              "webAddress": "HTTP://WWW.NBLONGYUAN.COM",
+              "webName": "HTTP://WWW.NBLONGYUAN.COM",
+              "yearReportId": "9490a431e7fa6cafec8e9244bc432ba7",
+              "publishStatus": "公示中"
+            },
+            {
+              "webType": "网页",
+              "webAddress": "http://www.nblongyuan.com",
+              "webName": "http://www.nblongyuan.com",
+              "yearReportId": "1f3162ef8f9490855cc83d00b5aec06a",
+              "publishStatus": "公示中"
+            },
+            {
+              "webType": "网站",
+              "webAddress": "http://www.nblongyuan.com",
+              "webName": "http://www.nblongyuan.com",
+              "yearReportId": "8917de93729ad6d593523a409238aeb4",
+              "publishStatus": "公示中"
+            },
+            {
+              "webType": "网站",
+              "webAddress": "HTTP://WWW.NBLONGYUAN.COM",
+              "webName": "HTTP://WWW.NBLONGYUAN.COM",
+              "yearReportId": "b02b4831887a981f5e2c1abb0e4fd016",
+              "publishStatus": "公示中"
+            },
+            {
+              "webType": "网站",
+              "webAddress": "HTTP://WWW.NBLONGYUAN.COM",
+              "webName": "HTTP://WWW.NBLONGYUAN.COM",
+              "yearReportId": "f7624620d0e818848de01d4b5fa1146e",
+              "publishStatus": "公示中"
+            },
+            {
+              "webType": "网站",
+              "webAddress": "HTTP://WWW.NBLONGYUAN.COM",
+              "webName": "HTTP://NBLONGYUAN.COM",
+              "yearReportId": "44a4948bd3c89fe84ec34812376b5370",
+              "publishStatus": "公示中"
+            },
+            {
+              "webType": "网站",
+              "webAddress": "HTTP://WWW.NBLONGYUAN.COM",
+              "webName": "HTTP://WWW.NBLONGYUAN.COM",
+              "yearReportId": "9b1eabc38083a431b066b9250b9de7fa",
+              "publishStatus": "公示中"
+            },
+            {
+              "webType": "网页",
+              "webAddress": "HTTP://WWW.NBLONGYUAN.COM",
+              "webName": "宁波隆源精密机械有限公司",
+              "yearReportId": "9996900f6f630fd2d6ef36da4b0080a8",
+              "publishStatus": "公示中"
+            },
+            {
+              "webType": "网站",
+              "webAddress": "HTTP://WWW.NBLONGYUAN.COM",
+              "webName": "HTTP://NBLONGYUAN.COM",
+              "yearReportId": "e0e8e2c41ffe572b08ff8aa367303d57",
+              "publishStatus": "公示中"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+}

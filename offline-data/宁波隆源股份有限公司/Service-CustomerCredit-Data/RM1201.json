@@ -1,0 +1,183 @@
+{
+  "key": "7444ebb70e9d7f7130e79ee06e78c055",
+  "prompt": "",
+  "inputIndexContent": {
+    "JudicialNotice": [
+      [
+        {
+          "liquidation": [],
+          "bankrupt": []
+        }
+      ]
+    ],
+    "ExecuteeInfo": [
+      []
+    ],
+    "DishonestyExecutee": [
+      []
+    ],
+    "ConsumptionLimit": [
+      []
+    ],
+    "AdminPenalty": [
+      []
+    ],
+    "EnterpriseInfo": [
+      [
+        {
+          "illegalityDiscreditList": [],
+          "exceptionList": []
+        }
+      ]
+    ],
+    "JudicialSeizure": [
+      []
+    ],
+    "TaxCreditRank": [
+      [
+        {
+          "REAMRK": "",
+          "REGEDITTYPE": "企业",
+          "STATE": "",
+          "ASSESSDATE": "",
+          "ASSESSGRADE": "A",
+          "IDENTIFICATION": "91330206786792205B",
+          "TAXPAYERNAME": "宁波隆源股份有限公司",
+          "LEGALREPRESENT": "",
+          "CITY": "宁波市",
+          "YEAR": "2024",
+          "SERIALNO": "T2025060600270716",
+          "ADDRESS": "",
+          "COLLECTIONDATE": "2025/06/06 11:55:09",
+          "PROVINCE": "浙江省",
+          "TAXAUTHORITY": "国家税务总局宁波市电子税务局"
+        },
+        {
+          "REAMRK": "",
+          "REGEDITTYPE": "企业",
+          "STATE": "",
+          "ASSESSDATE": "2022/12/31",
+          "ASSESSGRADE": "A",
+          "IDENTIFICATION": "——",
+          "TAXPAYERNAME": "宁波隆源股份有限公司",
+          "LEGALREPRESENT": "",
+          "CITY": "宁波市",
+          "YEAR": "2022",
+          "SERIALNO": "T2023071700168533b3f57463ea8c",
+          "ADDRESS": "",
+          "COLLECTIONDATE": "2023/07/17 09:18:29",
+          "PROVINCE": "浙江省",
+          "TAXAUTHORITY": "国家税务总局宁波市电子税务局"
+        },
+        {
+          "REAMRK": "",
+          "REGEDITTYPE": "",
+          "STATE": "",
+          "ASSESSDATE": "2020/12/31",
+          "ASSESSGRADE": "A",
+          "IDENTIFICATION": "91330206786792205B",
+          "TAXPAYERNAME": "宁波隆源股份有限公司",
+          "LEGALREPRESENT": "",
+          "CITY": "",
+          "YEAR": "2020",
+          "SERIALNO": "TAX45440063454eb6b22c64ad3715",
+          "ADDRESS": "",
+          "COLLECTIONDATE": "2022/08/18 11:33:22",
+          "PROVINCE": "",
+          "TAXAUTHORITY": ""
+        },
+        {
+          "REAMRK": "",
+          "REGEDITTYPE": "",
+          "STATE": "",
+          "ASSESSDATE": "2019/12/31",
+          "ASSESSGRADE": "A",
+          "IDENTIFICATION": "91330206786792205B",
+          "TAXPAYERNAME": "宁波隆源股份有限公司",
+          "LEGALREPRESENT": "",
+          "CITY": "",
+          "YEAR": "2019",
+          "SERIALNO": "Tax1660668650461880394",
+          "ADDRESS": "",
+          "COLLECTIONDATE": "2022/08/17 00:50:55",
+          "PROVINCE": "",
+          "TAXAUTHORITY": ""
+        },
+        {
+          "REAMRK": "",
+          "REGEDITTYPE": "",
+          "STATE": "",
+          "ASSESSDATE": "2018/12/31",
+          "ASSESSGRADE": "A",
+          "IDENTIFICATION": "91330206786792205B",
+          "TAXPAYERNAME": "宁波隆源股份有限公司",
+          "LEGALREPRESENT": "",
+          "CITY": "",
+          "YEAR": "2018",
+          "SERIALNO": "TAXEN485784a993480b9f2c03774589",
+          "ADDRESS": "",
+          "COLLECTIONDATE": "2022/08/18 11:02:01",
+          "PROVINCE": "",
+          "TAXAUTHORITY": ""
+        },
+        {
+          "REAMRK": "",
+          "REGEDITTYPE": "",
+          "STATE": "",
+          "ASSESSDATE": "2017/12/31",
+          "ASSESSGRADE": "A",
+          "IDENTIFICATION": "91330206786792205B",
+          "TAXPAYERNAME": "宁波隆源股份有限公司",
+          "LEGALREPRESENT": "",
+          "CITY": "",
+          "YEAR": "2017",
+          "SERIALNO": "TAX09078204134ad18951233a5379",
+          "ADDRESS": "",
+          "COLLECTIONDATE": "2022/08/18 11:23:01",
+          "PROVINCE": "",
+          "TAXAUTHORITY": ""
+        },
+        {
+          "REAMRK": "",
+          "REGEDITTYPE": "",
+          "STATE": "",
+          "ASSESSDATE": "2015/12/31",
+          "ASSESSGRADE": "A",
+          "IDENTIFICATION": "91330206786792205B",
+          "TAXPAYERNAME": "宁波隆源股份有限公司",
+          "LEGALREPRESENT": "",
+          "CITY": "",
+          "YEAR": "2015",
+          "SERIALNO": "TAXEN6521571497371735101",
+          "ADDRESS": "",
+          "COLLECTIONDATE": "2022/08/18 11:29:21",
+          "PROVINCE": "",
+          "TAXAUTHORITY": ""
+        },
+        {
+          "REAMRK": "",
+          "REGEDITTYPE": "",
+          "STATE": "",
+          "ASSESSDATE": "2014/12/31",
+          "ASSESSGRADE": "A",
+          "IDENTIFICATION": "330206786792205",
+          "TAXPAYERNAME": "宁波隆源股份有限公司",
+          "LEGALREPRESENT": "",
+          "CITY": "",
+          "YEAR": "2014",
+          "SERIALNO": "TAXEN9604451498604713797",
+          "ADDRESS": "",
+          "COLLECTIONDATE": "2022/08/17 03:12:28",
+          "PROVINCE": "",
+          "TAXAUTHORITY": ""
+        }
+      ]
+    ],
+    "CustomsRecord": [
+      []
+    ],
+    "RiskBlacklist": [
+      []
+    ]
+  }
+}

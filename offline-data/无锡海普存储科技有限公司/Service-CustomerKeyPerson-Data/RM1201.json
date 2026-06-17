@@ -1,0 +1,64 @@
+{
+  "key": "fdc519e32781d6fc2e24d412f268a86b",
+  "prompt": "",
+  "inputIndexContent": {
+    "EnterpriseInfo": [
+      [
+        {
+          "alterList": [
+            {
+              "altItem": "负责人变更（法定代表人、负责人、首席代表、合伙事务执行人等变更）",
+              "altBe": "苏欣",
+              "altAf": "彭红",
+              "altItemType": "法定代表人信息变更",
+              "altDate": "2026-04-07"
+            },
+            {
+              "altItem": "投资人变更（包括出资额、出资方式、出资日期、投资人名称等）",
+              "altBe": "深圳海普存储科技有限公司",
+              "altAf": "无锡海普芯创科技有限公司",
+              "altItemType": "股东信息变更",
+              "altDate": "2024-08-28"
+            },
+            {
+              "altItem": "注册资本变更（注册资金、资金数额等变更）",
+              "altBe": "2000.000000",
+              "altAf": "7000.000000",
+              "altItemType": "注册资本变更",
+              "altDate": "2024-08-28"
+            }
+          ],
+          "personList": [
+            {
+              "recentInfoSource": "businessUpstreamNotice",
+              "debtStockNotice": [],
+              "businessUpstreamNotice": [
+                {
+                  "isBoardMember": "否",
+                  "isFrName": "0",
+                  "name": "邬宇进",
+                  "personAmount": "2",
+                  "position": "监事",
+                  "enterpriseName": "无锡海普存储科技有限公司",
+                  "apprDate": "2026-04-07"
+                },
+                {
+                  "isBoardMember": "否",
+                  "isFrName": "1",
+                  "name": "彭红",
+                  "personAmount": "2",
+                  "position": "董事",
+                  "enterpriseName": "无锡海普存储科技有限公司",
+                  "apprDate": "2026-04-07"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    ],
+    "ExecutiveResume": [
+      []
+    ]
+  }
+}

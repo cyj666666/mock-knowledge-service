@@ -1,0 +1,61 @@
+{
+  "key": "b258669202d48bda754d58c7d0509b11",
+  "prompt": "",
+  "inputIndexContent": {
+    "FinancialReportList": [
+      [
+        {
+          "combineType": "合并",
+          "entName": "宁波隆源股份有限公司",
+          "reportSourceType": "一季度报告",
+          "dataType": "调整后",
+          "combineTypeCode": "001",
+          "reportTimeType": "年度报告",
+          "dataAjustType": "最新",
+          "entType": "1",
+          "unit": "元",
+          "reportDate": "2025-12-31",
+          "entCode": "10000437194",
+          "reportSourceTypeCode": "006001",
+          "reportTimeTypeCode": "001",
+          "currency": "CNY",
+          "rowKey": "ddde599fe1520a479546789e48d811ce20251231001001002002CNY"
+        },
+        {
+          "combineType": "合并",
+          "entName": "宁波隆源股份有限公司",
+          "reportSourceType": "年度报告",
+          "dataType": "调整后",
+          "combineTypeCode": "001",
+          "reportTimeType": "年度报告",
+          "dataAjustType": "最新",
+          "entType": "1",
+          "unit": "元",
+          "reportDate": "2024-12-31",
+          "entCode": "10000437194",
+          "reportSourceTypeCode": "006004",
+          "reportTimeTypeCode": "001",
+          "currency": "CNY",
+          "rowKey": "ddde599fe1520a479546789e48d811ce20241231001001002002CNY"
+        },
+        {
+          "combineType": "合并",
+          "entName": "宁波隆源股份有限公司",
+          "reportSourceType": "招股说明书",
+          "dataType": "调整后",
+          "combineTypeCode": "001",
+          "reportTimeType": "年度报告",
+          "dataAjustType": "最新",
+          "entType": "1",
+          "unit": "元",
+          "reportDate": "2023-12-31",
+          "entCode": "10000437194",
+          "reportSourceTypeCode": "003",
+          "reportTimeTypeCode": "001",
+          "currency": "CNY",
+          "rowKey": "ddde599fe1520a479546789e48d811ce20231231001001002002CNY"
+        }
+      ]
+    ]
+  }
+}

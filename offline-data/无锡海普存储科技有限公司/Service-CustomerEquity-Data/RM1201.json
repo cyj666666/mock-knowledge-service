@@ -1,0 +1,225 @@
+{
+  "key": "b2cc9736a2233dc71a20356ba2b4dee6",
+  "prompt": "",
+  "inputIndexContent": {
+    "EnterpriseInfo": [
+      [
+        {
+          "justiceDetailList": [],
+          "shareholderList": [
+            {
+              "regularNotice": [],
+              "annualReports": [
+                {
+                  "subConDate": "2024-09-30",
+                  "certType": "统一社会信用代码证",
+                  "certId": "91320214MADPK9AE5D",
+                  "yearReport": "2025",
+                  "subConAm": "7000",
+                  "acConDate": "2024-09-06",
+                  "subConForm": "货币,股权",
+                  "acConForm": "货币,股权",
+                  "shareholderType": "企业股东",
+                  "acConAm": "7000",
+                  "latestReportDate": "2026-06-03",
+                  "shareHDName": "无锡海普芯创科技有限公司",
+                  "investCur": "人民币元",
+                  "actualInvestCur": "人民币元",
+                  "fundedRatio": "100.0000%"
+                }
+              ],
+              "recentInfoSource": "businessUpstreamNotice",
+              "businessUpstreamNotice": [
+                {
+                  "subConDate": "2025-09-30",
+                  "certType": "",
+                  "actualInvestAmt": "7000",
+                  "publishDate": "2024-08-28",
+                  "certId": "",
+                  "subConAm": "7000",
+                  "actualInvestType": "货币、股权",
+                  "subConCur": "人民币元",
+                  "subConForm": "货币",
+                  "actualInvestDate": "2024-09-06",
+                  "actualInvestRatio": "",
+                  "shareholderType": "企业股东",
+                  "shareHDName": "无锡海普芯创科技有限公司",
+                  "actualInvestCur": "人民币元",
+                  "fundedRatio": "100.0000%"
+                }
+              ]
+            }
+          ],
+          "alterList": [
+            {
+              "altItem": "负责人变更（法定代表人、负责人、首席代表、合伙事务执行人等变更）",
+              "altBe": "苏欣",
+              "altAf": "彭红",
+              "altItemType": "法定代表人信息变更",
+              "altDate": "2026-04-07"
+            },
+            {
+              "altItem": "投资人变更（包括出资额、出资方式、出资日期、投资人名称等）",
+              "altBe": "深圳海普存储科技有限公司",
+              "altAf": "无锡海普芯创科技有限公司",
+              "altItemType": "股东信息变更",
+              "altDate": "2024-08-28"
+            },
+            {
+              "altItem": "注册资本变更（注册资金、资金数额等变更）",
+              "altBe": "2000.000000",
+              "altAf": "7000.000000",
+              "altItemType": "注册资本变更",
+              "altDate": "2024-08-28"
+            }
+          ],
+          "stockPawnList": []
+        }
+      ]
+    ],
+    "ActualController": [
+      [
+        {
+          "entName": "无锡海普存储科技有限公司",
+          "controllerData": [
+            {
+              "levelCount": "3,3,4",
+              "controllerType": "个人",
+              "paths": [
+                [
+                  {
+                    "nodeName": "无锡海普芯创科技有限公司",
+                    "entType": "企业",
+                    "level": "1",
+                    "aimRatio": "100.0%",
+                    "nodeType": "企业",
+                    "directFundedRatio": "100.0%"
+                  },
+                  {
+                    "nodeName": "无锡新联普投资合伙企业（有限合伙）",
+                    "entType": "合伙企业",
+                    "level": "2",
+                    "aimRatio": "17.0%",
+                    "nodeType": "企业",
+                    "directFundedRatio": "17.0%"
+                  },
+                  {
+                    "nodeName": "黄泽伟",
+                    "entType": "",
+                    "level": "3",
+                    "aimRatio": "16.014%",
+                    "nodeType": "个人",
+                    "directFundedRatio": "94.2%"
+                  }
+                ],
+                [
+                  {
+                    "nodeName": "无锡海普芯创科技有限公司",
+                    "entType": "企业",
+                    "level": "1",
+                    "aimRatio": "100.0%",
+                    "nodeType": "企业",
+                    "directFundedRatio": "100.0%"
+                  },
+                  {
+                    "nodeName": "香农芯创科技股份有限公司",
+                    "entType": "企业",
+                    "level": "2",
+                    "aimRatio": "41.0%",
+                    "nodeType": "企业",
+                    "directFundedRatio": "41.0%"
+                  },
+                  {
+                    "nodeName": "黄泽伟",
+                    "entType": "",
+                    "level": "3",
+                    "aimRatio": "2.1976%",
+                    "nodeType": "个人",
+                    "directFundedRatio": "5.36%"
+                  }
+                ],
+                [
+                  {
+                    "nodeName": "无锡海普芯创科技有限公司",
+                    "entType": "企业",
+                    "level": "1",
+                    "aimRatio": "100.0%",
+                    "nodeType": "企业",
+                    "directFundedRatio": "100.0%"
+                  },
+                  {
+                    "nodeName": "香农芯创科技股份有限公司",
+                    "entType": "企业",
+                    "level": "2",
+                    "aimRatio": "41.0%",
+                    "nodeType": "企业",
+                    "directFundedRatio": "41.0%"
+                  },
+                  {
+                    "nodeName": "深圳新联普投资合伙企业（有限合伙）",
+                    "entType": "合伙企业",
+                    "level": "3",
+                    "aimRatio": "2.0172%",
+                    "nodeType": "企业",
+                    "directFundedRatio": "4.92%"
+                  },
+                  {
+                    "nodeName": "黄泽伟",
+                    "entType": "",
+                    "level": "4",
+                    "aimRatio": "1.2103%",
+                    "nodeType": "个人",
+                    "directFundedRatio": "60.0%"
+                  }
+                ]
+              ],
+              "controllerName": "黄泽伟",
+              "finalRatio": "19.4219%",
+              "pathCount": "3"
+            }
+          ]
+        }
+      ]
+    ],
+    "UltimateBeneficiary": [
+      [
+        {
+          "inv": [
+            {
+              "FINALENTNAME": "彭红",
+              "POSITION": "法人",
+              "FINALACCONAM": "",
+              "CAPITALCHAIN": "彭红 -> 无锡海普存储科技有限公司",
+              "FINALENTTYPE": "4",
+              "REASON": "未能穿透识别出拥有超过25%公司股权的自然人股东，将负责日常经营管理的人员视为受益所有人",
+              "FINALSUBCONAM": "",
+              "FINALRATIO": ""
+            }
+          ],
+          "node": {
+            "name": "无锡海普存储科技有限公司",
+            "subnode": [
+              {
+                "conprop": "",
+                "address": "",
+                "level": 1,
+                "certype": "",
+                "idcard": "",
+                "name": "彭红",
+                "real_conprop": "",
+                "position": "法人",
+                "subconam": "",
+                "subnode": [],
+                "tags": "4"
+              }
+            ],
+            "tags": "1"
+          },
+          "creditCode": "91320214MACRCQQJ0N",
+          "entName": "无锡海普存储科技有限公司",
+          "frName": "彭红"
+        }
+      ]
+    ]
+  }
+}

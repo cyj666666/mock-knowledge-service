@@ -1,0 +1,93 @@
+{
+  "key": "d0ae0430f5354de44cdcc9e51aaf66c8",
+  "prompt": "",
+  "inputIndexContent": {
+    "BiddingInfo": [
+      [
+        {
+          "biddingInfo": []
+        }
+      ]
+    ],
+    "ConstructionProject": [
+      []
+    ],
+    "EnterpriseInfo": [
+      [
+        {
+          "yearReportSocSecList": [
+            {
+              "soPension": "11人",
+              "totalPaymentSoMedical": "企业选择不公示",
+              "totalPaymentSoJobInjury": "企业选择不公示",
+              "unpaidSocialinsSoJobInjury": "企业选择不公示",
+              "yearReportId": "8f461fcb6a5061e13177f4caa7f4d165",
+              "soBirth": "11人",
+              "soUnemploy": "11人",
+              "soJobInjury": "11人",
+              "totalPaymentSoPension": "企业选择不公示",
+              "unpaidSocialinsSoUnemploy": "企业选择不公示",
+              "totalWagesSoBirth": "企业选择不公示",
+              "unpaidSocialinsSoMedical": "企业选择不公示",
+              "unpaidSocialinsSoPension": "企业选择不公示",
+              "totalWagesSoPension": "企业选择不公示",
+              "totalWagesSoMedical": "企业选择不公示",
+              "unpaidSocialinsSoBirth": "企业选择不公示",
+              "soMedical": "11人",
+              "totalPaymentSoBirth": "企业选择不公示",
+              "totalWagesSoUnemploy": "企业选择不公示",
+              "totalWagesSoJobInjury": "企业选择不公示",
+              "totalPaymentSoUnemploy": "企业选择不公示"
+            },
+            {
+              "soPension": "20人",
+              "totalPaymentSoMedical": "企业选择不公示",
+              "totalPaymentSoJobInjury": "企业选择不公示",
+              "unpaidSocialinsSoJobInjury": "企业选择不公示",
+              "yearReportId": "d5b717103f721032da49ba8b1e804764",
+              "soBirth": "20人",
+              "soUnemploy": "20人",
+              "soJobInjury": "20人",
+              "totalPaymentSoPension": "企业选择不公示",
+              "unpaidSocialinsSoUnemploy": "企业选择不公示",
+              "totalWagesSoBirth": "企业选择不公示",
+              "unpaidSocialinsSoMedical": "企业选择不公示",
+              "unpaidSocialinsSoPension": "企业选择不公示",
+              "totalWagesSoPension": "企业选择不公示",
+              "totalWagesSoMedical": "企业选择不公示",
+              "unpaidSocialinsSoBirth": "企业选择不公示",
+              "soMedical": "20人",
+              "totalPaymentSoBirth": "企业选择不公示",
+              "totalWagesSoUnemploy": "企业选择不公示",
+              "totalWagesSoJobInjury": "企业选择不公示",
+              "totalPaymentSoUnemploy": "企业选择不公示"
+            },
+            {
+              "soPension": "22人",
+              "totalPaymentSoMedical": "企业选择不公示",
+              "totalPaymentSoJobInjury": "企业选择不公示",
+              "unpaidSocialinsSoJobInjury": "企业选择不公示",
+              "yearReportId": "41c51d28f4705f5dc6b87de6a258b375",
+              "soBirth": "22人",
+              "soUnemploy": "22人",
+              "soJobInjury": "22人",
+              "totalPaymentSoPension": "企业选择不公示",
+              "unpaidSocialinsSoUnemploy": "企业选择不公示",
+              "totalWagesSoBirth": "企业选择不公示",
+              "unpaidSocialinsSoMedical": "企业选择不公示",
+              "unpaidSocialinsSoPension": "企业选择不公示",
+              "totalWagesSoPension": "企业选择不公示",
+              "totalWagesSoMedical": "企业选择不公示",
+              "unpaidSocialinsSoBirth": "企业选择不公示",
+              "soMedical": "22人",
+              "totalPaymentSoBirth": "企业选择不公示",
+              "totalWagesSoUnemploy": "企业选择不公示",
+              "totalWagesSoJobInjury": "企业选择不公示",
+              "totalPaymentSoUnemploy": "企业选择不公示"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+}
